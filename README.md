@@ -41,3 +41,7 @@ If $\Delta \neq 0$, the transaction corridor is instantly frozen, triggering an 
 ### 6. Finance & Insurance Corridor (`/corridors/finance`)
 * **Target Systems:** Core Banking Ledgers <-> External Payment Service Providers (PSD2 APIs)
 * **Objective:** Enforcing the absolute law of double-entry bookkeeping at the network perimeter. Prevents floating balances and DNB audit failures during external provider timeouts through immediate in-memory micro-rollbacks.
+
+### 7. Digital Providers & Tech Corridor (`/corridors/tech`)
+* **Target Systems:** Cloud API Gateways <-> Central Billing Ledgers
+* **Objective:** Eliminating infrastructure provisioning drift and preventing unmetered resource allocation or unauthorized service denial during central financial downtime.
