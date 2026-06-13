@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: vard-network-perimeter
+spec:
+  containers:
+  - name: vard-governor-engine
+    image: alpine:latest
+    resources:
+      limits:
+        memory: 3820Mi
+    volumeMounts:
+    - name: audit-trail
+      mountPath: /mnt
+  volumes:
+  - name: audit-trail
+    hostPath:
+      path: ./corridors
+
