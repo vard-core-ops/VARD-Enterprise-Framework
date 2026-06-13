@@ -14344,3 +14344,16475 @@
 * **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
 * **Compliance:** NIS2 / DORA Secure Core Status validated.
 ---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1794
+* **Asset:** Container  (Waybill: WB-15317-NL)
+* **Timestamp:** 2026-06-13 19:40:54.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1795
+* **Asset:** Container  (Waybill: WB-43554-NL)
+* **Timestamp:** 2026-06-13 19:40:54.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1796
+* **Asset:** Container  (Waybill: WB-24947-NL)
+* **Timestamp:** 2026-06-13 19:40:54.
+* **TOS Location State:** Bay Slot 610
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1797
+* **Asset:** Container  (Waybill: WB-98615-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1798
+* **Asset:** Container  (Waybill: WB-19560-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 776
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1799
+* **Asset:** Container  (Waybill: WB-79248-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 977
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1800
+* **Asset:** Container  (Waybill: WB-71508-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 997
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1801
+* **Asset:** Container  (Waybill: WB-62267-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 160
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1802
+* **Asset:** Container  (Waybill: WB-13243-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 680
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1803
+* **Asset:** Container  (Waybill: WB-59190-NL)
+* **Timestamp:** 2026-06-13 19:40:55.
+* **TOS Location State:** Bay Slot 216
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1804
+* **Asset:** Container  (Waybill: WB-85326-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 317
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1805
+* **Asset:** Container  (Waybill: WB-56936-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1806
+* **Asset:** Container  (Waybill: WB-20743-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 179
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1807
+* **Asset:** Container  (Waybill: WB-88164-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 756
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1808
+* **Asset:** Container  (Waybill: WB-62372-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 588
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1809
+* **Asset:** Container  (Waybill: WB-86711-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 436
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1810
+* **Asset:** Container  (Waybill: WB-93909-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 473
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1811
+* **Asset:** Container  (Waybill: WB-29246-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 666
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1812
+* **Asset:** Container  (Waybill: WB-27126-NL)
+* **Timestamp:** 2026-06-13 19:40:56.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1813
+* **Asset:** Container  (Waybill: WB-87965-NL)
+* **Timestamp:** 2026-06-13 19:40:57.
+* **TOS Location State:** Bay Slot 798
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1814
+* **Asset:** Container  (Waybill: WB-22241-NL)
+* **Timestamp:** 2026-06-13 19:40:57.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1815
+* **Asset:** Container  (Waybill: WB-13214-NL)
+* **Timestamp:** 2026-06-13 19:40:57.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1816
+* **Asset:** Container  (Waybill: WB-60308-NL)
+* **Timestamp:** 2026-06-13 19:40:57.
+* **TOS Location State:** Bay Slot 601
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1817
+* **Asset:** Container  (Waybill: WB-73578-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 152
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1818
+* **Asset:** Container  (Waybill: WB-66128-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 657
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1819
+* **Asset:** Container  (Waybill: WB-36962-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 199
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1820
+* **Asset:** Container  (Waybill: WB-78203-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1821
+* **Asset:** Container  (Waybill: WB-89852-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 509
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1822
+* **Asset:** Container  (Waybill: WB-42258-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1823
+* **Asset:** Container  (Waybill: WB-21138-NL)
+* **Timestamp:** 2026-06-13 19:40:58.
+* **TOS Location State:** Bay Slot 926
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1824
+* **Asset:** Container  (Waybill: WB-80580-NL)
+* **Timestamp:** 2026-06-13 19:40:59.
+* **TOS Location State:** Bay Slot 840
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1825
+* **Asset:** Container  (Waybill: WB-11767-NL)
+* **Timestamp:** 2026-06-13 19:40:59.
+* **TOS Location State:** Bay Slot 769
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1826
+* **Asset:** Container  (Waybill: WB-89644-NL)
+* **Timestamp:** 2026-06-13 19:40:59.
+* **TOS Location State:** Bay Slot 459
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1827
+* **Asset:** Container  (Waybill: WB-22465-NL)
+* **Timestamp:** 2026-06-13 19:40:59.
+* **TOS Location State:** Bay Slot 863
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1828
+* **Asset:** Container  (Waybill: WB-42450-NL)
+* **Timestamp:** 2026-06-13 19:40:59.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1829
+* **Asset:** Container  (Waybill: WB-21395-NL)
+* **Timestamp:** 2026-06-13 19:41:00.
+* **TOS Location State:** Bay Slot 435
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1830
+* **Asset:** Container  (Waybill: WB-41270-NL)
+* **Timestamp:** 2026-06-13 19:41:00.
+* **TOS Location State:** Bay Slot 809
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1831
+* **Asset:** Container  (Waybill: WB-90012-NL)
+* **Timestamp:** 2026-06-13 19:41:00.
+* **TOS Location State:** Bay Slot 774
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1832
+* **Asset:** Container  (Waybill: WB-73630-NL)
+* **Timestamp:** 2026-06-13 19:41:00.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1833
+* **Asset:** Container  (Waybill: WB-10748-NL)
+* **Timestamp:** 2026-06-13 19:41:00.
+* **TOS Location State:** Bay Slot 426
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1834
+* **Asset:** Container  (Waybill: WB-91068-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 625
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1835
+* **Asset:** Container  (Waybill: WB-25859-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1836
+* **Asset:** Container  (Waybill: WB-73775-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 869
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1837
+* **Asset:** Container  (Waybill: WB-36341-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 299
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1838
+* **Asset:** Container  (Waybill: WB-86616-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 549
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1839
+* **Asset:** Container  (Waybill: WB-39017-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 433
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1840
+* **Asset:** Container  (Waybill: WB-22871-NL)
+* **Timestamp:** 2026-06-13 19:41:01.
+* **TOS Location State:** Bay Slot 391
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1841
+* **Asset:** Container  (Waybill: WB-61847-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 574
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1842
+* **Asset:** Container  (Waybill: WB-63233-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1843
+* **Asset:** Container  (Waybill: WB-15309-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1844
+* **Asset:** Container  (Waybill: WB-47702-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 988
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1845
+* **Asset:** Container  (Waybill: WB-31632-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 956
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1846
+* **Asset:** Container  (Waybill: WB-45282-NL)
+* **Timestamp:** 2026-06-13 19:41:02.
+* **TOS Location State:** Bay Slot 914
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1847
+* **Asset:** Container  (Waybill: WB-65318-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 874
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1848
+* **Asset:** Container  (Waybill: WB-52161-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 737
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1849
+* **Asset:** Container  (Waybill: WB-24051-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 373
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1850
+* **Asset:** Container  (Waybill: WB-55904-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 255
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1851
+* **Asset:** Container  (Waybill: WB-77579-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 320
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1852
+* **Asset:** Container  (Waybill: WB-67958-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 150
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1853
+* **Asset:** Container  (Waybill: WB-84890-NL)
+* **Timestamp:** 2026-06-13 19:41:03.
+* **TOS Location State:** Bay Slot 327
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1854
+* **Asset:** Container  (Waybill: WB-41398-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 908
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1855
+* **Asset:** Container  (Waybill: WB-10258-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 945
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1856
+* **Asset:** Container  (Waybill: WB-96492-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1857
+* **Asset:** Container  (Waybill: WB-91204-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 813
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1858
+* **Asset:** Container  (Waybill: WB-61494-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1859
+* **Asset:** Container  (Waybill: WB-55106-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 559
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1860
+* **Asset:** Container  (Waybill: WB-13837-NL)
+* **Timestamp:** 2026-06-13 19:41:04.
+* **TOS Location State:** Bay Slot 934
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1861
+* **Asset:** Container  (Waybill: WB-41343-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 699
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1862
+* **Asset:** Container  (Waybill: WB-91541-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 613
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1863
+* **Asset:** Container  (Waybill: WB-62940-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 773
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1864
+* **Asset:** Container  (Waybill: WB-46865-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1865
+* **Asset:** Container  (Waybill: WB-12818-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 470
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1866
+* **Asset:** Container  (Waybill: WB-13433-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1867
+* **Asset:** Container  (Waybill: WB-16214-NL)
+* **Timestamp:** 2026-06-13 19:41:05.
+* **TOS Location State:** Bay Slot 339
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1868
+* **Asset:** Container  (Waybill: WB-90242-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1869
+* **Asset:** Container  (Waybill: WB-58547-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 316
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1870
+* **Asset:** Container  (Waybill: WB-15439-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 709
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1871
+* **Asset:** Container  (Waybill: WB-25881-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 123
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1872
+* **Asset:** Container  (Waybill: WB-66717-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1873
+* **Asset:** Container  (Waybill: WB-73010-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 578
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1874
+* **Asset:** Container  (Waybill: WB-66314-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1875
+* **Asset:** Container  (Waybill: WB-13163-NL)
+* **Timestamp:** 2026-06-13 19:41:06.
+* **TOS Location State:** Bay Slot 317
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1876
+* **Asset:** Container  (Waybill: WB-75243-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 113
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1877
+* **Asset:** Container  (Waybill: WB-28079-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1878
+* **Asset:** Container  (Waybill: WB-31646-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1879
+* **Asset:** Container  (Waybill: WB-54798-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 289
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1880
+* **Asset:** Container  (Waybill: WB-29780-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 856
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1881
+* **Asset:** Container  (Waybill: WB-60161-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 615
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1882
+* **Asset:** Container  (Waybill: WB-53187-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 372
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1883
+* **Asset:** Container  (Waybill: WB-70739-NL)
+* **Timestamp:** 2026-06-13 19:41:07.
+* **TOS Location State:** Bay Slot 607
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1884
+* **Asset:** Container  (Waybill: WB-33959-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 736
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1885
+* **Asset:** Container  (Waybill: WB-61461-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 233
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1886
+* **Asset:** Container  (Waybill: WB-11778-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 395
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1887
+* **Asset:** Container  (Waybill: WB-65781-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 664
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1888
+* **Asset:** Container  (Waybill: WB-61734-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 763
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1889
+* **Asset:** Container  (Waybill: WB-91892-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 522
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1890
+* **Asset:** Container  (Waybill: WB-21782-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 853
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1891
+* **Asset:** Container  (Waybill: WB-90625-NL)
+* **Timestamp:** 2026-06-13 19:41:08.
+* **TOS Location State:** Bay Slot 466
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1892
+* **Asset:** Container  (Waybill: WB-81047-NL)
+* **Timestamp:** 2026-06-13 19:41:09.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1893
+* **Asset:** Container  (Waybill: WB-36675-NL)
+* **Timestamp:** 2026-06-13 19:41:09.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1894
+* **Asset:** Container  (Waybill: WB-78504-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 416
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1895
+* **Asset:** Container  (Waybill: WB-62736-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 931
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1896
+* **Asset:** Container  (Waybill: WB-49596-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 715
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1897
+* **Asset:** Container  (Waybill: WB-98982-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 968
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1898
+* **Asset:** Container  (Waybill: WB-92334-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1899
+* **Asset:** Container  (Waybill: WB-90139-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 351
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1900
+* **Asset:** Container  (Waybill: WB-41453-NL)
+* **Timestamp:** 2026-06-13 19:41:10.
+* **TOS Location State:** Bay Slot 128
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1901
+* **Asset:** Container  (Waybill: WB-65247-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 244
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1902
+* **Asset:** Container  (Waybill: WB-95747-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 594
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1903
+* **Asset:** Container  (Waybill: WB-99967-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 947
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1904
+* **Asset:** Container  (Waybill: WB-15599-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 777
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1905
+* **Asset:** Container  (Waybill: WB-24089-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 901
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1906
+* **Asset:** Container  (Waybill: WB-32879-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1907
+* **Asset:** Container  (Waybill: WB-71693-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 504
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1908
+* **Asset:** Container  (Waybill: WB-72760-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 884
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1909
+* **Asset:** Container  (Waybill: WB-52407-NL)
+* **Timestamp:** 2026-06-13 19:41:11.
+* **TOS Location State:** Bay Slot 974
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1910
+* **Asset:** Container  (Waybill: WB-71448-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 140
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1911
+* **Asset:** Container  (Waybill: WB-51319-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 611
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1912
+* **Asset:** Container  (Waybill: WB-77801-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1913
+* **Asset:** Container  (Waybill: WB-80342-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1914
+* **Asset:** Container  (Waybill: WB-35642-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1915
+* **Asset:** Container  (Waybill: WB-64591-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 462
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1916
+* **Asset:** Container  (Waybill: WB-23972-NL)
+* **Timestamp:** 2026-06-13 19:41:12.
+* **TOS Location State:** Bay Slot 832
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1917
+* **Asset:** Container  (Waybill: WB-32600-NL)
+* **Timestamp:** 2026-06-13 19:41:13.
+* **TOS Location State:** Bay Slot 504
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1918
+* **Asset:** Container  (Waybill: WB-16778-NL)
+* **Timestamp:** 2026-06-13 19:41:13.
+* **TOS Location State:** Bay Slot 952
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1919
+* **Asset:** Container  (Waybill: WB-53343-NL)
+* **Timestamp:** 2026-06-13 19:41:13.
+* **TOS Location State:** Bay Slot 704
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1920
+* **Asset:** Container  (Waybill: WB-42324-NL)
+* **Timestamp:** 2026-06-13 19:41:13.
+* **TOS Location State:** Bay Slot 271
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1921
+* **Asset:** Container  (Waybill: WB-29212-NL)
+* **Timestamp:** 2026-06-13 19:41:13.
+* **TOS Location State:** Bay Slot 502
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1922
+* **Asset:** Container  (Waybill: WB-62412-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1923
+* **Asset:** Container  (Waybill: WB-55098-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 340
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1924
+* **Asset:** Container  (Waybill: WB-34563-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 736
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1925
+* **Asset:** Container  (Waybill: WB-93270-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 882
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1926
+* **Asset:** Container  (Waybill: WB-61671-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 337
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1927
+* **Asset:** Container  (Waybill: WB-97475-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 361
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1928
+* **Asset:** Container  (Waybill: WB-93769-NL)
+* **Timestamp:** 2026-06-13 19:41:14.
+* **TOS Location State:** Bay Slot 141
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1929
+* **Asset:** Container  (Waybill: WB-36855-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 551
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1930
+* **Asset:** Container  (Waybill: WB-83156-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 144
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1931
+* **Asset:** Container  (Waybill: WB-10636-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 628
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1932
+* **Asset:** Container  (Waybill: WB-60524-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 933
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1933
+* **Asset:** Container  (Waybill: WB-84239-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1934
+* **Asset:** Container  (Waybill: WB-70028-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 547
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1935
+* **Asset:** Container  (Waybill: WB-69527-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 955
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1936
+* **Asset:** Container  (Waybill: WB-36458-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 373
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1937
+* **Asset:** Container  (Waybill: WB-10175-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1938
+* **Asset:** Container  (Waybill: WB-64662-NL)
+* **Timestamp:** 2026-06-13 19:41:15.
+* **TOS Location State:** Bay Slot 371
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1939
+* **Asset:** Container  (Waybill: WB-38820-NL)
+* **Timestamp:** 2026-06-13 19:41:16.
+* **TOS Location State:** Bay Slot 485
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1940
+* **Asset:** Container  (Waybill: WB-24879-NL)
+* **Timestamp:** 2026-06-13 19:41:16.
+* **TOS Location State:** Bay Slot 891
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1941
+* **Asset:** Container  (Waybill: WB-57233-NL)
+* **Timestamp:** 2026-06-13 19:41:16.
+* **TOS Location State:** Bay Slot 589
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1942
+* **Asset:** Container  (Waybill: WB-29903-NL)
+* **Timestamp:** 2026-06-13 19:41:16.
+* **TOS Location State:** Bay Slot 672
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1943
+* **Asset:** Container  (Waybill: WB-40338-NL)
+* **Timestamp:** 2026-06-13 19:41:16.
+* **TOS Location State:** Bay Slot 242
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1944
+* **Asset:** Container  (Waybill: WB-38265-NL)
+* **Timestamp:** 2026-06-13 19:41:17.
+* **TOS Location State:** Bay Slot 772
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1945
+* **Asset:** Container  (Waybill: WB-99650-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1946
+* **Asset:** Container  (Waybill: WB-69743-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 222
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1947
+* **Asset:** Container  (Waybill: WB-69333-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1948
+* **Asset:** Container  (Waybill: WB-71685-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 788
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1949
+* **Asset:** Container  (Waybill: WB-38343-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 209
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1950
+* **Asset:** Container  (Waybill: WB-44186-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 450
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1951
+* **Asset:** Container  (Waybill: WB-64769-NL)
+* **Timestamp:** 2026-06-13 19:41:18.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1952
+* **Asset:** Container  (Waybill: WB-50066-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 324
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1953
+* **Asset:** Container  (Waybill: WB-37484-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 463
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1954
+* **Asset:** Container  (Waybill: WB-90833-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 578
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1955
+* **Asset:** Container  (Waybill: WB-41666-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 334
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1956
+* **Asset:** Container  (Waybill: WB-42134-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1957
+* **Asset:** Container  (Waybill: WB-59288-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1958
+* **Asset:** Container  (Waybill: WB-48788-NL)
+* **Timestamp:** 2026-06-13 19:41:19.
+* **TOS Location State:** Bay Slot 403
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1959
+* **Asset:** Container  (Waybill: WB-26817-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 409
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1960
+* **Asset:** Container  (Waybill: WB-13701-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 745
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1961
+* **Asset:** Container  (Waybill: WB-38337-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 181
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1962
+* **Asset:** Container  (Waybill: WB-62269-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 403
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1963
+* **Asset:** Container  (Waybill: WB-65792-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1964
+* **Asset:** Container  (Waybill: WB-66926-NL)
+* **Timestamp:** 2026-06-13 19:41:20.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1965
+* **Asset:** Container  (Waybill: WB-11400-NL)
+* **Timestamp:** 2026-06-13 19:41:21.
+* **TOS Location State:** Bay Slot 261
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1966
+* **Asset:** Container  (Waybill: WB-19181-NL)
+* **Timestamp:** 2026-06-13 19:41:21.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1967
+* **Asset:** Container  (Waybill: WB-13862-NL)
+* **Timestamp:** 2026-06-13 19:41:21.
+* **TOS Location State:** Bay Slot 758
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1968
+* **Asset:** Container  (Waybill: WB-73658-NL)
+* **Timestamp:** 2026-06-13 19:41:21.
+* **TOS Location State:** Bay Slot 673
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1969
+* **Asset:** Container  (Waybill: WB-19140-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 872
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1970
+* **Asset:** Container  (Waybill: WB-44817-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 850
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1971
+* **Asset:** Container  (Waybill: WB-57633-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 917
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1972
+* **Asset:** Container  (Waybill: WB-89199-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 603
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1973
+* **Asset:** Container  (Waybill: WB-45633-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 421
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1974
+* **Asset:** Container  (Waybill: WB-17213-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1975
+* **Asset:** Container  (Waybill: WB-59030-NL)
+* **Timestamp:** 2026-06-13 19:41:22.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1976
+* **Asset:** Container  (Waybill: WB-43022-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1977
+* **Asset:** Container  (Waybill: WB-81305-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 181
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1978
+* **Asset:** Container  (Waybill: WB-98816-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 605
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1979
+* **Asset:** Container  (Waybill: WB-36581-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 173
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1980
+* **Asset:** Container  (Waybill: WB-53504-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1981
+* **Asset:** Container  (Waybill: WB-25289-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 682
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1982
+* **Asset:** Container  (Waybill: WB-64309-NL)
+* **Timestamp:** 2026-06-13 19:41:23.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1983
+* **Asset:** Container  (Waybill: WB-34793-NL)
+* **Timestamp:** 2026-06-13 19:41:24.
+* **TOS Location State:** Bay Slot 342
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1984
+* **Asset:** Container  (Waybill: WB-78366-NL)
+* **Timestamp:** 2026-06-13 19:41:24.
+* **TOS Location State:** Bay Slot 557
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1985
+* **Asset:** Container  (Waybill: WB-87395-NL)
+* **Timestamp:** 2026-06-13 19:41:24.
+* **TOS Location State:** Bay Slot 460
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1986
+* **Asset:** Container  (Waybill: WB-55916-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 451
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1987
+* **Asset:** Container  (Waybill: WB-61123-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 481
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1988
+* **Asset:** Container  (Waybill: WB-25403-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1989
+* **Asset:** Container  (Waybill: WB-40196-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 332
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1990
+* **Asset:** Container  (Waybill: WB-63026-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 745
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1991
+* **Asset:** Container  (Waybill: WB-55008-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1992
+* **Asset:** Container  (Waybill: WB-15461-NL)
+* **Timestamp:** 2026-06-13 19:41:25.
+* **TOS Location State:** Bay Slot 116
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1993
+* **Asset:** Container  (Waybill: WB-92213-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 948
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1994
+* **Asset:** Container  (Waybill: WB-69960-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1995
+* **Asset:** Container  (Waybill: WB-88298-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 970
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1996
+* **Asset:** Container  (Waybill: WB-25338-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 350
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1997
+* **Asset:** Container  (Waybill: WB-77186-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 693
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1998
+* **Asset:** Container  (Waybill: WB-35449-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 361
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #1999
+* **Asset:** Container  (Waybill: WB-73263-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2000
+* **Asset:** Container  (Waybill: WB-50235-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 964
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2001
+* **Asset:** Container  (Waybill: WB-67856-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 778
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2002
+* **Asset:** Container  (Waybill: WB-83837-NL)
+* **Timestamp:** 2026-06-13 19:41:26.
+* **TOS Location State:** Bay Slot 349
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2003
+* **Asset:** Container  (Waybill: WB-33462-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 811
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2004
+* **Asset:** Container  (Waybill: WB-50540-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2005
+* **Asset:** Container  (Waybill: WB-24530-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 403
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2006
+* **Asset:** Container  (Waybill: WB-34826-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 999
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2007
+* **Asset:** Container  (Waybill: WB-84900-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 586
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2008
+* **Asset:** Container  (Waybill: WB-37769-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 553
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2009
+* **Asset:** Container  (Waybill: WB-44337-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 458
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2010
+* **Asset:** Container  (Waybill: WB-52401-NL)
+* **Timestamp:** 2026-06-13 19:41:27.
+* **TOS Location State:** Bay Slot 775
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2011
+* **Asset:** Container  (Waybill: WB-17226-NL)
+* **Timestamp:** 2026-06-13 19:41:28.
+* **TOS Location State:** Bay Slot 347
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2012
+* **Asset:** Container  (Waybill: WB-24483-NL)
+* **Timestamp:** 2026-06-13 19:41:28.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2013
+* **Asset:** Container  (Waybill: WB-60563-NL)
+* **Timestamp:** 2026-06-13 19:41:28.
+* **TOS Location State:** Bay Slot 973
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2014
+* **Asset:** Container  (Waybill: WB-21062-NL)
+* **Timestamp:** 2026-06-13 19:41:28.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2015
+* **Asset:** Container  (Waybill: WB-94216-NL)
+* **Timestamp:** 2026-06-13 19:41:28.
+* **TOS Location State:** Bay Slot 566
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2016
+* **Asset:** Container  (Waybill: WB-75956-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 298
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2017
+* **Asset:** Container  (Waybill: WB-74438-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 561
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2018
+* **Asset:** Container  (Waybill: WB-56414-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 979
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2019
+* **Asset:** Container  (Waybill: WB-93299-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2020
+* **Asset:** Container  (Waybill: WB-23552-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 478
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2021
+* **Asset:** Container  (Waybill: WB-18689-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 385
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2022
+* **Asset:** Container  (Waybill: WB-45903-NL)
+* **Timestamp:** 2026-06-13 19:41:29.
+* **TOS Location State:** Bay Slot 219
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2023
+* **Asset:** Container  (Waybill: WB-76639-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 648
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2024
+* **Asset:** Container  (Waybill: WB-25564-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 158
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2025
+* **Asset:** Container  (Waybill: WB-23425-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2026
+* **Asset:** Container  (Waybill: WB-18857-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2027
+* **Asset:** Container  (Waybill: WB-23957-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 874
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2028
+* **Asset:** Container  (Waybill: WB-72399-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 716
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2029
+* **Asset:** Container  (Waybill: WB-72498-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2030
+* **Asset:** Container  (Waybill: WB-10586-NL)
+* **Timestamp:** 2026-06-13 19:41:30.
+* **TOS Location State:** Bay Slot 173
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2031
+* **Asset:** Container  (Waybill: WB-90561-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 108
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2032
+* **Asset:** Container  (Waybill: WB-89471-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 776
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2033
+* **Asset:** Container  (Waybill: WB-97458-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 360
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2034
+* **Asset:** Container  (Waybill: WB-68510-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2035
+* **Asset:** Container  (Waybill: WB-99560-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 972
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2036
+* **Asset:** Container  (Waybill: WB-40035-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 188
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2037
+* **Asset:** Container  (Waybill: WB-64637-NL)
+* **Timestamp:** 2026-06-13 19:41:31.
+* **TOS Location State:** Bay Slot 577
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2038
+* **Asset:** Container  (Waybill: WB-55271-NL)
+* **Timestamp:** 2026-06-13 19:41:32.
+* **TOS Location State:** Bay Slot 312
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2039
+* **Asset:** Container  (Waybill: WB-82598-NL)
+* **Timestamp:** 2026-06-13 19:41:32.
+* **TOS Location State:** Bay Slot 517
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2040
+* **Asset:** Container  (Waybill: WB-67082-NL)
+* **Timestamp:** 2026-06-13 19:41:32.
+* **TOS Location State:** Bay Slot 108
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2041
+* **Asset:** Container  (Waybill: WB-16124-NL)
+* **Timestamp:** 2026-06-13 19:41:32.
+* **TOS Location State:** Bay Slot 891
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2042
+* **Asset:** Container  (Waybill: WB-80877-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 106
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2043
+* **Asset:** Container  (Waybill: WB-43719-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2044
+* **Asset:** Container  (Waybill: WB-51350-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 625
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2045
+* **Asset:** Container  (Waybill: WB-34922-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2046
+* **Asset:** Container  (Waybill: WB-28546-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 496
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2047
+* **Asset:** Container  (Waybill: WB-39554-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2048
+* **Asset:** Container  (Waybill: WB-81266-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 494
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2049
+* **Asset:** Container  (Waybill: WB-13902-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 727
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2050
+* **Asset:** Container  (Waybill: WB-22869-NL)
+* **Timestamp:** 2026-06-13 19:41:33.
+* **TOS Location State:** Bay Slot 157
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2051
+* **Asset:** Container  (Waybill: WB-75011-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 702
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2052
+* **Asset:** Container  (Waybill: WB-20554-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2053
+* **Asset:** Container  (Waybill: WB-13811-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 707
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2054
+* **Asset:** Container  (Waybill: WB-68401-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 148
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2055
+* **Asset:** Container  (Waybill: WB-85665-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2056
+* **Asset:** Container  (Waybill: WB-27495-NL)
+* **Timestamp:** 2026-06-13 19:41:34.
+* **TOS Location State:** Bay Slot 772
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2057
+* **Asset:** Container  (Waybill: WB-50225-NL)
+* **Timestamp:** 2026-06-13 19:41:35.
+* **TOS Location State:** Bay Slot 111
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2058
+* **Asset:** Container  (Waybill: WB-14852-NL)
+* **Timestamp:** 2026-06-13 19:41:35.
+* **TOS Location State:** Bay Slot 559
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2059
+* **Asset:** Container  (Waybill: WB-76933-NL)
+* **Timestamp:** 2026-06-13 19:41:35.
+* **TOS Location State:** Bay Slot 422
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2060
+* **Asset:** Container  (Waybill: WB-41168-NL)
+* **Timestamp:** 2026-06-13 19:41:35.
+* **TOS Location State:** Bay Slot 193
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2061
+* **Asset:** Container  (Waybill: WB-11249-NL)
+* **Timestamp:** 2026-06-13 19:41:35.
+* **TOS Location State:** Bay Slot 150
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2062
+* **Asset:** Container  (Waybill: WB-32141-NL)
+* **Timestamp:** 2026-06-13 19:41:36.
+* **TOS Location State:** Bay Slot 957
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2063
+* **Asset:** Container  (Waybill: WB-61886-NL)
+* **Timestamp:** 2026-06-13 19:41:36.
+* **TOS Location State:** Bay Slot 543
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2064
+* **Asset:** Container  (Waybill: WB-95965-NL)
+* **Timestamp:** 2026-06-13 19:41:36.
+* **TOS Location State:** Bay Slot 585
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2065
+* **Asset:** Container  (Waybill: WB-58562-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 257
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2066
+* **Asset:** Container  (Waybill: WB-92273-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2067
+* **Asset:** Container  (Waybill: WB-13034-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 183
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2068
+* **Asset:** Container  (Waybill: WB-63009-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2069
+* **Asset:** Container  (Waybill: WB-50397-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 161
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2070
+* **Asset:** Container  (Waybill: WB-23030-NL)
+* **Timestamp:** 2026-06-13 19:41:37.
+* **TOS Location State:** Bay Slot 528
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2071
+* **Asset:** Container  (Waybill: WB-55003-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2072
+* **Asset:** Container  (Waybill: WB-50668-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 480
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2073
+* **Asset:** Container  (Waybill: WB-69620-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 934
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2074
+* **Asset:** Container  (Waybill: WB-64644-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 668
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2075
+* **Asset:** Container  (Waybill: WB-52074-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2076
+* **Asset:** Container  (Waybill: WB-50667-NL)
+* **Timestamp:** 2026-06-13 19:41:38.
+* **TOS Location State:** Bay Slot 431
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2077
+* **Asset:** Container  (Waybill: WB-34485-NL)
+* **Timestamp:** 2026-06-13 19:41:39.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2078
+* **Asset:** Container  (Waybill: WB-63464-NL)
+* **Timestamp:** 2026-06-13 19:41:39.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2079
+* **Asset:** Container  (Waybill: WB-34946-NL)
+* **Timestamp:** 2026-06-13 19:41:39.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2080
+* **Asset:** Container  (Waybill: WB-58263-NL)
+* **Timestamp:** 2026-06-13 19:41:40.
+* **TOS Location State:** Bay Slot 568
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2081
+* **Asset:** Container  (Waybill: WB-55401-NL)
+* **Timestamp:** 2026-06-13 19:41:40.
+* **TOS Location State:** Bay Slot 757
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2082
+* **Asset:** Container  (Waybill: WB-97460-NL)
+* **Timestamp:** 2026-06-13 19:41:40.
+* **TOS Location State:** Bay Slot 559
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2083
+* **Asset:** Container  (Waybill: WB-66171-NL)
+* **Timestamp:** 2026-06-13 19:41:40.
+* **TOS Location State:** Bay Slot 320
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2084
+* **Asset:** Container  (Waybill: WB-58338-NL)
+* **Timestamp:** 2026-06-13 19:41:40.
+* **TOS Location State:** Bay Slot 269
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2085
+* **Asset:** Container  (Waybill: WB-34187-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 312
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2086
+* **Asset:** Container  (Waybill: WB-56168-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2087
+* **Asset:** Container  (Waybill: WB-64283-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 673
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2088
+* **Asset:** Container  (Waybill: WB-35832-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2089
+* **Asset:** Container  (Waybill: WB-57317-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2090
+* **Asset:** Container  (Waybill: WB-76319-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 962
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2091
+* **Asset:** Container  (Waybill: WB-76365-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 706
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2092
+* **Asset:** Container  (Waybill: WB-55557-NL)
+* **Timestamp:** 2026-06-13 19:41:41.
+* **TOS Location State:** Bay Slot 593
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2093
+* **Asset:** Container  (Waybill: WB-73634-NL)
+* **Timestamp:** 2026-06-13 19:41:42.
+* **TOS Location State:** Bay Slot 351
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2094
+* **Asset:** Container  (Waybill: WB-50387-NL)
+* **Timestamp:** 2026-06-13 19:41:42.
+* **TOS Location State:** Bay Slot 103
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2095
+* **Asset:** Container  (Waybill: WB-35816-NL)
+* **Timestamp:** 2026-06-13 19:41:42.
+* **TOS Location State:** Bay Slot 456
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2096
+* **Asset:** Container  (Waybill: WB-56618-NL)
+* **Timestamp:** 2026-06-13 19:41:43.
+* **TOS Location State:** Bay Slot 907
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2097
+* **Asset:** Container  (Waybill: WB-85799-NL)
+* **Timestamp:** 2026-06-13 19:41:43.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2098
+* **Asset:** Container  (Waybill: WB-75908-NL)
+* **Timestamp:** 2026-06-13 19:41:43.
+* **TOS Location State:** Bay Slot 310
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2099
+* **Asset:** Container  (Waybill: WB-46392-NL)
+* **Timestamp:** 2026-06-13 19:41:43.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2100
+* **Asset:** Container  (Waybill: WB-31562-NL)
+* **Timestamp:** 2026-06-13 19:41:43.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2101
+* **Asset:** Container  (Waybill: WB-44850-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2102
+* **Asset:** Container  (Waybill: WB-61948-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2103
+* **Asset:** Container  (Waybill: WB-29544-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 908
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2104
+* **Asset:** Container  (Waybill: WB-28917-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 932
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2105
+* **Asset:** Container  (Waybill: WB-33305-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 925
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2106
+* **Asset:** Container  (Waybill: WB-81785-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 970
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2107
+* **Asset:** Container  (Waybill: WB-19713-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 317
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2108
+* **Asset:** Container  (Waybill: WB-51357-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 872
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2109
+* **Asset:** Container  (Waybill: WB-20621-NL)
+* **Timestamp:** 2026-06-13 19:41:44.
+* **TOS Location State:** Bay Slot 670
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2110
+* **Asset:** Container  (Waybill: WB-55782-NL)
+* **Timestamp:** 2026-06-13 19:41:45.
+* **TOS Location State:** Bay Slot 220
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2111
+* **Asset:** Container  (Waybill: WB-78575-NL)
+* **Timestamp:** 2026-06-13 19:41:45.
+* **TOS Location State:** Bay Slot 304
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2112
+* **Asset:** Container  (Waybill: WB-58094-NL)
+* **Timestamp:** 2026-06-13 19:41:45.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2113
+* **Asset:** Container  (Waybill: WB-23816-NL)
+* **Timestamp:** 2026-06-13 19:41:45.
+* **TOS Location State:** Bay Slot 981
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2114
+* **Asset:** Container  (Waybill: WB-67665-NL)
+* **Timestamp:** 2026-06-13 19:41:45.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2115
+* **Asset:** Container  (Waybill: WB-97858-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 949
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2116
+* **Asset:** Container  (Waybill: WB-29627-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 418
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2117
+* **Asset:** Container  (Waybill: WB-63389-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2118
+* **Asset:** Container  (Waybill: WB-92582-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 994
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2119
+* **Asset:** Container  (Waybill: WB-17318-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 495
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2120
+* **Asset:** Container  (Waybill: WB-56070-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 364
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2121
+* **Asset:** Container  (Waybill: WB-95236-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2122
+* **Asset:** Container  (Waybill: WB-44883-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 506
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2123
+* **Asset:** Container  (Waybill: WB-11227-NL)
+* **Timestamp:** 2026-06-13 19:41:46.
+* **TOS Location State:** Bay Slot 246
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2124
+* **Asset:** Container  (Waybill: WB-75239-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2125
+* **Asset:** Container  (Waybill: WB-63117-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2126
+* **Asset:** Container  (Waybill: WB-48626-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 312
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2127
+* **Asset:** Container  (Waybill: WB-29008-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 983
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2128
+* **Asset:** Container  (Waybill: WB-63656-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2129
+* **Asset:** Container  (Waybill: WB-70245-NL)
+* **Timestamp:** 2026-06-13 19:41:47.
+* **TOS Location State:** Bay Slot 200
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2130
+* **Asset:** Container  (Waybill: WB-84069-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2131
+* **Asset:** Container  (Waybill: WB-66227-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2132
+* **Asset:** Container  (Waybill: WB-66500-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 684
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2133
+* **Asset:** Container  (Waybill: WB-95279-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 895
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2134
+* **Asset:** Container  (Waybill: WB-65453-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 883
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2135
+* **Asset:** Container  (Waybill: WB-75812-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2136
+* **Asset:** Container  (Waybill: WB-83396-NL)
+* **Timestamp:** 2026-06-13 19:41:48.
+* **TOS Location State:** Bay Slot 165
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2137
+* **Asset:** Container  (Waybill: WB-71795-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 964
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2138
+* **Asset:** Container  (Waybill: WB-43050-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 407
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2139
+* **Asset:** Container  (Waybill: WB-83094-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 706
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2140
+* **Asset:** Container  (Waybill: WB-38852-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 609
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2141
+* **Asset:** Container  (Waybill: WB-38903-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2142
+* **Asset:** Container  (Waybill: WB-51567-NL)
+* **Timestamp:** 2026-06-13 19:41:49.
+* **TOS Location State:** Bay Slot 226
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2143
+* **Asset:** Container  (Waybill: WB-20384-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2144
+* **Asset:** Container  (Waybill: WB-41699-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 405
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2145
+* **Asset:** Container  (Waybill: WB-81971-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 226
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2146
+* **Asset:** Container  (Waybill: WB-50714-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 862
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2147
+* **Asset:** Container  (Waybill: WB-39479-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 868
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2148
+* **Asset:** Container  (Waybill: WB-47117-NL)
+* **Timestamp:** 2026-06-13 19:41:50.
+* **TOS Location State:** Bay Slot 625
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2149
+* **Asset:** Container  (Waybill: WB-30359-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 582
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2150
+* **Asset:** Container  (Waybill: WB-29502-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 709
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2151
+* **Asset:** Container  (Waybill: WB-66827-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 827
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2152
+* **Asset:** Container  (Waybill: WB-40017-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 746
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2153
+* **Asset:** Container  (Waybill: WB-76356-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 893
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2154
+* **Asset:** Container  (Waybill: WB-43055-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 124
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2155
+* **Asset:** Container  (Waybill: WB-28887-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2156
+* **Asset:** Container  (Waybill: WB-86071-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 939
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2157
+* **Asset:** Container  (Waybill: WB-56231-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 699
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2158
+* **Asset:** Container  (Waybill: WB-99806-NL)
+* **Timestamp:** 2026-06-13 19:41:51.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2159
+* **Asset:** Container  (Waybill: WB-77192-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2160
+* **Asset:** Container  (Waybill: WB-50594-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 729
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2161
+* **Asset:** Container  (Waybill: WB-29754-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 310
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2162
+* **Asset:** Container  (Waybill: WB-43682-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 502
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2163
+* **Asset:** Container  (Waybill: WB-62844-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 187
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2164
+* **Asset:** Container  (Waybill: WB-64572-NL)
+* **Timestamp:** 2026-06-13 19:41:52.
+* **TOS Location State:** Bay Slot 229
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2165
+* **Asset:** Container  (Waybill: WB-12294-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 950
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2166
+* **Asset:** Container  (Waybill: WB-59072-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 828
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2167
+* **Asset:** Container  (Waybill: WB-57441-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 914
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2168
+* **Asset:** Container  (Waybill: WB-12708-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 137
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2169
+* **Asset:** Container  (Waybill: WB-29827-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2170
+* **Asset:** Container  (Waybill: WB-55299-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2171
+* **Asset:** Container  (Waybill: WB-93277-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 798
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2172
+* **Asset:** Container  (Waybill: WB-41400-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 212
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2173
+* **Asset:** Container  (Waybill: WB-68780-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 334
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2174
+* **Asset:** Container  (Waybill: WB-70889-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 280
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2175
+* **Asset:** Container  (Waybill: WB-97868-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 910
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2176
+* **Asset:** Container  (Waybill: WB-84173-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 598
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2177
+* **Asset:** Container  (Waybill: WB-51626-NL)
+* **Timestamp:** 2026-06-13 19:41:53.
+* **TOS Location State:** Bay Slot 511
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2178
+* **Asset:** Container  (Waybill: WB-17379-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 478
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2179
+* **Asset:** Container  (Waybill: WB-47158-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 204
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2180
+* **Asset:** Container  (Waybill: WB-38172-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 714
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2181
+* **Asset:** Container  (Waybill: WB-30580-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 585
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2182
+* **Asset:** Container  (Waybill: WB-60219-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2183
+* **Asset:** Container  (Waybill: WB-78368-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2184
+* **Asset:** Container  (Waybill: WB-51125-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 160
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2185
+* **Asset:** Container  (Waybill: WB-90212-NL)
+* **Timestamp:** 2026-06-13 19:41:54.
+* **TOS Location State:** Bay Slot 464
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2186
+* **Asset:** Container  (Waybill: WB-15950-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 888
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2187
+* **Asset:** Container  (Waybill: WB-67371-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2188
+* **Asset:** Container  (Waybill: WB-24095-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 523
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2189
+* **Asset:** Container  (Waybill: WB-83480-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2190
+* **Asset:** Container  (Waybill: WB-50219-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2191
+* **Asset:** Container  (Waybill: WB-63212-NL)
+* **Timestamp:** 2026-06-13 19:41:55.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2192
+* **Asset:** Container  (Waybill: WB-64867-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 554
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2193
+* **Asset:** Container  (Waybill: WB-68780-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 523
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2194
+* **Asset:** Container  (Waybill: WB-80910-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 782
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2195
+* **Asset:** Container  (Waybill: WB-73193-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2196
+* **Asset:** Container  (Waybill: WB-32681-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 436
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2197
+* **Asset:** Container  (Waybill: WB-23987-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 262
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2198
+* **Asset:** Container  (Waybill: WB-33046-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2199
+* **Asset:** Container  (Waybill: WB-12588-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 427
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2200
+* **Asset:** Container  (Waybill: WB-30469-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 941
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2201
+* **Asset:** Container  (Waybill: WB-44560-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 873
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2202
+* **Asset:** Container  (Waybill: WB-25840-NL)
+* **Timestamp:** 2026-06-13 19:41:56.
+* **TOS Location State:** Bay Slot 354
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2203
+* **Asset:** Container  (Waybill: WB-12585-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 367
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2204
+* **Asset:** Container  (Waybill: WB-67673-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2205
+* **Asset:** Container  (Waybill: WB-85334-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 697
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2206
+* **Asset:** Container  (Waybill: WB-74207-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 829
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2207
+* **Asset:** Container  (Waybill: WB-93183-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 635
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2208
+* **Asset:** Container  (Waybill: WB-10777-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 796
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2209
+* **Asset:** Container  (Waybill: WB-62076-NL)
+* **Timestamp:** 2026-06-13 19:41:57.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2210
+* **Asset:** Container  (Waybill: WB-73756-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 153
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2211
+* **Asset:** Container  (Waybill: WB-92474-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 222
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2212
+* **Asset:** Container  (Waybill: WB-97114-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 135
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2213
+* **Asset:** Container  (Waybill: WB-72681-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 373
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2214
+* **Asset:** Container  (Waybill: WB-24188-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 895
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2215
+* **Asset:** Container  (Waybill: WB-48963-NL)
+* **Timestamp:** 2026-06-13 19:41:58.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2216
+* **Asset:** Container  (Waybill: WB-42350-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2217
+* **Asset:** Container  (Waybill: WB-95167-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 936
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2218
+* **Asset:** Container  (Waybill: WB-11627-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 470
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2219
+* **Asset:** Container  (Waybill: WB-20429-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 514
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2220
+* **Asset:** Container  (Waybill: WB-54956-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 211
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2221
+* **Asset:** Container  (Waybill: WB-32159-NL)
+* **Timestamp:** 2026-06-13 19:41:59.
+* **TOS Location State:** Bay Slot 911
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2222
+* **Asset:** Container  (Waybill: WB-45951-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 560
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2223
+* **Asset:** Container  (Waybill: WB-11922-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 605
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2224
+* **Asset:** Container  (Waybill: WB-72036-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 532
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2225
+* **Asset:** Container  (Waybill: WB-82367-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2226
+* **Asset:** Container  (Waybill: WB-56447-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 619
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2227
+* **Asset:** Container  (Waybill: WB-74475-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 393
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2228
+* **Asset:** Container  (Waybill: WB-58228-NL)
+* **Timestamp:** 2026-06-13 19:42:00.
+* **TOS Location State:** Bay Slot 163
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2229
+* **Asset:** Container  (Waybill: WB-91643-NL)
+* **Timestamp:** 2026-06-13 19:42:01.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2230
+* **Asset:** Container  (Waybill: WB-83531-NL)
+* **Timestamp:** 2026-06-13 19:42:01.
+* **TOS Location State:** Bay Slot 996
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2231
+* **Asset:** Container  (Waybill: WB-14033-NL)
+* **Timestamp:** 2026-06-13 19:42:01.
+* **TOS Location State:** Bay Slot 360
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2232
+* **Asset:** Container  (Waybill: WB-85647-NL)
+* **Timestamp:** 2026-06-13 19:42:01.
+* **TOS Location State:** Bay Slot 695
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2233
+* **Asset:** Container  (Waybill: WB-89093-NL)
+* **Timestamp:** 2026-06-13 19:42:02.
+* **TOS Location State:** Bay Slot 781
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2234
+* **Asset:** Container  (Waybill: WB-66452-NL)
+* **Timestamp:** 2026-06-13 19:42:02.
+* **TOS Location State:** Bay Slot 895
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2235
+* **Asset:** Container  (Waybill: WB-16004-NL)
+* **Timestamp:** 2026-06-13 19:42:02.
+* **TOS Location State:** Bay Slot 409
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2236
+* **Asset:** Container  (Waybill: WB-90674-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 183
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2237
+* **Asset:** Container  (Waybill: WB-15389-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 979
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2238
+* **Asset:** Container  (Waybill: WB-73739-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 169
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2239
+* **Asset:** Container  (Waybill: WB-59754-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 295
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2240
+* **Asset:** Container  (Waybill: WB-30969-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 633
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2241
+* **Asset:** Container  (Waybill: WB-42506-NL)
+* **Timestamp:** 2026-06-13 19:42:03.
+* **TOS Location State:** Bay Slot 697
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2242
+* **Asset:** Container  (Waybill: WB-45143-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 517
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2243
+* **Asset:** Container  (Waybill: WB-56066-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 889
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2244
+* **Asset:** Container  (Waybill: WB-77354-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 736
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2245
+* **Asset:** Container  (Waybill: WB-75924-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2246
+* **Asset:** Container  (Waybill: WB-33764-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2247
+* **Asset:** Container  (Waybill: WB-64397-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 765
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2248
+* **Asset:** Container  (Waybill: WB-40640-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 112
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2249
+* **Asset:** Container  (Waybill: WB-81553-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2250
+* **Asset:** Container  (Waybill: WB-50439-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 349
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2251
+* **Asset:** Container  (Waybill: WB-84936-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2252
+* **Asset:** Container  (Waybill: WB-45447-NL)
+* **Timestamp:** 2026-06-13 19:42:04.
+* **TOS Location State:** Bay Slot 716
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2253
+* **Asset:** Container  (Waybill: WB-53303-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 232
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2254
+* **Asset:** Container  (Waybill: WB-52590-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 344
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2255
+* **Asset:** Container  (Waybill: WB-84863-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 973
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2256
+* **Asset:** Container  (Waybill: WB-92783-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 304
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2257
+* **Asset:** Container  (Waybill: WB-37996-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 745
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2258
+* **Asset:** Container  (Waybill: WB-90235-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2259
+* **Asset:** Container  (Waybill: WB-40617-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 919
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2260
+* **Asset:** Container  (Waybill: WB-13062-NL)
+* **Timestamp:** 2026-06-13 19:42:05.
+* **TOS Location State:** Bay Slot 136
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2261
+* **Asset:** Container  (Waybill: WB-72039-NL)
+* **Timestamp:** 2026-06-13 19:42:06.
+* **TOS Location State:** Bay Slot 784
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2262
+* **Asset:** Container  (Waybill: WB-44184-NL)
+* **Timestamp:** 2026-06-13 19:42:06.
+* **TOS Location State:** Bay Slot 917
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2263
+* **Asset:** Container  (Waybill: WB-75176-NL)
+* **Timestamp:** 2026-06-13 19:42:06.
+* **TOS Location State:** Bay Slot 103
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2264
+* **Asset:** Container  (Waybill: WB-98818-NL)
+* **Timestamp:** 2026-06-13 19:42:06.
+* **TOS Location State:** Bay Slot 493
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2265
+* **Asset:** Container  (Waybill: WB-78077-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 715
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2266
+* **Asset:** Container  (Waybill: WB-98501-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 298
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2267
+* **Asset:** Container  (Waybill: WB-40983-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 686
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2268
+* **Asset:** Container  (Waybill: WB-38822-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 438
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2269
+* **Asset:** Container  (Waybill: WB-45549-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 944
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2270
+* **Asset:** Container  (Waybill: WB-45878-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 938
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2271
+* **Asset:** Container  (Waybill: WB-13703-NL)
+* **Timestamp:** 2026-06-13 19:42:07.
+* **TOS Location State:** Bay Slot 634
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2272
+* **Asset:** Container  (Waybill: WB-36623-NL)
+* **Timestamp:** 2026-06-13 19:42:08.
+* **TOS Location State:** Bay Slot 756
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2273
+* **Asset:** Container  (Waybill: WB-38849-NL)
+* **Timestamp:** 2026-06-13 19:42:08.
+* **TOS Location State:** Bay Slot 151
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2274
+* **Asset:** Container  (Waybill: WB-61371-NL)
+* **Timestamp:** 2026-06-13 19:42:08.
+* **TOS Location State:** Bay Slot 133
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2275
+* **Asset:** Container  (Waybill: WB-32960-NL)
+* **Timestamp:** 2026-06-13 19:42:08.
+* **TOS Location State:** Bay Slot 226
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2276
+* **Asset:** Container  (Waybill: WB-87903-NL)
+* **Timestamp:** 2026-06-13 19:42:09.
+* **TOS Location State:** Bay Slot 460
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2277
+* **Asset:** Container  (Waybill: WB-37645-NL)
+* **Timestamp:** 2026-06-13 19:42:09.
+* **TOS Location State:** Bay Slot 804
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2278
+* **Asset:** Container  (Waybill: WB-32313-NL)
+* **Timestamp:** 2026-06-13 19:42:09.
+* **TOS Location State:** Bay Slot 191
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2279
+* **Asset:** Container  (Waybill: WB-96333-NL)
+* **Timestamp:** 2026-06-13 19:42:09.
+* **TOS Location State:** Bay Slot 214
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2280
+* **Asset:** Container  (Waybill: WB-58751-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 472
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2281
+* **Asset:** Container  (Waybill: WB-57693-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 129
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2282
+* **Asset:** Container  (Waybill: WB-99009-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 391
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2283
+* **Asset:** Container  (Waybill: WB-20241-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 452
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2284
+* **Asset:** Container  (Waybill: WB-67902-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2285
+* **Asset:** Container  (Waybill: WB-77764-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 231
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2286
+* **Asset:** Container  (Waybill: WB-20498-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 381
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2287
+* **Asset:** Container  (Waybill: WB-45210-NL)
+* **Timestamp:** 2026-06-13 19:42:10.
+* **TOS Location State:** Bay Slot 618
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2288
+* **Asset:** Container  (Waybill: WB-39362-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 367
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2289
+* **Asset:** Container  (Waybill: WB-12582-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 605
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2290
+* **Asset:** Container  (Waybill: WB-54452-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 988
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2291
+* **Asset:** Container  (Waybill: WB-38627-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2292
+* **Asset:** Container  (Waybill: WB-43112-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 413
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2293
+* **Asset:** Container  (Waybill: WB-23406-NL)
+* **Timestamp:** 2026-06-13 19:42:11.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2294
+* **Asset:** Container  (Waybill: WB-75862-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 556
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2295
+* **Asset:** Container  (Waybill: WB-79922-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 715
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2296
+* **Asset:** Container  (Waybill: WB-99438-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 668
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2297
+* **Asset:** Container  (Waybill: WB-31486-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 788
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2298
+* **Asset:** Container  (Waybill: WB-23801-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 881
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2299
+* **Asset:** Container  (Waybill: WB-22371-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 542
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2300
+* **Asset:** Container  (Waybill: WB-96122-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 253
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2301
+* **Asset:** Container  (Waybill: WB-76788-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 416
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2302
+* **Asset:** Container  (Waybill: WB-86225-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 334
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2303
+* **Asset:** Container  (Waybill: WB-49028-NL)
+* **Timestamp:** 2026-06-13 19:42:12.
+* **TOS Location State:** Bay Slot 670
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2304
+* **Asset:** Container  (Waybill: WB-45875-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 633
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2305
+* **Asset:** Container  (Waybill: WB-14870-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2306
+* **Asset:** Container  (Waybill: WB-19584-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2307
+* **Asset:** Container  (Waybill: WB-10970-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2308
+* **Asset:** Container  (Waybill: WB-60957-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2309
+* **Asset:** Container  (Waybill: WB-18907-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2310
+* **Asset:** Container  (Waybill: WB-47004-NL)
+* **Timestamp:** 2026-06-13 19:42:13.
+* **TOS Location State:** Bay Slot 625
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2311
+* **Asset:** Container  (Waybill: WB-34633-NL)
+* **Timestamp:** 2026-06-13 19:42:14.
+* **TOS Location State:** Bay Slot 379
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2312
+* **Asset:** Container  (Waybill: WB-22409-NL)
+* **Timestamp:** 2026-06-13 19:42:14.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2313
+* **Asset:** Container  (Waybill: WB-95918-NL)
+* **Timestamp:** 2026-06-13 19:42:14.
+* **TOS Location State:** Bay Slot 241
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2314
+* **Asset:** Container  (Waybill: WB-83340-NL)
+* **Timestamp:** 2026-06-13 19:42:14.
+* **TOS Location State:** Bay Slot 241
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2315
+* **Asset:** Container  (Waybill: WB-28514-NL)
+* **Timestamp:** 2026-06-13 19:42:14.
+* **TOS Location State:** Bay Slot 918
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2316
+* **Asset:** Container  (Waybill: WB-72512-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 991
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2317
+* **Asset:** Container  (Waybill: WB-35024-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 228
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2318
+* **Asset:** Container  (Waybill: WB-11268-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 619
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2319
+* **Asset:** Container  (Waybill: WB-45507-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 871
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2320
+* **Asset:** Container  (Waybill: WB-74825-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 997
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2321
+* **Asset:** Container  (Waybill: WB-91686-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 692
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2322
+* **Asset:** Container  (Waybill: WB-71935-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 790
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2323
+* **Asset:** Container  (Waybill: WB-34754-NL)
+* **Timestamp:** 2026-06-13 19:42:15.
+* **TOS Location State:** Bay Slot 556
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2324
+* **Asset:** Container  (Waybill: WB-73918-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 255
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2325
+* **Asset:** Container  (Waybill: WB-43382-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 338
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2326
+* **Asset:** Container  (Waybill: WB-86978-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 969
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2327
+* **Asset:** Container  (Waybill: WB-21104-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 450
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2328
+* **Asset:** Container  (Waybill: WB-13730-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 391
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2329
+* **Asset:** Container  (Waybill: WB-18034-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 325
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2330
+* **Asset:** Container  (Waybill: WB-13698-NL)
+* **Timestamp:** 2026-06-13 19:42:16.
+* **TOS Location State:** Bay Slot 502
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2331
+* **Asset:** Container  (Waybill: WB-78698-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2332
+* **Asset:** Container  (Waybill: WB-94895-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 288
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2333
+* **Asset:** Container  (Waybill: WB-90479-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 975
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2334
+* **Asset:** Container  (Waybill: WB-79046-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 526
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2335
+* **Asset:** Container  (Waybill: WB-92387-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 961
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2336
+* **Asset:** Container  (Waybill: WB-99480-NL)
+* **Timestamp:** 2026-06-13 19:42:17.
+* **TOS Location State:** Bay Slot 464
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2337
+* **Asset:** Container  (Waybill: WB-12749-NL)
+* **Timestamp:** 2026-06-13 19:42:18.
+* **TOS Location State:** Bay Slot 335
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2338
+* **Asset:** Container  (Waybill: WB-11531-NL)
+* **Timestamp:** 2026-06-13 19:42:18.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2339
+* **Asset:** Container  (Waybill: WB-85481-NL)
+* **Timestamp:** 2026-06-13 19:42:18.
+* **TOS Location State:** Bay Slot 958
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2340
+* **Asset:** Container  (Waybill: WB-31728-NL)
+* **Timestamp:** 2026-06-13 19:42:18.
+* **TOS Location State:** Bay Slot 903
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2341
+* **Asset:** Container  (Waybill: WB-40838-NL)
+* **Timestamp:** 2026-06-13 19:42:19.
+* **TOS Location State:** Bay Slot 454
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2342
+* **Asset:** Container  (Waybill: WB-22784-NL)
+* **Timestamp:** 2026-06-13 19:42:19.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2343
+* **Asset:** Container  (Waybill: WB-25820-NL)
+* **Timestamp:** 2026-06-13 19:42:19.
+* **TOS Location State:** Bay Slot 793
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2344
+* **Asset:** Container  (Waybill: WB-98832-NL)
+* **Timestamp:** 2026-06-13 19:42:19.
+* **TOS Location State:** Bay Slot 482
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2345
+* **Asset:** Container  (Waybill: WB-76910-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 592
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2346
+* **Asset:** Container  (Waybill: WB-70929-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 471
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2347
+* **Asset:** Container  (Waybill: WB-42380-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 558
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2348
+* **Asset:** Container  (Waybill: WB-48838-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 651
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2349
+* **Asset:** Container  (Waybill: WB-62785-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 660
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2350
+* **Asset:** Container  (Waybill: WB-16597-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2351
+* **Asset:** Container  (Waybill: WB-28538-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 488
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2352
+* **Asset:** Container  (Waybill: WB-83600-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2353
+* **Asset:** Container  (Waybill: WB-50178-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 296
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2354
+* **Asset:** Container  (Waybill: WB-83924-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 156
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2355
+* **Asset:** Container  (Waybill: WB-12890-NL)
+* **Timestamp:** 2026-06-13 19:42:20.
+* **TOS Location State:** Bay Slot 227
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2356
+* **Asset:** Container  (Waybill: WB-52892-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 646
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2357
+* **Asset:** Container  (Waybill: WB-87702-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 538
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2358
+* **Asset:** Container  (Waybill: WB-95692-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 295
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2359
+* **Asset:** Container  (Waybill: WB-75476-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 468
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2360
+* **Asset:** Container  (Waybill: WB-68529-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 241
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2361
+* **Asset:** Container  (Waybill: WB-13629-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 881
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2362
+* **Asset:** Container  (Waybill: WB-15866-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 484
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2363
+* **Asset:** Container  (Waybill: WB-97698-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 871
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2364
+* **Asset:** Container  (Waybill: WB-96818-NL)
+* **Timestamp:** 2026-06-13 19:42:21.
+* **TOS Location State:** Bay Slot 333
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2365
+* **Asset:** Container  (Waybill: WB-51494-NL)
+* **Timestamp:** 2026-06-13 19:42:22.
+* **TOS Location State:** Bay Slot 127
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2366
+* **Asset:** Container  (Waybill: WB-86564-NL)
+* **Timestamp:** 2026-06-13 19:42:22.
+* **TOS Location State:** Bay Slot 367
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2367
+* **Asset:** Container  (Waybill: WB-91254-NL)
+* **Timestamp:** 2026-06-13 19:42:22.
+* **TOS Location State:** Bay Slot 946
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2368
+* **Asset:** Container  (Waybill: WB-56441-NL)
+* **Timestamp:** 2026-06-13 19:42:22.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2369
+* **Asset:** Container  (Waybill: WB-49485-NL)
+* **Timestamp:** 2026-06-13 19:42:23.
+* **TOS Location State:** Bay Slot 280
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2370
+* **Asset:** Container  (Waybill: WB-21550-NL)
+* **Timestamp:** 2026-06-13 19:42:23.
+* **TOS Location State:** Bay Slot 516
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2371
+* **Asset:** Container  (Waybill: WB-48104-NL)
+* **Timestamp:** 2026-06-13 19:42:23.
+* **TOS Location State:** Bay Slot 472
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2372
+* **Asset:** Container  (Waybill: WB-58412-NL)
+* **Timestamp:** 2026-06-13 19:42:23.
+* **TOS Location State:** Bay Slot 247
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2373
+* **Asset:** Container  (Waybill: WB-12810-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2374
+* **Asset:** Container  (Waybill: WB-80807-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 355
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2375
+* **Asset:** Container  (Waybill: WB-15764-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 252
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2376
+* **Asset:** Container  (Waybill: WB-33229-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 494
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2377
+* **Asset:** Container  (Waybill: WB-98960-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2378
+* **Asset:** Container  (Waybill: WB-22817-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 507
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2379
+* **Asset:** Container  (Waybill: WB-19502-NL)
+* **Timestamp:** 2026-06-13 19:42:24.
+* **TOS Location State:** Bay Slot 823
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2380
+* **Asset:** Container  (Waybill: WB-80045-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 301
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2381
+* **Asset:** Container  (Waybill: WB-44834-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 868
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2382
+* **Asset:** Container  (Waybill: WB-84269-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2383
+* **Asset:** Container  (Waybill: WB-51813-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2384
+* **Asset:** Container  (Waybill: WB-55934-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 691
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2385
+* **Asset:** Container  (Waybill: WB-89669-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 463
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2386
+* **Asset:** Container  (Waybill: WB-67553-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 803
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2387
+* **Asset:** Container  (Waybill: WB-50114-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 258
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2388
+* **Asset:** Container  (Waybill: WB-18975-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 221
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2389
+* **Asset:** Container  (Waybill: WB-72096-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 928
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2390
+* **Asset:** Container  (Waybill: WB-37572-NL)
+* **Timestamp:** 2026-06-13 19:42:25.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2391
+* **Asset:** Container  (Waybill: WB-35144-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 178
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2392
+* **Asset:** Container  (Waybill: WB-39647-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 364
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2393
+* **Asset:** Container  (Waybill: WB-93303-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 461
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2394
+* **Asset:** Container  (Waybill: WB-82748-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2395
+* **Asset:** Container  (Waybill: WB-76433-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 123
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2396
+* **Asset:** Container  (Waybill: WB-93405-NL)
+* **Timestamp:** 2026-06-13 19:42:26.
+* **TOS Location State:** Bay Slot 629
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2397
+* **Asset:** Container  (Waybill: WB-37001-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2398
+* **Asset:** Container  (Waybill: WB-76501-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 536
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2399
+* **Asset:** Container  (Waybill: WB-45365-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 224
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2400
+* **Asset:** Container  (Waybill: WB-23921-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 305
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2401
+* **Asset:** Container  (Waybill: WB-14633-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 873
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2402
+* **Asset:** Container  (Waybill: WB-72059-NL)
+* **Timestamp:** 2026-06-13 19:42:27.
+* **TOS Location State:** Bay Slot 319
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2403
+* **Asset:** Container  (Waybill: WB-99228-NL)
+* **Timestamp:** 2026-06-13 19:42:28.
+* **TOS Location State:** Bay Slot 714
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2404
+* **Asset:** Container  (Waybill: WB-57419-NL)
+* **Timestamp:** 2026-06-13 19:42:28.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2405
+* **Asset:** Container  (Waybill: WB-37893-NL)
+* **Timestamp:** 2026-06-13 19:42:28.
+* **TOS Location State:** Bay Slot 829
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2406
+* **Asset:** Container  (Waybill: WB-44031-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 104
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2407
+* **Asset:** Container  (Waybill: WB-13070-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 665
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2408
+* **Asset:** Container  (Waybill: WB-86171-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 778
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2409
+* **Asset:** Container  (Waybill: WB-64040-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2410
+* **Asset:** Container  (Waybill: WB-17814-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 638
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2411
+* **Asset:** Container  (Waybill: WB-37704-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 413
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2412
+* **Asset:** Container  (Waybill: WB-57938-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 453
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2413
+* **Asset:** Container  (Waybill: WB-50487-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 327
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2414
+* **Asset:** Container  (Waybill: WB-59841-NL)
+* **Timestamp:** 2026-06-13 19:42:29.
+* **TOS Location State:** Bay Slot 657
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2415
+* **Asset:** Container  (Waybill: WB-86899-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2416
+* **Asset:** Container  (Waybill: WB-58509-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 449
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2417
+* **Asset:** Container  (Waybill: WB-97986-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 985
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2418
+* **Asset:** Container  (Waybill: WB-81363-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 640
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2419
+* **Asset:** Container  (Waybill: WB-33749-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2420
+* **Asset:** Container  (Waybill: WB-83578-NL)
+* **Timestamp:** 2026-06-13 19:42:30.
+* **TOS Location State:** Bay Slot 714
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2421
+* **Asset:** Container  (Waybill: WB-55184-NL)
+* **Timestamp:** 2026-06-13 19:42:31.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2422
+* **Asset:** Container  (Waybill: WB-40683-NL)
+* **Timestamp:** 2026-06-13 19:42:31.
+* **TOS Location State:** Bay Slot 854
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2423
+* **Asset:** Container  (Waybill: WB-49079-NL)
+* **Timestamp:** 2026-06-13 19:42:31.
+* **TOS Location State:** Bay Slot 556
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2424
+* **Asset:** Container  (Waybill: WB-57705-NL)
+* **Timestamp:** 2026-06-13 19:42:31.
+* **TOS Location State:** Bay Slot 356
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2425
+* **Asset:** Container  (Waybill: WB-26066-NL)
+* **Timestamp:** 2026-06-13 19:42:31.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2426
+* **Asset:** Container  (Waybill: WB-42798-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2427
+* **Asset:** Container  (Waybill: WB-27711-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 140
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2428
+* **Asset:** Container  (Waybill: WB-13739-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 451
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2429
+* **Asset:** Container  (Waybill: WB-38516-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 793
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2430
+* **Asset:** Container  (Waybill: WB-86112-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 317
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2431
+* **Asset:** Container  (Waybill: WB-33084-NL)
+* **Timestamp:** 2026-06-13 19:42:32.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2432
+* **Asset:** Container  (Waybill: WB-15882-NL)
+* **Timestamp:** 2026-06-13 19:42:33.
+* **TOS Location State:** Bay Slot 821
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2433
+* **Asset:** Container  (Waybill: WB-29898-NL)
+* **Timestamp:** 2026-06-13 19:42:33.
+* **TOS Location State:** Bay Slot 952
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2434
+* **Asset:** Container  (Waybill: WB-27465-NL)
+* **Timestamp:** 2026-06-13 19:42:33.
+* **TOS Location State:** Bay Slot 178
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2435
+* **Asset:** Container  (Waybill: WB-45587-NL)
+* **Timestamp:** 2026-06-13 19:42:33.
+* **TOS Location State:** Bay Slot 367
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2436
+* **Asset:** Container  (Waybill: WB-79365-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 749
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2437
+* **Asset:** Container  (Waybill: WB-42979-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2438
+* **Asset:** Container  (Waybill: WB-73475-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 210
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2439
+* **Asset:** Container  (Waybill: WB-69879-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 288
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2440
+* **Asset:** Container  (Waybill: WB-92750-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 948
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2441
+* **Asset:** Container  (Waybill: WB-54284-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 850
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2442
+* **Asset:** Container  (Waybill: WB-15101-NL)
+* **Timestamp:** 2026-06-13 19:42:34.
+* **TOS Location State:** Bay Slot 193
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2443
+* **Asset:** Container  (Waybill: WB-86109-NL)
+* **Timestamp:** 2026-06-13 19:42:35.
+* **TOS Location State:** Bay Slot 615
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2444
+* **Asset:** Container  (Waybill: WB-78179-NL)
+* **Timestamp:** 2026-06-13 19:42:35.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2445
+* **Asset:** Container  (Waybill: WB-54182-NL)
+* **Timestamp:** 2026-06-13 19:42:36.
+* **TOS Location State:** Bay Slot 490
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2446
+* **Asset:** Container  (Waybill: WB-39347-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 496
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2447
+* **Asset:** Container  (Waybill: WB-27689-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 862
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2448
+* **Asset:** Container  (Waybill: WB-64428-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 832
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2449
+* **Asset:** Container  (Waybill: WB-82605-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 686
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2450
+* **Asset:** Container  (Waybill: WB-55339-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 379
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2451
+* **Asset:** Container  (Waybill: WB-89386-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 685
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2452
+* **Asset:** Container  (Waybill: WB-99868-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 936
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2453
+* **Asset:** Container  (Waybill: WB-92798-NL)
+* **Timestamp:** 2026-06-13 19:42:37.
+* **TOS Location State:** Bay Slot 118
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2454
+* **Asset:** Container  (Waybill: WB-72227-NL)
+* **Timestamp:** 2026-06-13 19:42:38.
+* **TOS Location State:** Bay Slot 256
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2455
+* **Asset:** Container  (Waybill: WB-90314-NL)
+* **Timestamp:** 2026-06-13 19:42:38.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2456
+* **Asset:** Container  (Waybill: WB-59285-NL)
+* **Timestamp:** 2026-06-13 19:42:38.
+* **TOS Location State:** Bay Slot 796
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2457
+* **Asset:** Container  (Waybill: WB-53114-NL)
+* **Timestamp:** 2026-06-13 19:42:38.
+* **TOS Location State:** Bay Slot 654
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2458
+* **Asset:** Container  (Waybill: WB-92432-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 652
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2459
+* **Asset:** Container  (Waybill: WB-75322-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 402
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2460
+* **Asset:** Container  (Waybill: WB-93938-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2461
+* **Asset:** Container  (Waybill: WB-15191-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2462
+* **Asset:** Container  (Waybill: WB-31654-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2463
+* **Asset:** Container  (Waybill: WB-99368-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2464
+* **Asset:** Container  (Waybill: WB-68036-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 516
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2465
+* **Asset:** Container  (Waybill: WB-13421-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 583
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2466
+* **Asset:** Container  (Waybill: WB-67060-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 772
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2467
+* **Asset:** Container  (Waybill: WB-30671-NL)
+* **Timestamp:** 2026-06-13 19:42:39.
+* **TOS Location State:** Bay Slot 104
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2468
+* **Asset:** Container  (Waybill: WB-71537-NL)
+* **Timestamp:** 2026-06-13 19:42:40.
+* **TOS Location State:** Bay Slot 274
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2469
+* **Asset:** Container  (Waybill: WB-88524-NL)
+* **Timestamp:** 2026-06-13 19:42:40.
+* **TOS Location State:** Bay Slot 340
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2470
+* **Asset:** Container  (Waybill: WB-79730-NL)
+* **Timestamp:** 2026-06-13 19:42:40.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2471
+* **Asset:** Container  (Waybill: WB-45702-NL)
+* **Timestamp:** 2026-06-13 19:42:40.
+* **TOS Location State:** Bay Slot 493
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2472
+* **Asset:** Container  (Waybill: WB-91172-NL)
+* **Timestamp:** 2026-06-13 19:42:40.
+* **TOS Location State:** Bay Slot 877
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2473
+* **Asset:** Container  (Waybill: WB-67778-NL)
+* **Timestamp:** 2026-06-13 19:42:41.
+* **TOS Location State:** Bay Slot 863
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2474
+* **Asset:** Container  (Waybill: WB-39977-NL)
+* **Timestamp:** 2026-06-13 19:42:41.
+* **TOS Location State:** Bay Slot 445
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2475
+* **Asset:** Container  (Waybill: WB-72950-NL)
+* **Timestamp:** 2026-06-13 19:42:41.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2476
+* **Asset:** Container  (Waybill: WB-39806-NL)
+* **Timestamp:** 2026-06-13 19:42:41.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2477
+* **Asset:** Container  (Waybill: WB-84428-NL)
+* **Timestamp:** 2026-06-13 19:42:41.
+* **TOS Location State:** Bay Slot 193
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2478
+* **Asset:** Container  (Waybill: WB-86874-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 271
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2479
+* **Asset:** Container  (Waybill: WB-52160-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 853
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2480
+* **Asset:** Container  (Waybill: WB-77496-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 867
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2481
+* **Asset:** Container  (Waybill: WB-46002-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 313
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2482
+* **Asset:** Container  (Waybill: WB-23711-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 191
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2483
+* **Asset:** Container  (Waybill: WB-72230-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 852
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2484
+* **Asset:** Container  (Waybill: WB-85299-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2485
+* **Asset:** Container  (Waybill: WB-10346-NL)
+* **Timestamp:** 2026-06-13 19:42:42.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2486
+* **Asset:** Container  (Waybill: WB-90660-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 479
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2487
+* **Asset:** Container  (Waybill: WB-13061-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 722
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2488
+* **Asset:** Container  (Waybill: WB-86267-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 712
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2489
+* **Asset:** Container  (Waybill: WB-59174-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 553
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2490
+* **Asset:** Container  (Waybill: WB-87189-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2491
+* **Asset:** Container  (Waybill: WB-13516-NL)
+* **Timestamp:** 2026-06-13 19:42:43.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2492
+* **Asset:** Container  (Waybill: WB-66278-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 418
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2493
+* **Asset:** Container  (Waybill: WB-60198-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 377
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2494
+* **Asset:** Container  (Waybill: WB-11118-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 988
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2495
+* **Asset:** Container  (Waybill: WB-32414-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 624
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2496
+* **Asset:** Container  (Waybill: WB-98216-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 931
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2497
+* **Asset:** Container  (Waybill: WB-90962-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 177
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2498
+* **Asset:** Container  (Waybill: WB-31079-NL)
+* **Timestamp:** 2026-06-13 19:42:44.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2499
+* **Asset:** Container  (Waybill: WB-23398-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 839
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2500
+* **Asset:** Container  (Waybill: WB-71789-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2501
+* **Asset:** Container  (Waybill: WB-35519-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 832
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2502
+* **Asset:** Container  (Waybill: WB-41426-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 514
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2503
+* **Asset:** Container  (Waybill: WB-19583-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 283
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2504
+* **Asset:** Container  (Waybill: WB-40856-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2505
+* **Asset:** Container  (Waybill: WB-14823-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 862
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2506
+* **Asset:** Container  (Waybill: WB-42078-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 239
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2507
+* **Asset:** Container  (Waybill: WB-27594-NL)
+* **Timestamp:** 2026-06-13 19:42:45.
+* **TOS Location State:** Bay Slot 191
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2508
+* **Asset:** Container  (Waybill: WB-35480-NL)
+* **Timestamp:** 2026-06-13 19:42:46.
+* **TOS Location State:** Bay Slot 312
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2509
+* **Asset:** Container  (Waybill: WB-60401-NL)
+* **Timestamp:** 2026-06-13 19:42:46.
+* **TOS Location State:** Bay Slot 990
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2510
+* **Asset:** Container  (Waybill: WB-40166-NL)
+* **Timestamp:** 2026-06-13 19:42:46.
+* **TOS Location State:** Bay Slot 616
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2511
+* **Asset:** Container  (Waybill: WB-96366-NL)
+* **Timestamp:** 2026-06-13 19:42:46.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2512
+* **Asset:** Container  (Waybill: WB-46113-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2513
+* **Asset:** Container  (Waybill: WB-74501-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 538
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2514
+* **Asset:** Container  (Waybill: WB-38072-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 899
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2515
+* **Asset:** Container  (Waybill: WB-44819-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 909
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2516
+* **Asset:** Container  (Waybill: WB-75368-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 316
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2517
+* **Asset:** Container  (Waybill: WB-38159-NL)
+* **Timestamp:** 2026-06-13 19:42:47.
+* **TOS Location State:** Bay Slot 925
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2518
+* **Asset:** Container  (Waybill: WB-36618-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 760
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2519
+* **Asset:** Container  (Waybill: WB-37389-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2520
+* **Asset:** Container  (Waybill: WB-98748-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2521
+* **Asset:** Container  (Waybill: WB-40289-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 499
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2522
+* **Asset:** Container  (Waybill: WB-37146-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2523
+* **Asset:** Container  (Waybill: WB-96440-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2524
+* **Asset:** Container  (Waybill: WB-45008-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2525
+* **Asset:** Container  (Waybill: WB-93321-NL)
+* **Timestamp:** 2026-06-13 19:42:48.
+* **TOS Location State:** Bay Slot 344
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2526
+* **Asset:** Container  (Waybill: WB-79502-NL)
+* **Timestamp:** 2026-06-13 19:42:49.
+* **TOS Location State:** Bay Slot 335
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2527
+* **Asset:** Container  (Waybill: WB-92461-NL)
+* **Timestamp:** 2026-06-13 19:42:49.
+* **TOS Location State:** Bay Slot 548
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2528
+* **Asset:** Container  (Waybill: WB-55962-NL)
+* **Timestamp:** 2026-06-13 19:42:49.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2529
+* **Asset:** Container  (Waybill: WB-30728-NL)
+* **Timestamp:** 2026-06-13 19:42:49.
+* **TOS Location State:** Bay Slot 340
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2530
+* **Asset:** Container  (Waybill: WB-87714-NL)
+* **Timestamp:** 2026-06-13 19:42:49.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2531
+* **Asset:** Container  (Waybill: WB-72327-NL)
+* **Timestamp:** 2026-06-13 19:42:50.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2532
+* **Asset:** Container  (Waybill: WB-56223-NL)
+* **Timestamp:** 2026-06-13 19:42:50.
+* **TOS Location State:** Bay Slot 337
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2533
+* **Asset:** Container  (Waybill: WB-63914-NL)
+* **Timestamp:** 2026-06-13 19:42:51.
+* **TOS Location State:** Bay Slot 820
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2534
+* **Asset:** Container  (Waybill: WB-33572-NL)
+* **Timestamp:** 2026-06-13 19:42:52.
+* **TOS Location State:** Bay Slot 912
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2535
+* **Asset:** Container  (Waybill: WB-63516-NL)
+* **Timestamp:** 2026-06-13 19:42:52.
+* **TOS Location State:** Bay Slot 811
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2536
+* **Asset:** Container  (Waybill: WB-40391-NL)
+* **Timestamp:** 2026-06-13 19:42:52.
+* **TOS Location State:** Bay Slot 465
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2537
+* **Asset:** Container  (Waybill: WB-63164-NL)
+* **Timestamp:** 2026-06-13 19:42:53.
+* **TOS Location State:** Bay Slot 900
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2538
+* **Asset:** Container  (Waybill: WB-55046-NL)
+* **Timestamp:** 2026-06-13 19:42:53.
+* **TOS Location State:** Bay Slot 882
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2539
+* **Asset:** Container  (Waybill: WB-33852-NL)
+* **Timestamp:** 2026-06-13 19:42:53.
+* **TOS Location State:** Bay Slot 598
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2540
+* **Asset:** Container  (Waybill: WB-50148-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2541
+* **Asset:** Container  (Waybill: WB-25934-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 313
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2542
+* **Asset:** Container  (Waybill: WB-49599-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 472
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2543
+* **Asset:** Container  (Waybill: WB-11215-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 168
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2544
+* **Asset:** Container  (Waybill: WB-72207-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 257
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2545
+* **Asset:** Container  (Waybill: WB-85033-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 321
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2546
+* **Asset:** Container  (Waybill: WB-17358-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 553
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2547
+* **Asset:** Container  (Waybill: WB-21932-NL)
+* **Timestamp:** 2026-06-13 19:42:54.
+* **TOS Location State:** Bay Slot 216
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2548
+* **Asset:** Container  (Waybill: WB-82745-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 585
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2549
+* **Asset:** Container  (Waybill: WB-20126-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2550
+* **Asset:** Container  (Waybill: WB-63414-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 490
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2551
+* **Asset:** Container  (Waybill: WB-39491-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 523
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2552
+* **Asset:** Container  (Waybill: WB-57920-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 209
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2553
+* **Asset:** Container  (Waybill: WB-76103-NL)
+* **Timestamp:** 2026-06-13 19:42:55.
+* **TOS Location State:** Bay Slot 829
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2554
+* **Asset:** Container  (Waybill: WB-58586-NL)
+* **Timestamp:** 2026-06-13 19:42:56.
+* **TOS Location State:** Bay Slot 333
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2555
+* **Asset:** Container  (Waybill: WB-42371-NL)
+* **Timestamp:** 2026-06-13 19:42:56.
+* **TOS Location State:** Bay Slot 408
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2556
+* **Asset:** Container  (Waybill: WB-71420-NL)
+* **Timestamp:** 2026-06-13 19:42:56.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2557
+* **Asset:** Container  (Waybill: WB-37761-NL)
+* **Timestamp:** 2026-06-13 19:42:56.
+* **TOS Location State:** Bay Slot 976
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2558
+* **Asset:** Container  (Waybill: WB-79832-NL)
+* **Timestamp:** 2026-06-13 19:42:56.
+* **TOS Location State:** Bay Slot 133
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2559
+* **Asset:** Container  (Waybill: WB-67721-NL)
+* **Timestamp:** 2026-06-13 19:42:57.
+* **TOS Location State:** Bay Slot 123
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2560
+* **Asset:** Container  (Waybill: WB-55439-NL)
+* **Timestamp:** 2026-06-13 19:42:57.
+* **TOS Location State:** Bay Slot 445
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2561
+* **Asset:** Container  (Waybill: WB-92690-NL)
+* **Timestamp:** 2026-06-13 19:42:57.
+* **TOS Location State:** Bay Slot 827
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2562
+* **Asset:** Container  (Waybill: WB-37268-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 597
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2563
+* **Asset:** Container  (Waybill: WB-54573-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 850
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2564
+* **Asset:** Container  (Waybill: WB-10205-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 583
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2565
+* **Asset:** Container  (Waybill: WB-47331-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 319
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2566
+* **Asset:** Container  (Waybill: WB-48125-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 711
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2567
+* **Asset:** Container  (Waybill: WB-15464-NL)
+* **Timestamp:** 2026-06-13 19:42:58.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2568
+* **Asset:** Container  (Waybill: WB-39593-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 205
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2569
+* **Asset:** Container  (Waybill: WB-92601-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 179
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2570
+* **Asset:** Container  (Waybill: WB-90800-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 225
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2571
+* **Asset:** Container  (Waybill: WB-85994-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 619
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2572
+* **Asset:** Container  (Waybill: WB-13035-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 118
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2573
+* **Asset:** Container  (Waybill: WB-29036-NL)
+* **Timestamp:** 2026-06-13 19:42:59.
+* **TOS Location State:** Bay Slot 513
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2574
+* **Asset:** Container  (Waybill: WB-61577-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 825
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2575
+* **Asset:** Container  (Waybill: WB-61901-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 930
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2576
+* **Asset:** Container  (Waybill: WB-94571-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 454
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2577
+* **Asset:** Container  (Waybill: WB-77366-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 763
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2578
+* **Asset:** Container  (Waybill: WB-46478-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 913
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2579
+* **Asset:** Container  (Waybill: WB-20478-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 812
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2580
+* **Asset:** Container  (Waybill: WB-72428-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 203
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2581
+* **Asset:** Container  (Waybill: WB-10895-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 583
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2582
+* **Asset:** Container  (Waybill: WB-37373-NL)
+* **Timestamp:** 2026-06-13 19:43:00.
+* **TOS Location State:** Bay Slot 113
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2583
+* **Asset:** Container  (Waybill: WB-76637-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 121
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2584
+* **Asset:** Container  (Waybill: WB-37905-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2585
+* **Asset:** Container  (Waybill: WB-28859-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 831
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2586
+* **Asset:** Container  (Waybill: WB-61325-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 184
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2587
+* **Asset:** Container  (Waybill: WB-56037-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 764
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2588
+* **Asset:** Container  (Waybill: WB-80621-NL)
+* **Timestamp:** 2026-06-13 19:43:01.
+* **TOS Location State:** Bay Slot 444
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2589
+* **Asset:** Container  (Waybill: WB-51594-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 370
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2590
+* **Asset:** Container  (Waybill: WB-83922-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 299
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2591
+* **Asset:** Container  (Waybill: WB-83523-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 117
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2592
+* **Asset:** Container  (Waybill: WB-10331-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 832
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2593
+* **Asset:** Container  (Waybill: WB-85248-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 877
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2594
+* **Asset:** Container  (Waybill: WB-55403-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2595
+* **Asset:** Container  (Waybill: WB-75797-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 256
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2596
+* **Asset:** Container  (Waybill: WB-97316-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 856
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2597
+* **Asset:** Container  (Waybill: WB-60722-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 490
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2598
+* **Asset:** Container  (Waybill: WB-68735-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 936
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2599
+* **Asset:** Container  (Waybill: WB-97889-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 914
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2600
+* **Asset:** Container  (Waybill: WB-62947-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 110
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2601
+* **Asset:** Container  (Waybill: WB-44495-NL)
+* **Timestamp:** 2026-06-13 19:43:02.
+* **TOS Location State:** Bay Slot 297
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2602
+* **Asset:** Container  (Waybill: WB-73971-NL)
+* **Timestamp:** 2026-06-13 19:43:03.
+* **TOS Location State:** Bay Slot 610
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2603
+* **Asset:** Container  (Waybill: WB-46299-NL)
+* **Timestamp:** 2026-06-13 19:43:03.
+* **TOS Location State:** Bay Slot 659
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2604
+* **Asset:** Container  (Waybill: WB-14963-NL)
+* **Timestamp:** 2026-06-13 19:43:03.
+* **TOS Location State:** Bay Slot 399
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2605
+* **Asset:** Container  (Waybill: WB-48639-NL)
+* **Timestamp:** 2026-06-13 19:43:03.
+* **TOS Location State:** Bay Slot 181
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2606
+* **Asset:** Container  (Waybill: WB-53939-NL)
+* **Timestamp:** 2026-06-13 19:43:03.
+* **TOS Location State:** Bay Slot 850
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2607
+* **Asset:** Container  (Waybill: WB-93233-NL)
+* **Timestamp:** 2026-06-13 19:43:04.
+* **TOS Location State:** Bay Slot 378
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2608
+* **Asset:** Container  (Waybill: WB-31264-NL)
+* **Timestamp:** 2026-06-13 19:43:04.
+* **TOS Location State:** Bay Slot 263
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2609
+* **Asset:** Container  (Waybill: WB-30467-NL)
+* **Timestamp:** 2026-06-13 19:43:04.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2610
+* **Asset:** Container  (Waybill: WB-82744-NL)
+* **Timestamp:** 2026-06-13 19:43:04.
+* **TOS Location State:** Bay Slot 868
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2611
+* **Asset:** Container  (Waybill: WB-47331-NL)
+* **Timestamp:** 2026-06-13 19:43:04.
+* **TOS Location State:** Bay Slot 686
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2612
+* **Asset:** Container  (Waybill: WB-61823-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 157
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2613
+* **Asset:** Container  (Waybill: WB-77388-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 487
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2614
+* **Asset:** Container  (Waybill: WB-32213-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 214
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2615
+* **Asset:** Container  (Waybill: WB-35839-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2616
+* **Asset:** Container  (Waybill: WB-20468-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 311
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2617
+* **Asset:** Container  (Waybill: WB-81861-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 514
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2618
+* **Asset:** Container  (Waybill: WB-33905-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 961
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2619
+* **Asset:** Container  (Waybill: WB-59763-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 995
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2620
+* **Asset:** Container  (Waybill: WB-91262-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 391
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2621
+* **Asset:** Container  (Waybill: WB-46668-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 901
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2622
+* **Asset:** Container  (Waybill: WB-28221-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 385
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2623
+* **Asset:** Container  (Waybill: WB-15548-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 634
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2624
+* **Asset:** Container  (Waybill: WB-69779-NL)
+* **Timestamp:** 2026-06-13 19:43:05.
+* **TOS Location State:** Bay Slot 961
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2625
+* **Asset:** Container  (Waybill: WB-22178-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 327
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2626
+* **Asset:** Container  (Waybill: WB-43116-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 613
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2627
+* **Asset:** Container  (Waybill: WB-53111-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2628
+* **Asset:** Container  (Waybill: WB-10425-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 391
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2629
+* **Asset:** Container  (Waybill: WB-24065-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2630
+* **Asset:** Container  (Waybill: WB-30239-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2631
+* **Asset:** Container  (Waybill: WB-74342-NL)
+* **Timestamp:** 2026-06-13 19:43:06.
+* **TOS Location State:** Bay Slot 592
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2632
+* **Asset:** Container  (Waybill: WB-26718-NL)
+* **Timestamp:** 2026-06-13 19:43:07.
+* **TOS Location State:** Bay Slot 869
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2633
+* **Asset:** Container  (Waybill: WB-66299-NL)
+* **Timestamp:** 2026-06-13 19:43:07.
+* **TOS Location State:** Bay Slot 570
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2634
+* **Asset:** Container  (Waybill: WB-75624-NL)
+* **Timestamp:** 2026-06-13 19:43:08.
+* **TOS Location State:** Bay Slot 475
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2635
+* **Asset:** Container  (Waybill: WB-41861-NL)
+* **Timestamp:** 2026-06-13 19:43:08.
+* **TOS Location State:** Bay Slot 835
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2636
+* **Asset:** Container  (Waybill: WB-34706-NL)
+* **Timestamp:** 2026-06-13 19:43:08.
+* **TOS Location State:** Bay Slot 880
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2637
+* **Asset:** Container  (Waybill: WB-73680-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 427
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2638
+* **Asset:** Container  (Waybill: WB-68495-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2639
+* **Asset:** Container  (Waybill: WB-30767-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 794
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2640
+* **Asset:** Container  (Waybill: WB-62942-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 919
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2641
+* **Asset:** Container  (Waybill: WB-29300-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 184
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2642
+* **Asset:** Container  (Waybill: WB-15110-NL)
+* **Timestamp:** 2026-06-13 19:43:09.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2643
+* **Asset:** Container  (Waybill: WB-36082-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 888
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2644
+* **Asset:** Container  (Waybill: WB-10685-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2645
+* **Asset:** Container  (Waybill: WB-20657-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 301
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2646
+* **Asset:** Container  (Waybill: WB-31258-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 612
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2647
+* **Asset:** Container  (Waybill: WB-55580-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 486
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2648
+* **Asset:** Container  (Waybill: WB-79689-NL)
+* **Timestamp:** 2026-06-13 19:43:10.
+* **TOS Location State:** Bay Slot 272
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2649
+* **Asset:** Container  (Waybill: WB-65406-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 517
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2650
+* **Asset:** Container  (Waybill: WB-64632-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2651
+* **Asset:** Container  (Waybill: WB-18041-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 529
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2652
+* **Asset:** Container  (Waybill: WB-40140-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 673
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2653
+* **Asset:** Container  (Waybill: WB-59757-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 469
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2654
+* **Asset:** Container  (Waybill: WB-44735-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 235
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2655
+* **Asset:** Container  (Waybill: WB-96459-NL)
+* **Timestamp:** 2026-06-13 19:43:11.
+* **TOS Location State:** Bay Slot 686
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2656
+* **Asset:** Container  (Waybill: WB-26201-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2657
+* **Asset:** Container  (Waybill: WB-20193-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 736
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2658
+* **Asset:** Container  (Waybill: WB-69672-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 466
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2659
+* **Asset:** Container  (Waybill: WB-84998-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 719
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2660
+* **Asset:** Container  (Waybill: WB-86039-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 453
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2661
+* **Asset:** Container  (Waybill: WB-79782-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 173
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2662
+* **Asset:** Container  (Waybill: WB-64139-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 993
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2663
+* **Asset:** Container  (Waybill: WB-84756-NL)
+* **Timestamp:** 2026-06-13 19:43:12.
+* **TOS Location State:** Bay Slot 586
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2664
+* **Asset:** Container  (Waybill: WB-72543-NL)
+* **Timestamp:** 2026-06-13 19:43:13.
+* **TOS Location State:** Bay Slot 619
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2665
+* **Asset:** Container  (Waybill: WB-82212-NL)
+* **Timestamp:** 2026-06-13 19:43:13.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2666
+* **Asset:** Container  (Waybill: WB-91170-NL)
+* **Timestamp:** 2026-06-13 19:43:13.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2667
+* **Asset:** Container  (Waybill: WB-37509-NL)
+* **Timestamp:** 2026-06-13 19:43:13.
+* **TOS Location State:** Bay Slot 716
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2668
+* **Asset:** Container  (Waybill: WB-17835-NL)
+* **Timestamp:** 2026-06-13 19:43:13.
+* **TOS Location State:** Bay Slot 112
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2669
+* **Asset:** Container  (Waybill: WB-75680-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 760
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2670
+* **Asset:** Container  (Waybill: WB-17664-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 335
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2671
+* **Asset:** Container  (Waybill: WB-50276-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 717
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2672
+* **Asset:** Container  (Waybill: WB-42385-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 498
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2673
+* **Asset:** Container  (Waybill: WB-60643-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 590
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2674
+* **Asset:** Container  (Waybill: WB-90692-NL)
+* **Timestamp:** 2026-06-13 19:43:14.
+* **TOS Location State:** Bay Slot 375
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2675
+* **Asset:** Container  (Waybill: WB-49784-NL)
+* **Timestamp:** 2026-06-13 19:43:15.
+* **TOS Location State:** Bay Slot 702
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2676
+* **Asset:** Container  (Waybill: WB-32487-NL)
+* **Timestamp:** 2026-06-13 19:43:15.
+* **TOS Location State:** Bay Slot 326
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2677
+* **Asset:** Container  (Waybill: WB-17688-NL)
+* **Timestamp:** 2026-06-13 19:43:15.
+* **TOS Location State:** Bay Slot 804
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2678
+* **Asset:** Container  (Waybill: WB-29330-NL)
+* **Timestamp:** 2026-06-13 19:43:15.
+* **TOS Location State:** Bay Slot 501
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2679
+* **Asset:** Container  (Waybill: WB-99753-NL)
+* **Timestamp:** 2026-06-13 19:43:16.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2680
+* **Asset:** Container  (Waybill: WB-13686-NL)
+* **Timestamp:** 2026-06-13 19:43:16.
+* **TOS Location State:** Bay Slot 149
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2681
+* **Asset:** Container  (Waybill: WB-63051-NL)
+* **Timestamp:** 2026-06-13 19:43:16.
+* **TOS Location State:** Bay Slot 682
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2682
+* **Asset:** Container  (Waybill: WB-53776-NL)
+* **Timestamp:** 2026-06-13 19:43:16.
+* **TOS Location State:** Bay Slot 784
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2683
+* **Asset:** Container  (Waybill: WB-50369-NL)
+* **Timestamp:** 2026-06-13 19:43:16.
+* **TOS Location State:** Bay Slot 910
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2684
+* **Asset:** Container  (Waybill: WB-16412-NL)
+* **Timestamp:** 2026-06-13 19:43:17.
+* **TOS Location State:** Bay Slot 673
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2685
+* **Asset:** Container  (Waybill: WB-99152-NL)
+* **Timestamp:** 2026-06-13 19:43:17.
+* **TOS Location State:** Bay Slot 295
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2686
+* **Asset:** Container  (Waybill: WB-89480-NL)
+* **Timestamp:** 2026-06-13 19:43:17.
+* **TOS Location State:** Bay Slot 466
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2687
+* **Asset:** Container  (Waybill: WB-44504-NL)
+* **Timestamp:** 2026-06-13 19:43:17.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2688
+* **Asset:** Container  (Waybill: WB-14768-NL)
+* **Timestamp:** 2026-06-13 19:43:17.
+* **TOS Location State:** Bay Slot 367
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2689
+* **Asset:** Container  (Waybill: WB-84821-NL)
+* **Timestamp:** 2026-06-13 19:43:18.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2690
+* **Asset:** Container  (Waybill: WB-54229-NL)
+* **Timestamp:** 2026-06-13 19:43:18.
+* **TOS Location State:** Bay Slot 956
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2691
+* **Asset:** Container  (Waybill: WB-84443-NL)
+* **Timestamp:** 2026-06-13 19:43:18.
+* **TOS Location State:** Bay Slot 387
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2692
+* **Asset:** Container  (Waybill: WB-40315-NL)
+* **Timestamp:** 2026-06-13 19:43:18.
+* **TOS Location State:** Bay Slot 106
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2693
+* **Asset:** Container  (Waybill: WB-88194-NL)
+* **Timestamp:** 2026-06-13 19:43:19.
+* **TOS Location State:** Bay Slot 184
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2694
+* **Asset:** Container  (Waybill: WB-82785-NL)
+* **Timestamp:** 2026-06-13 19:43:19.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2695
+* **Asset:** Container  (Waybill: WB-78413-NL)
+* **Timestamp:** 2026-06-13 19:43:19.
+* **TOS Location State:** Bay Slot 767
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2696
+* **Asset:** Container  (Waybill: WB-31419-NL)
+* **Timestamp:** 2026-06-13 19:43:19.
+* **TOS Location State:** Bay Slot 213
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2697
+* **Asset:** Container  (Waybill: WB-98516-NL)
+* **Timestamp:** 2026-06-13 19:43:19.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2698
+* **Asset:** Container  (Waybill: WB-81674-NL)
+* **Timestamp:** 2026-06-13 19:43:20.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2699
+* **Asset:** Container  (Waybill: WB-58436-NL)
+* **Timestamp:** 2026-06-13 19:43:20.
+* **TOS Location State:** Bay Slot 935
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2700
+* **Asset:** Container  (Waybill: WB-58554-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 330
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2701
+* **Asset:** Container  (Waybill: WB-25533-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 314
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2702
+* **Asset:** Container  (Waybill: WB-21014-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 792
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2703
+* **Asset:** Container  (Waybill: WB-41076-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2704
+* **Asset:** Container  (Waybill: WB-41324-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 923
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2705
+* **Asset:** Container  (Waybill: WB-81857-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 379
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2706
+* **Asset:** Container  (Waybill: WB-70628-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 496
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2707
+* **Asset:** Container  (Waybill: WB-67455-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 136
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2708
+* **Asset:** Container  (Waybill: WB-73743-NL)
+* **Timestamp:** 2026-06-13 19:43:21.
+* **TOS Location State:** Bay Slot 758
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2709
+* **Asset:** Container  (Waybill: WB-23403-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 884
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2710
+* **Asset:** Container  (Waybill: WB-43138-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 244
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2711
+* **Asset:** Container  (Waybill: WB-28207-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 867
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2712
+* **Asset:** Container  (Waybill: WB-37601-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2713
+* **Asset:** Container  (Waybill: WB-53621-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 733
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2714
+* **Asset:** Container  (Waybill: WB-16852-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 759
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2715
+* **Asset:** Container  (Waybill: WB-81296-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 171
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2716
+* **Asset:** Container  (Waybill: WB-45312-NL)
+* **Timestamp:** 2026-06-13 19:43:22.
+* **TOS Location State:** Bay Slot 410
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2717
+* **Asset:** Container  (Waybill: WB-96722-NL)
+* **Timestamp:** 2026-06-13 19:43:23.
+* **TOS Location State:** Bay Slot 149
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2718
+* **Asset:** Container  (Waybill: WB-47289-NL)
+* **Timestamp:** 2026-06-13 19:43:23.
+* **TOS Location State:** Bay Slot 740
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2719
+* **Asset:** Container  (Waybill: WB-87974-NL)
+* **Timestamp:** 2026-06-13 19:43:23.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2720
+* **Asset:** Container  (Waybill: WB-52766-NL)
+* **Timestamp:** 2026-06-13 19:43:23.
+* **TOS Location State:** Bay Slot 402
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2721
+* **Asset:** Container  (Waybill: WB-73439-NL)
+* **Timestamp:** 2026-06-13 19:43:23.
+* **TOS Location State:** Bay Slot 423
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2722
+* **Asset:** Container  (Waybill: WB-88622-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 555
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2723
+* **Asset:** Container  (Waybill: WB-94346-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 325
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2724
+* **Asset:** Container  (Waybill: WB-20233-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 234
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2725
+* **Asset:** Container  (Waybill: WB-67660-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 355
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2726
+* **Asset:** Container  (Waybill: WB-73800-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2727
+* **Asset:** Container  (Waybill: WB-89934-NL)
+* **Timestamp:** 2026-06-13 19:43:24.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2728
+* **Asset:** Container  (Waybill: WB-51635-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 355
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2729
+* **Asset:** Container  (Waybill: WB-65760-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 280
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2730
+* **Asset:** Container  (Waybill: WB-87845-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 574
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2731
+* **Asset:** Container  (Waybill: WB-44175-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2732
+* **Asset:** Container  (Waybill: WB-23257-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 698
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2733
+* **Asset:** Container  (Waybill: WB-83975-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 601
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2734
+* **Asset:** Container  (Waybill: WB-55091-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 276
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2735
+* **Asset:** Container  (Waybill: WB-76368-NL)
+* **Timestamp:** 2026-06-13 19:43:25.
+* **TOS Location State:** Bay Slot 639
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2736
+* **Asset:** Container  (Waybill: WB-76087-NL)
+* **Timestamp:** 2026-06-13 19:43:26.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2737
+* **Asset:** Container  (Waybill: WB-85974-NL)
+* **Timestamp:** 2026-06-13 19:43:26.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2738
+* **Asset:** Container  (Waybill: WB-14483-NL)
+* **Timestamp:** 2026-06-13 19:43:26.
+* **TOS Location State:** Bay Slot 360
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2739
+* **Asset:** Container  (Waybill: WB-18035-NL)
+* **Timestamp:** 2026-06-13 19:43:27.
+* **TOS Location State:** Bay Slot 775
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2740
+* **Asset:** Container  (Waybill: WB-55268-NL)
+* **Timestamp:** 2026-06-13 19:43:27.
+* **TOS Location State:** Bay Slot 972
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2741
+* **Asset:** Container  (Waybill: WB-97452-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 345
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2742
+* **Asset:** Container  (Waybill: WB-87140-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 642
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2743
+* **Asset:** Container  (Waybill: WB-64782-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 824
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2744
+* **Asset:** Container  (Waybill: WB-13214-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 674
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2745
+* **Asset:** Container  (Waybill: WB-82044-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 640
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2746
+* **Asset:** Container  (Waybill: WB-63877-NL)
+* **Timestamp:** 2026-06-13 19:43:28.
+* **TOS Location State:** Bay Slot 791
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2747
+* **Asset:** Container  (Waybill: WB-52271-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 100
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2748
+* **Asset:** Container  (Waybill: WB-50874-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 481
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2749
+* **Asset:** Container  (Waybill: WB-35630-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 323
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2750
+* **Asset:** Container  (Waybill: WB-58763-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2751
+* **Asset:** Container  (Waybill: WB-74696-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 335
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2752
+* **Asset:** Container  (Waybill: WB-12310-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 774
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2753
+* **Asset:** Container  (Waybill: WB-71510-NL)
+* **Timestamp:** 2026-06-13 19:43:29.
+* **TOS Location State:** Bay Slot 574
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2754
+* **Asset:** Container  (Waybill: WB-71013-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 671
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2755
+* **Asset:** Container  (Waybill: WB-17914-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 970
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2756
+* **Asset:** Container  (Waybill: WB-81328-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 331
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2757
+* **Asset:** Container  (Waybill: WB-93553-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2758
+* **Asset:** Container  (Waybill: WB-43337-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2759
+* **Asset:** Container  (Waybill: WB-52442-NL)
+* **Timestamp:** 2026-06-13 19:43:30.
+* **TOS Location State:** Bay Slot 598
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2760
+* **Asset:** Container  (Waybill: WB-43647-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 907
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2761
+* **Asset:** Container  (Waybill: WB-23346-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 949
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2762
+* **Asset:** Container  (Waybill: WB-84014-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 150
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2763
+* **Asset:** Container  (Waybill: WB-96281-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 586
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2764
+* **Asset:** Container  (Waybill: WB-87294-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 244
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2765
+* **Asset:** Container  (Waybill: WB-79062-NL)
+* **Timestamp:** 2026-06-13 19:43:31.
+* **TOS Location State:** Bay Slot 799
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2766
+* **Asset:** Container  (Waybill: WB-79281-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 197
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2767
+* **Asset:** Container  (Waybill: WB-55149-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 754
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2768
+* **Asset:** Container  (Waybill: WB-18014-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 445
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2769
+* **Asset:** Container  (Waybill: WB-17880-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 524
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2770
+* **Asset:** Container  (Waybill: WB-33688-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 696
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2771
+* **Asset:** Container  (Waybill: WB-65709-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 601
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2772
+* **Asset:** Container  (Waybill: WB-76257-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 218
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2773
+* **Asset:** Container  (Waybill: WB-11234-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 405
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2774
+* **Asset:** Container  (Waybill: WB-28541-NL)
+* **Timestamp:** 2026-06-13 19:43:32.
+* **TOS Location State:** Bay Slot 530
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2775
+* **Asset:** Container  (Waybill: WB-88526-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 355
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2776
+* **Asset:** Container  (Waybill: WB-40758-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2777
+* **Asset:** Container  (Waybill: WB-25946-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 564
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2778
+* **Asset:** Container  (Waybill: WB-41405-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 366
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2779
+* **Asset:** Container  (Waybill: WB-91688-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 166
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2780
+* **Asset:** Container  (Waybill: WB-91149-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 986
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2781
+* **Asset:** Container  (Waybill: WB-72186-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 215
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2782
+* **Asset:** Container  (Waybill: WB-14460-NL)
+* **Timestamp:** 2026-06-13 19:43:33.
+* **TOS Location State:** Bay Slot 373
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2783
+* **Asset:** Container  (Waybill: WB-91816-NL)
+* **Timestamp:** 2026-06-13 19:43:34.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2784
+* **Asset:** Container  (Waybill: WB-96113-NL)
+* **Timestamp:** 2026-06-13 19:43:34.
+* **TOS Location State:** Bay Slot 132
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2785
+* **Asset:** Container  (Waybill: WB-86780-NL)
+* **Timestamp:** 2026-06-13 19:43:34.
+* **TOS Location State:** Bay Slot 775
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2786
+* **Asset:** Container  (Waybill: WB-50528-NL)
+* **Timestamp:** 2026-06-13 19:43:34.
+* **TOS Location State:** Bay Slot 913
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2787
+* **Asset:** Container  (Waybill: WB-85361-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2788
+* **Asset:** Container  (Waybill: WB-83747-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 315
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2789
+* **Asset:** Container  (Waybill: WB-88340-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 160
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2790
+* **Asset:** Container  (Waybill: WB-41414-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 650
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2791
+* **Asset:** Container  (Waybill: WB-17081-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2792
+* **Asset:** Container  (Waybill: WB-51054-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2793
+* **Asset:** Container  (Waybill: WB-44216-NL)
+* **Timestamp:** 2026-06-13 19:43:35.
+* **TOS Location State:** Bay Slot 520
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2794
+* **Asset:** Container  (Waybill: WB-15619-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 801
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2795
+* **Asset:** Container  (Waybill: WB-16155-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 374
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2796
+* **Asset:** Container  (Waybill: WB-88136-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 135
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2797
+* **Asset:** Container  (Waybill: WB-73437-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 735
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2798
+* **Asset:** Container  (Waybill: WB-15679-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2799
+* **Asset:** Container  (Waybill: WB-73394-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 526
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2800
+* **Asset:** Container  (Waybill: WB-69869-NL)
+* **Timestamp:** 2026-06-13 19:43:36.
+* **TOS Location State:** Bay Slot 405
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2801
+* **Asset:** Container  (Waybill: WB-10011-NL)
+* **Timestamp:** 2026-06-13 19:43:37.
+* **TOS Location State:** Bay Slot 524
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2802
+* **Asset:** Container  (Waybill: WB-50697-NL)
+* **Timestamp:** 2026-06-13 19:43:37.
+* **TOS Location State:** Bay Slot 745
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2803
+* **Asset:** Container  (Waybill: WB-81204-NL)
+* **Timestamp:** 2026-06-13 19:43:37.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2804
+* **Asset:** Container  (Waybill: WB-58667-NL)
+* **Timestamp:** 2026-06-13 19:43:37.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2805
+* **Asset:** Container  (Waybill: WB-18615-NL)
+* **Timestamp:** 2026-06-13 19:43:37.
+* **TOS Location State:** Bay Slot 193
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2806
+* **Asset:** Container  (Waybill: WB-72032-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2807
+* **Asset:** Container  (Waybill: WB-73707-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 425
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2808
+* **Asset:** Container  (Waybill: WB-81414-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 596
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2809
+* **Asset:** Container  (Waybill: WB-54993-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 768
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2810
+* **Asset:** Container  (Waybill: WB-74738-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 769
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2811
+* **Asset:** Container  (Waybill: WB-64111-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 664
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2812
+* **Asset:** Container  (Waybill: WB-22709-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 671
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2813
+* **Asset:** Container  (Waybill: WB-95831-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 481
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2814
+* **Asset:** Container  (Waybill: WB-27398-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2815
+* **Asset:** Container  (Waybill: WB-60858-NL)
+* **Timestamp:** 2026-06-13 19:43:38.
+* **TOS Location State:** Bay Slot 749
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2816
+* **Asset:** Container  (Waybill: WB-21650-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 279
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2817
+* **Asset:** Container  (Waybill: WB-12516-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2818
+* **Asset:** Container  (Waybill: WB-28763-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 633
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2819
+* **Asset:** Container  (Waybill: WB-56868-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 638
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2820
+* **Asset:** Container  (Waybill: WB-72771-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 262
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2821
+* **Asset:** Container  (Waybill: WB-79628-NL)
+* **Timestamp:** 2026-06-13 19:43:39.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2822
+* **Asset:** Container  (Waybill: WB-11735-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 382
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2823
+* **Asset:** Container  (Waybill: WB-28181-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2824
+* **Asset:** Container  (Waybill: WB-84932-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 102
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2825
+* **Asset:** Container  (Waybill: WB-14139-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 593
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2826
+* **Asset:** Container  (Waybill: WB-20516-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 897
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2827
+* **Asset:** Container  (Waybill: WB-40168-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 295
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2828
+* **Asset:** Container  (Waybill: WB-13568-NL)
+* **Timestamp:** 2026-06-13 19:43:40.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2829
+* **Asset:** Container  (Waybill: WB-20168-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2830
+* **Asset:** Container  (Waybill: WB-54441-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 172
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2831
+* **Asset:** Container  (Waybill: WB-10523-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 228
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2832
+* **Asset:** Container  (Waybill: WB-20697-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 227
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2833
+* **Asset:** Container  (Waybill: WB-58442-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 412
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2834
+* **Asset:** Container  (Waybill: WB-74194-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 133
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2835
+* **Asset:** Container  (Waybill: WB-78678-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 616
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2836
+* **Asset:** Container  (Waybill: WB-22845-NL)
+* **Timestamp:** 2026-06-13 19:43:41.
+* **TOS Location State:** Bay Slot 557
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2837
+* **Asset:** Container  (Waybill: WB-50249-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 187
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2838
+* **Asset:** Container  (Waybill: WB-49436-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2839
+* **Asset:** Container  (Waybill: WB-86759-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2840
+* **Asset:** Container  (Waybill: WB-93705-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 566
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2841
+* **Asset:** Container  (Waybill: WB-98842-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 823
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2842
+* **Asset:** Container  (Waybill: WB-34155-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 949
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2843
+* **Asset:** Container  (Waybill: WB-80736-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 175
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2844
+* **Asset:** Container  (Waybill: WB-36263-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 139
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2845
+* **Asset:** Container  (Waybill: WB-84272-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2846
+* **Asset:** Container  (Waybill: WB-33980-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 713
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2847
+* **Asset:** Container  (Waybill: WB-35841-NL)
+* **Timestamp:** 2026-06-13 19:43:42.
+* **TOS Location State:** Bay Slot 349
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2848
+* **Asset:** Container  (Waybill: WB-59247-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 326
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2849
+* **Asset:** Container  (Waybill: WB-61406-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 885
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2850
+* **Asset:** Container  (Waybill: WB-37354-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 295
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2851
+* **Asset:** Container  (Waybill: WB-14442-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 464
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2852
+* **Asset:** Container  (Waybill: WB-72927-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 184
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2853
+* **Asset:** Container  (Waybill: WB-81600-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 196
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2854
+* **Asset:** Container  (Waybill: WB-72369-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 895
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2855
+* **Asset:** Container  (Waybill: WB-95055-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 824
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2856
+* **Asset:** Container  (Waybill: WB-89828-NL)
+* **Timestamp:** 2026-06-13 19:43:43.
+* **TOS Location State:** Bay Slot 337
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2857
+* **Asset:** Container  (Waybill: WB-49441-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 555
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2858
+* **Asset:** Container  (Waybill: WB-85608-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 713
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2859
+* **Asset:** Container  (Waybill: WB-18548-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 576
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2860
+* **Asset:** Container  (Waybill: WB-44148-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 557
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2861
+* **Asset:** Container  (Waybill: WB-76466-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 406
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2862
+* **Asset:** Container  (Waybill: WB-72344-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 629
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2863
+* **Asset:** Container  (Waybill: WB-57974-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2864
+* **Asset:** Container  (Waybill: WB-46018-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 780
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2865
+* **Asset:** Container  (Waybill: WB-22818-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 458
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2866
+* **Asset:** Container  (Waybill: WB-31620-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 866
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2867
+* **Asset:** Container  (Waybill: WB-95333-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 101
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2868
+* **Asset:** Container  (Waybill: WB-35405-NL)
+* **Timestamp:** 2026-06-13 19:43:44.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2869
+* **Asset:** Container  (Waybill: WB-61299-NL)
+* **Timestamp:** 2026-06-13 19:43:45.
+* **TOS Location State:** Bay Slot 551
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2870
+* **Asset:** Container  (Waybill: WB-34692-NL)
+* **Timestamp:** 2026-06-13 19:43:45.
+* **TOS Location State:** Bay Slot 887
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2871
+* **Asset:** Container  (Waybill: WB-85931-NL)
+* **Timestamp:** 2026-06-13 19:43:45.
+* **TOS Location State:** Bay Slot 787
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2872
+* **Asset:** Container  (Waybill: WB-13505-NL)
+* **Timestamp:** 2026-06-13 19:43:45.
+* **TOS Location State:** Bay Slot 790
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2873
+* **Asset:** Container  (Waybill: WB-61265-NL)
+* **Timestamp:** 2026-06-13 19:43:46.
+* **TOS Location State:** Bay Slot 841
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2874
+* **Asset:** Container  (Waybill: WB-94127-NL)
+* **Timestamp:** 2026-06-13 19:43:46.
+* **TOS Location State:** Bay Slot 595
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2875
+* **Asset:** Container  (Waybill: WB-44489-NL)
+* **Timestamp:** 2026-06-13 19:43:46.
+* **TOS Location State:** Bay Slot 875
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2876
+* **Asset:** Container  (Waybill: WB-32870-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 105
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2877
+* **Asset:** Container  (Waybill: WB-99851-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 526
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2878
+* **Asset:** Container  (Waybill: WB-62180-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2879
+* **Asset:** Container  (Waybill: WB-20102-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 199
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2880
+* **Asset:** Container  (Waybill: WB-44822-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 999
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2881
+* **Asset:** Container  (Waybill: WB-40498-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 813
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2882
+* **Asset:** Container  (Waybill: WB-80585-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2883
+* **Asset:** Container  (Waybill: WB-52763-NL)
+* **Timestamp:** 2026-06-13 19:43:47.
+* **TOS Location State:** Bay Slot 793
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2884
+* **Asset:** Container  (Waybill: WB-58868-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 178
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2885
+* **Asset:** Container  (Waybill: WB-34991-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2886
+* **Asset:** Container  (Waybill: WB-48329-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 304
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2887
+* **Asset:** Container  (Waybill: WB-82050-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 952
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2888
+* **Asset:** Container  (Waybill: WB-44553-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2889
+* **Asset:** Container  (Waybill: WB-87299-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2890
+* **Asset:** Container  (Waybill: WB-84222-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2891
+* **Asset:** Container  (Waybill: WB-45957-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 780
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2892
+* **Asset:** Container  (Waybill: WB-49058-NL)
+* **Timestamp:** 2026-06-13 19:43:48.
+* **TOS Location State:** Bay Slot 976
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2893
+* **Asset:** Container  (Waybill: WB-20918-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2894
+* **Asset:** Container  (Waybill: WB-29778-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 185
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2895
+* **Asset:** Container  (Waybill: WB-11652-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 221
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2896
+* **Asset:** Container  (Waybill: WB-59753-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2897
+* **Asset:** Container  (Waybill: WB-28085-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 925
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2898
+* **Asset:** Container  (Waybill: WB-63905-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 640
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2899
+* **Asset:** Container  (Waybill: WB-88035-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 488
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2900
+* **Asset:** Container  (Waybill: WB-70872-NL)
+* **Timestamp:** 2026-06-13 19:43:49.
+* **TOS Location State:** Bay Slot 133
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2901
+* **Asset:** Container  (Waybill: WB-35216-NL)
+* **Timestamp:** 2026-06-13 19:43:50.
+* **TOS Location State:** Bay Slot 319
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2902
+* **Asset:** Container  (Waybill: WB-56333-NL)
+* **Timestamp:** 2026-06-13 19:43:50.
+* **TOS Location State:** Bay Slot 199
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2903
+* **Asset:** Container  (Waybill: WB-67019-NL)
+* **Timestamp:** 2026-06-13 19:43:50.
+* **TOS Location State:** Bay Slot 994
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2904
+* **Asset:** Container  (Waybill: WB-25437-NL)
+* **Timestamp:** 2026-06-13 19:43:51.
+* **TOS Location State:** Bay Slot 340
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2905
+* **Asset:** Container  (Waybill: WB-88401-NL)
+* **Timestamp:** 2026-06-13 19:43:51.
+* **TOS Location State:** Bay Slot 561
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2906
+* **Asset:** Container  (Waybill: WB-28998-NL)
+* **Timestamp:** 2026-06-13 19:43:51.
+* **TOS Location State:** Bay Slot 593
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2907
+* **Asset:** Container  (Waybill: WB-41641-NL)
+* **Timestamp:** 2026-06-13 19:43:51.
+* **TOS Location State:** Bay Slot 864
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2908
+* **Asset:** Container  (Waybill: WB-91661-NL)
+* **Timestamp:** 2026-06-13 19:43:52.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2909
+* **Asset:** Container  (Waybill: WB-79454-NL)
+* **Timestamp:** 2026-06-13 19:43:52.
+* **TOS Location State:** Bay Slot 934
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2910
+* **Asset:** Container  (Waybill: WB-25247-NL)
+* **Timestamp:** 2026-06-13 19:43:52.
+* **TOS Location State:** Bay Slot 219
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2911
+* **Asset:** Container  (Waybill: WB-11497-NL)
+* **Timestamp:** 2026-06-13 19:43:52.
+* **TOS Location State:** Bay Slot 681
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2912
+* **Asset:** Container  (Waybill: WB-31506-NL)
+* **Timestamp:** 2026-06-13 19:43:52.
+* **TOS Location State:** Bay Slot 934
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2913
+* **Asset:** Container  (Waybill: WB-66647-NL)
+* **Timestamp:** 2026-06-13 19:43:53.
+* **TOS Location State:** Bay Slot 499
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2914
+* **Asset:** Container  (Waybill: WB-28292-NL)
+* **Timestamp:** 2026-06-13 19:43:53.
+* **TOS Location State:** Bay Slot 229
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2915
+* **Asset:** Container  (Waybill: WB-51223-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2916
+* **Asset:** Container  (Waybill: WB-36907-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 123
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2917
+* **Asset:** Container  (Waybill: WB-87770-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 883
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2918
+* **Asset:** Container  (Waybill: WB-80834-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 842
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2919
+* **Asset:** Container  (Waybill: WB-48817-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2920
+* **Asset:** Container  (Waybill: WB-69813-NL)
+* **Timestamp:** 2026-06-13 19:43:54.
+* **TOS Location State:** Bay Slot 436
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2921
+* **Asset:** Container  (Waybill: WB-87427-NL)
+* **Timestamp:** 2026-06-13 19:43:55.
+* **TOS Location State:** Bay Slot 374
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2922
+* **Asset:** Container  (Waybill: WB-53139-NL)
+* **Timestamp:** 2026-06-13 19:43:55.
+* **TOS Location State:** Bay Slot 412
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2923
+* **Asset:** Container  (Waybill: WB-96077-NL)
+* **Timestamp:** 2026-06-13 19:43:55.
+* **TOS Location State:** Bay Slot 469
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2924
+* **Asset:** Container  (Waybill: WB-54144-NL)
+* **Timestamp:** 2026-06-13 19:43:55.
+* **TOS Location State:** Bay Slot 994
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2925
+* **Asset:** Container  (Waybill: WB-86105-NL)
+* **Timestamp:** 2026-06-13 19:43:55.
+* **TOS Location State:** Bay Slot 778
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2926
+* **Asset:** Container  (Waybill: WB-56272-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 125
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2927
+* **Asset:** Container  (Waybill: WB-65982-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 406
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2928
+* **Asset:** Container  (Waybill: WB-49187-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 769
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2929
+* **Asset:** Container  (Waybill: WB-20411-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 841
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2930
+* **Asset:** Container  (Waybill: WB-44282-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 805
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2931
+* **Asset:** Container  (Waybill: WB-94313-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 790
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2932
+* **Asset:** Container  (Waybill: WB-46991-NL)
+* **Timestamp:** 2026-06-13 19:43:56.
+* **TOS Location State:** Bay Slot 259
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2933
+* **Asset:** Container  (Waybill: WB-41169-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 273
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2934
+* **Asset:** Container  (Waybill: WB-62549-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 146
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2935
+* **Asset:** Container  (Waybill: WB-10225-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 275
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2936
+* **Asset:** Container  (Waybill: WB-46706-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 989
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2937
+* **Asset:** Container  (Waybill: WB-43110-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 148
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2938
+* **Asset:** Container  (Waybill: WB-97740-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 786
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2939
+* **Asset:** Container  (Waybill: WB-23611-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 921
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2940
+* **Asset:** Container  (Waybill: WB-76843-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 660
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2941
+* **Asset:** Container  (Waybill: WB-43611-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2942
+* **Asset:** Container  (Waybill: WB-89459-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2943
+* **Asset:** Container  (Waybill: WB-10716-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 329
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2944
+* **Asset:** Container  (Waybill: WB-47796-NL)
+* **Timestamp:** 2026-06-13 19:43:57.
+* **TOS Location State:** Bay Slot 548
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2945
+* **Asset:** Container  (Waybill: WB-67484-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 271
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2946
+* **Asset:** Container  (Waybill: WB-14436-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 628
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2947
+* **Asset:** Container  (Waybill: WB-63637-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2948
+* **Asset:** Container  (Waybill: WB-16754-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 740
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2949
+* **Asset:** Container  (Waybill: WB-10335-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 241
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2950
+* **Asset:** Container  (Waybill: WB-78507-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 952
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2951
+* **Asset:** Container  (Waybill: WB-70301-NL)
+* **Timestamp:** 2026-06-13 19:43:58.
+* **TOS Location State:** Bay Slot 523
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2952
+* **Asset:** Container  (Waybill: WB-79409-NL)
+* **Timestamp:** 2026-06-13 19:43:59.
+* **TOS Location State:** Bay Slot 753
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2953
+* **Asset:** Container  (Waybill: WB-79067-NL)
+* **Timestamp:** 2026-06-13 19:43:59.
+* **TOS Location State:** Bay Slot 673
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2954
+* **Asset:** Container  (Waybill: WB-32382-NL)
+* **Timestamp:** 2026-06-13 19:43:59.
+* **TOS Location State:** Bay Slot 749
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2955
+* **Asset:** Container  (Waybill: WB-56613-NL)
+* **Timestamp:** 2026-06-13 19:43:59.
+* **TOS Location State:** Bay Slot 317
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2956
+* **Asset:** Container  (Waybill: WB-69662-NL)
+* **Timestamp:** 2026-06-13 19:44:00.
+* **TOS Location State:** Bay Slot 334
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2957
+* **Asset:** Container  (Waybill: WB-45512-NL)
+* **Timestamp:** 2026-06-13 19:44:00.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2958
+* **Asset:** Container  (Waybill: WB-50690-NL)
+* **Timestamp:** 2026-06-13 19:44:00.
+* **TOS Location State:** Bay Slot 612
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2959
+* **Asset:** Container  (Waybill: WB-18431-NL)
+* **Timestamp:** 2026-06-13 19:44:00.
+* **TOS Location State:** Bay Slot 717
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2960
+* **Asset:** Container  (Waybill: WB-56990-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2961
+* **Asset:** Container  (Waybill: WB-10733-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 419
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2962
+* **Asset:** Container  (Waybill: WB-69705-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2963
+* **Asset:** Container  (Waybill: WB-43682-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 117
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2964
+* **Asset:** Container  (Waybill: WB-82873-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2965
+* **Asset:** Container  (Waybill: WB-87247-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 225
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2966
+* **Asset:** Container  (Waybill: WB-78332-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 502
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2967
+* **Asset:** Container  (Waybill: WB-62568-NL)
+* **Timestamp:** 2026-06-13 19:44:01.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2968
+* **Asset:** Container  (Waybill: WB-82496-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 188
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2969
+* **Asset:** Container  (Waybill: WB-30453-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2970
+* **Asset:** Container  (Waybill: WB-64010-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 313
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2971
+* **Asset:** Container  (Waybill: WB-96287-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 264
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2972
+* **Asset:** Container  (Waybill: WB-29613-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 278
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2973
+* **Asset:** Container  (Waybill: WB-91001-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 944
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2974
+* **Asset:** Container  (Waybill: WB-71775-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2975
+* **Asset:** Container  (Waybill: WB-16374-NL)
+* **Timestamp:** 2026-06-13 19:44:02.
+* **TOS Location State:** Bay Slot 853
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2976
+* **Asset:** Container  (Waybill: WB-66222-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 913
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2977
+* **Asset:** Container  (Waybill: WB-25538-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 628
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2978
+* **Asset:** Container  (Waybill: WB-36098-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 210
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2979
+* **Asset:** Container  (Waybill: WB-38782-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 753
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2980
+* **Asset:** Container  (Waybill: WB-73412-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 191
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2981
+* **Asset:** Container  (Waybill: WB-47758-NL)
+* **Timestamp:** 2026-06-13 19:44:03.
+* **TOS Location State:** Bay Slot 723
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2982
+* **Asset:** Container  (Waybill: WB-95519-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 571
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2983
+* **Asset:** Container  (Waybill: WB-80604-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 607
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2984
+* **Asset:** Container  (Waybill: WB-78809-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2985
+* **Asset:** Container  (Waybill: WB-66035-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2986
+* **Asset:** Container  (Waybill: WB-40691-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 255
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2987
+* **Asset:** Container  (Waybill: WB-92081-NL)
+* **Timestamp:** 2026-06-13 19:44:04.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2988
+* **Asset:** Container  (Waybill: WB-89882-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 155
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2989
+* **Asset:** Container  (Waybill: WB-85283-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 874
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2990
+* **Asset:** Container  (Waybill: WB-78962-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 206
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2991
+* **Asset:** Container  (Waybill: WB-57252-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 580
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2992
+* **Asset:** Container  (Waybill: WB-71990-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2993
+* **Asset:** Container  (Waybill: WB-89814-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2994
+* **Asset:** Container  (Waybill: WB-26678-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 471
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2995
+* **Asset:** Container  (Waybill: WB-26796-NL)
+* **Timestamp:** 2026-06-13 19:44:05.
+* **TOS Location State:** Bay Slot 161
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2996
+* **Asset:** Container  (Waybill: WB-92259-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 710
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2997
+* **Asset:** Container  (Waybill: WB-46205-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2998
+* **Asset:** Container  (Waybill: WB-34632-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 386
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #2999
+* **Asset:** Container  (Waybill: WB-88769-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 750
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3000
+* **Asset:** Container  (Waybill: WB-85110-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 989
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3001
+* **Asset:** Container  (Waybill: WB-96966-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 607
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3002
+* **Asset:** Container  (Waybill: WB-19572-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 863
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3003
+* **Asset:** Container  (Waybill: WB-20591-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 160
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3004
+* **Asset:** Container  (Waybill: WB-46287-NL)
+* **Timestamp:** 2026-06-13 19:44:06.
+* **TOS Location State:** Bay Slot 311
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3005
+* **Asset:** Container  (Waybill: WB-55992-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 662
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3006
+* **Asset:** Container  (Waybill: WB-54959-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 568
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3007
+* **Asset:** Container  (Waybill: WB-94422-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 545
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3008
+* **Asset:** Container  (Waybill: WB-36818-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 820
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3009
+* **Asset:** Container  (Waybill: WB-31205-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 406
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3010
+* **Asset:** Container  (Waybill: WB-78305-NL)
+* **Timestamp:** 2026-06-13 19:44:07.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3011
+* **Asset:** Container  (Waybill: WB-85572-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 437
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3012
+* **Asset:** Container  (Waybill: WB-38400-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 467
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3013
+* **Asset:** Container  (Waybill: WB-96827-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3014
+* **Asset:** Container  (Waybill: WB-99900-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 697
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3015
+* **Asset:** Container  (Waybill: WB-76487-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3016
+* **Asset:** Container  (Waybill: WB-54515-NL)
+* **Timestamp:** 2026-06-13 19:44:08.
+* **TOS Location State:** Bay Slot 661
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3017
+* **Asset:** Container  (Waybill: WB-76023-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 347
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3018
+* **Asset:** Container  (Waybill: WB-48946-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 971
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3019
+* **Asset:** Container  (Waybill: WB-78300-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 469
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3020
+* **Asset:** Container  (Waybill: WB-37533-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 583
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3021
+* **Asset:** Container  (Waybill: WB-79361-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 709
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3022
+* **Asset:** Container  (Waybill: WB-72887-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 104
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3023
+* **Asset:** Container  (Waybill: WB-15108-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 803
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3024
+* **Asset:** Container  (Waybill: WB-21822-NL)
+* **Timestamp:** 2026-06-13 19:44:09.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3025
+* **Asset:** Container  (Waybill: WB-23256-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 561
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3026
+* **Asset:** Container  (Waybill: WB-50294-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3027
+* **Asset:** Container  (Waybill: WB-37095-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3028
+* **Asset:** Container  (Waybill: WB-96938-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 802
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3029
+* **Asset:** Container  (Waybill: WB-10411-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 330
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3030
+* **Asset:** Container  (Waybill: WB-41627-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 552
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3031
+* **Asset:** Container  (Waybill: WB-51542-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3032
+* **Asset:** Container  (Waybill: WB-47073-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 852
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3033
+* **Asset:** Container  (Waybill: WB-59771-NL)
+* **Timestamp:** 2026-06-13 19:44:10.
+* **TOS Location State:** Bay Slot 238
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3034
+* **Asset:** Container  (Waybill: WB-79792-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3035
+* **Asset:** Container  (Waybill: WB-94001-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 809
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3036
+* **Asset:** Container  (Waybill: WB-97523-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 918
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3037
+* **Asset:** Container  (Waybill: WB-30941-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 982
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3038
+* **Asset:** Container  (Waybill: WB-99784-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 796
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3039
+* **Asset:** Container  (Waybill: WB-62557-NL)
+* **Timestamp:** 2026-06-13 19:44:11.
+* **TOS Location State:** Bay Slot 621
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3040
+* **Asset:** Container  (Waybill: WB-20363-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 898
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3041
+* **Asset:** Container  (Waybill: WB-59948-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3042
+* **Asset:** Container  (Waybill: WB-16157-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 147
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3043
+* **Asset:** Container  (Waybill: WB-74136-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 605
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3044
+* **Asset:** Container  (Waybill: WB-96411-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3045
+* **Asset:** Container  (Waybill: WB-15034-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 990
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3046
+* **Asset:** Container  (Waybill: WB-22856-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 175
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3047
+* **Asset:** Container  (Waybill: WB-50108-NL)
+* **Timestamp:** 2026-06-13 19:44:12.
+* **TOS Location State:** Bay Slot 300
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3048
+* **Asset:** Container  (Waybill: WB-72779-NL)
+* **Timestamp:** 2026-06-13 19:44:13.
+* **TOS Location State:** Bay Slot 991
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3049
+* **Asset:** Container  (Waybill: WB-88901-NL)
+* **Timestamp:** 2026-06-13 19:44:13.
+* **TOS Location State:** Bay Slot 336
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3050
+* **Asset:** Container  (Waybill: WB-82942-NL)
+* **Timestamp:** 2026-06-13 19:44:14.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3051
+* **Asset:** Container  (Waybill: WB-52393-NL)
+* **Timestamp:** 2026-06-13 19:44:14.
+* **TOS Location State:** Bay Slot 409
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3052
+* **Asset:** Container  (Waybill: WB-20582-NL)
+* **Timestamp:** 2026-06-13 19:44:14.
+* **TOS Location State:** Bay Slot 728
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3053
+* **Asset:** Container  (Waybill: WB-62912-NL)
+* **Timestamp:** 2026-06-13 19:44:14.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3054
+* **Asset:** Container  (Waybill: WB-34368-NL)
+* **Timestamp:** 2026-06-13 19:44:14.
+* **TOS Location State:** Bay Slot 856
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3055
+* **Asset:** Container  (Waybill: WB-27320-NL)
+* **Timestamp:** 2026-06-13 19:44:15.
+* **TOS Location State:** Bay Slot 423
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3056
+* **Asset:** Container  (Waybill: WB-41339-NL)
+* **Timestamp:** 2026-06-13 19:44:15.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3057
+* **Asset:** Container  (Waybill: WB-28161-NL)
+* **Timestamp:** 2026-06-13 19:44:15.
+* **TOS Location State:** Bay Slot 703
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3058
+* **Asset:** Container  (Waybill: WB-45429-NL)
+* **Timestamp:** 2026-06-13 19:44:15.
+* **TOS Location State:** Bay Slot 893
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3059
+* **Asset:** Container  (Waybill: WB-41273-NL)
+* **Timestamp:** 2026-06-13 19:44:15.
+* **TOS Location State:** Bay Slot 198
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3060
+* **Asset:** Container  (Waybill: WB-16179-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 793
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3061
+* **Asset:** Container  (Waybill: WB-32645-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 592
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3062
+* **Asset:** Container  (Waybill: WB-14015-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 360
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3063
+* **Asset:** Container  (Waybill: WB-63563-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 902
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3064
+* **Asset:** Container  (Waybill: WB-43160-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 333
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3065
+* **Asset:** Container  (Waybill: WB-51404-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 452
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3066
+* **Asset:** Container  (Waybill: WB-65814-NL)
+* **Timestamp:** 2026-06-13 19:44:16.
+* **TOS Location State:** Bay Slot 273
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3067
+* **Asset:** Container  (Waybill: WB-33786-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 388
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3068
+* **Asset:** Container  (Waybill: WB-22367-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3069
+* **Asset:** Container  (Waybill: WB-54905-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 129
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3070
+* **Asset:** Container  (Waybill: WB-88250-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3071
+* **Asset:** Container  (Waybill: WB-35044-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 311
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3072
+* **Asset:** Container  (Waybill: WB-28494-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 220
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3073
+* **Asset:** Container  (Waybill: WB-85839-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 414
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3074
+* **Asset:** Container  (Waybill: WB-34971-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 944
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3075
+* **Asset:** Container  (Waybill: WB-25751-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 364
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3076
+* **Asset:** Container  (Waybill: WB-62849-NL)
+* **Timestamp:** 2026-06-13 19:44:17.
+* **TOS Location State:** Bay Slot 812
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3077
+* **Asset:** Container  (Waybill: WB-37416-NL)
+* **Timestamp:** 2026-06-13 19:44:18.
+* **TOS Location State:** Bay Slot 832
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3078
+* **Asset:** Container  (Waybill: WB-99120-NL)
+* **Timestamp:** 2026-06-13 19:44:18.
+* **TOS Location State:** Bay Slot 866
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3079
+* **Asset:** Container  (Waybill: WB-17336-NL)
+* **Timestamp:** 2026-06-13 19:44:18.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3080
+* **Asset:** Container  (Waybill: WB-73733-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3081
+* **Asset:** Container  (Waybill: WB-95685-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3082
+* **Asset:** Container  (Waybill: WB-98207-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3083
+* **Asset:** Container  (Waybill: WB-89517-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 205
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3084
+* **Asset:** Container  (Waybill: WB-49235-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 855
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3085
+* **Asset:** Container  (Waybill: WB-12685-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3086
+* **Asset:** Container  (Waybill: WB-10952-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 386
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3087
+* **Asset:** Container  (Waybill: WB-60134-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3088
+* **Asset:** Container  (Waybill: WB-17319-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 947
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3089
+* **Asset:** Container  (Waybill: WB-37703-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 726
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3090
+* **Asset:** Container  (Waybill: WB-70487-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 289
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3091
+* **Asset:** Container  (Waybill: WB-56852-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 927
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3092
+* **Asset:** Container  (Waybill: WB-99806-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 214
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3093
+* **Asset:** Container  (Waybill: WB-75283-NL)
+* **Timestamp:** 2026-06-13 19:44:19.
+* **TOS Location State:** Bay Slot 628
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3094
+* **Asset:** Container  (Waybill: WB-11772-NL)
+* **Timestamp:** 2026-06-13 19:44:20.
+* **TOS Location State:** Bay Slot 445
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3095
+* **Asset:** Container  (Waybill: WB-58628-NL)
+* **Timestamp:** 2026-06-13 19:44:20.
+* **TOS Location State:** Bay Slot 558
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3096
+* **Asset:** Container  (Waybill: WB-15212-NL)
+* **Timestamp:** 2026-06-13 19:44:20.
+* **TOS Location State:** Bay Slot 229
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3097
+* **Asset:** Container  (Waybill: WB-52627-NL)
+* **Timestamp:** 2026-06-13 19:44:20.
+* **TOS Location State:** Bay Slot 249
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3098
+* **Asset:** Container  (Waybill: WB-27315-NL)
+* **Timestamp:** 2026-06-13 19:44:20.
+* **TOS Location State:** Bay Slot 964
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3099
+* **Asset:** Container  (Waybill: WB-29102-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 330
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3100
+* **Asset:** Container  (Waybill: WB-70646-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3101
+* **Asset:** Container  (Waybill: WB-51528-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 440
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3102
+* **Asset:** Container  (Waybill: WB-71474-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 464
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3103
+* **Asset:** Container  (Waybill: WB-60571-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 741
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3104
+* **Asset:** Container  (Waybill: WB-38142-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3105
+* **Asset:** Container  (Waybill: WB-54563-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 609
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3106
+* **Asset:** Container  (Waybill: WB-89921-NL)
+* **Timestamp:** 2026-06-13 19:44:21.
+* **TOS Location State:** Bay Slot 264
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3107
+* **Asset:** Container  (Waybill: WB-84051-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 213
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3108
+* **Asset:** Container  (Waybill: WB-85166-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 520
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3109
+* **Asset:** Container  (Waybill: WB-91791-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3110
+* **Asset:** Container  (Waybill: WB-14106-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 115
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3111
+* **Asset:** Container  (Waybill: WB-20316-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 889
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3112
+* **Asset:** Container  (Waybill: WB-29969-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 686
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3113
+* **Asset:** Container  (Waybill: WB-71348-NL)
+* **Timestamp:** 2026-06-13 19:44:22.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3114
+* **Asset:** Container  (Waybill: WB-71063-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 345
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3115
+* **Asset:** Container  (Waybill: WB-25931-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 550
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3116
+* **Asset:** Container  (Waybill: WB-99699-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 299
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3117
+* **Asset:** Container  (Waybill: WB-49640-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 304
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3118
+* **Asset:** Container  (Waybill: WB-12587-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 247
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3119
+* **Asset:** Container  (Waybill: WB-80168-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3120
+* **Asset:** Container  (Waybill: WB-33501-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3121
+* **Asset:** Container  (Waybill: WB-67694-NL)
+* **Timestamp:** 2026-06-13 19:44:23.
+* **TOS Location State:** Bay Slot 799
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3122
+* **Asset:** Container  (Waybill: WB-70166-NL)
+* **Timestamp:** 2026-06-13 19:44:24.
+* **TOS Location State:** Bay Slot 274
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3123
+* **Asset:** Container  (Waybill: WB-11018-NL)
+* **Timestamp:** 2026-06-13 19:44:24.
+* **TOS Location State:** Bay Slot 264
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3124
+* **Asset:** Container  (Waybill: WB-32714-NL)
+* **Timestamp:** 2026-06-13 19:44:24.
+* **TOS Location State:** Bay Slot 910
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3125
+* **Asset:** Container  (Waybill: WB-16818-NL)
+* **Timestamp:** 2026-06-13 19:44:25.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3126
+* **Asset:** Container  (Waybill: WB-65834-NL)
+* **Timestamp:** 2026-06-13 19:44:25.
+* **TOS Location State:** Bay Slot 901
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3127
+* **Asset:** Container  (Waybill: WB-50448-NL)
+* **Timestamp:** 2026-06-13 19:44:25.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3128
+* **Asset:** Container  (Waybill: WB-50201-NL)
+* **Timestamp:** 2026-06-13 19:44:25.
+* **TOS Location State:** Bay Slot 236
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3129
+* **Asset:** Container  (Waybill: WB-14952-NL)
+* **Timestamp:** 2026-06-13 19:44:25.
+* **TOS Location State:** Bay Slot 737
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3130
+* **Asset:** Container  (Waybill: WB-95486-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 176
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3131
+* **Asset:** Container  (Waybill: WB-88143-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 430
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3132
+* **Asset:** Container  (Waybill: WB-82133-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 646
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3133
+* **Asset:** Container  (Waybill: WB-67403-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 980
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3134
+* **Asset:** Container  (Waybill: WB-49254-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3135
+* **Asset:** Container  (Waybill: WB-58138-NL)
+* **Timestamp:** 2026-06-13 19:44:26.
+* **TOS Location State:** Bay Slot 640
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3136
+* **Asset:** Container  (Waybill: WB-44181-NL)
+* **Timestamp:** 2026-06-13 19:44:27.
+* **TOS Location State:** Bay Slot 223
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3137
+* **Asset:** Container  (Waybill: WB-17009-NL)
+* **Timestamp:** 2026-06-13 19:44:27.
+* **TOS Location State:** Bay Slot 925
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3138
+* **Asset:** Container  (Waybill: WB-91070-NL)
+* **Timestamp:** 2026-06-13 19:44:27.
+* **TOS Location State:** Bay Slot 985
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3139
+* **Asset:** Container  (Waybill: WB-51227-NL)
+* **Timestamp:** 2026-06-13 19:44:27.
+* **TOS Location State:** Bay Slot 777
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3140
+* **Asset:** Container  (Waybill: WB-52439-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 661
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3141
+* **Asset:** Container  (Waybill: WB-42881-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3142
+* **Asset:** Container  (Waybill: WB-46406-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 889
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3143
+* **Asset:** Container  (Waybill: WB-80532-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 478
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3144
+* **Asset:** Container  (Waybill: WB-58482-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 805
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3145
+* **Asset:** Container  (Waybill: WB-19969-NL)
+* **Timestamp:** 2026-06-13 19:44:28.
+* **TOS Location State:** Bay Slot 390
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3146
+* **Asset:** Container  (Waybill: WB-97215-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 423
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3147
+* **Asset:** Container  (Waybill: WB-41610-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 907
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3148
+* **Asset:** Container  (Waybill: WB-75560-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 670
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3149
+* **Asset:** Container  (Waybill: WB-52539-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 791
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3150
+* **Asset:** Container  (Waybill: WB-17562-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 569
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3151
+* **Asset:** Container  (Waybill: WB-61950-NL)
+* **Timestamp:** 2026-06-13 19:44:29.
+* **TOS Location State:** Bay Slot 769
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3152
+* **Asset:** Container  (Waybill: WB-72857-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3153
+* **Asset:** Container  (Waybill: WB-19749-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 803
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3154
+* **Asset:** Container  (Waybill: WB-58724-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 423
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3155
+* **Asset:** Container  (Waybill: WB-58913-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 896
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3156
+* **Asset:** Container  (Waybill: WB-66425-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 676
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3157
+* **Asset:** Container  (Waybill: WB-59429-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 717
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3158
+* **Asset:** Container  (Waybill: WB-34161-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 946
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3159
+* **Asset:** Container  (Waybill: WB-58379-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 271
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3160
+* **Asset:** Container  (Waybill: WB-36662-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 201
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3161
+* **Asset:** Container  (Waybill: WB-36293-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 684
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3162
+* **Asset:** Container  (Waybill: WB-98861-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 903
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3163
+* **Asset:** Container  (Waybill: WB-19856-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 822
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3164
+* **Asset:** Container  (Waybill: WB-27869-NL)
+* **Timestamp:** 2026-06-13 19:44:30.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3165
+* **Asset:** Container  (Waybill: WB-60005-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 484
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3166
+* **Asset:** Container  (Waybill: WB-32286-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 221
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3167
+* **Asset:** Container  (Waybill: WB-95123-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 932
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3168
+* **Asset:** Container  (Waybill: WB-89256-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 302
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3169
+* **Asset:** Container  (Waybill: WB-24251-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 325
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3170
+* **Asset:** Container  (Waybill: WB-25827-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3171
+* **Asset:** Container  (Waybill: WB-77449-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 319
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3172
+* **Asset:** Container  (Waybill: WB-26157-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 436
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3173
+* **Asset:** Container  (Waybill: WB-65422-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 894
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3174
+* **Asset:** Container  (Waybill: WB-35862-NL)
+* **Timestamp:** 2026-06-13 19:44:31.
+* **TOS Location State:** Bay Slot 374
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3175
+* **Asset:** Container  (Waybill: WB-87305-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 763
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3176
+* **Asset:** Container  (Waybill: WB-26512-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 462
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3177
+* **Asset:** Container  (Waybill: WB-59699-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 545
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3178
+* **Asset:** Container  (Waybill: WB-28377-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 238
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3179
+* **Asset:** Container  (Waybill: WB-71828-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 468
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3180
+* **Asset:** Container  (Waybill: WB-92660-NL)
+* **Timestamp:** 2026-06-13 19:44:32.
+* **TOS Location State:** Bay Slot 220
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3181
+* **Asset:** Container  (Waybill: WB-70784-NL)
+* **Timestamp:** 2026-06-13 19:44:33.
+* **TOS Location State:** Bay Slot 958
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3182
+* **Asset:** Container  (Waybill: WB-41243-NL)
+* **Timestamp:** 2026-06-13 19:44:33.
+* **TOS Location State:** Bay Slot 272
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3183
+* **Asset:** Container  (Waybill: WB-53007-NL)
+* **Timestamp:** 2026-06-13 19:44:33.
+* **TOS Location State:** Bay Slot 319
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3184
+* **Asset:** Container  (Waybill: WB-81534-NL)
+* **Timestamp:** 2026-06-13 19:44:33.
+* **TOS Location State:** Bay Slot 322
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3185
+* **Asset:** Container  (Waybill: WB-42839-NL)
+* **Timestamp:** 2026-06-13 19:44:34.
+* **TOS Location State:** Bay Slot 943
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3186
+* **Asset:** Container  (Waybill: WB-74369-NL)
+* **Timestamp:** 2026-06-13 19:44:34.
+* **TOS Location State:** Bay Slot 178
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3187
+* **Asset:** Container  (Waybill: WB-64114-NL)
+* **Timestamp:** 2026-06-13 19:44:34.
+* **TOS Location State:** Bay Slot 966
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3188
+* **Asset:** Container  (Waybill: WB-26501-NL)
+* **Timestamp:** 2026-06-13 19:44:34.
+* **TOS Location State:** Bay Slot 862
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3189
+* **Asset:** Container  (Waybill: WB-34850-NL)
+* **Timestamp:** 2026-06-13 19:44:34.
+* **TOS Location State:** Bay Slot 810
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3190
+* **Asset:** Container  (Waybill: WB-41447-NL)
+* **Timestamp:** 2026-06-13 19:44:35.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3191
+* **Asset:** Container  (Waybill: WB-30995-NL)
+* **Timestamp:** 2026-06-13 19:44:35.
+* **TOS Location State:** Bay Slot 751
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3192
+* **Asset:** Container  (Waybill: WB-11316-NL)
+* **Timestamp:** 2026-06-13 19:44:35.
+* **TOS Location State:** Bay Slot 553
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3193
+* **Asset:** Container  (Waybill: WB-36429-NL)
+* **Timestamp:** 2026-06-13 19:44:35.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3194
+* **Asset:** Container  (Waybill: WB-97941-NL)
+* **Timestamp:** 2026-06-13 19:44:35.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3195
+* **Asset:** Container  (Waybill: WB-47301-NL)
+* **Timestamp:** 2026-06-13 19:44:36.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3196
+* **Asset:** Container  (Waybill: WB-73296-NL)
+* **Timestamp:** 2026-06-13 19:44:36.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3197
+* **Asset:** Container  (Waybill: WB-20283-NL)
+* **Timestamp:** 2026-06-13 19:44:36.
+* **TOS Location State:** Bay Slot 175
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3198
+* **Asset:** Container  (Waybill: WB-77207-NL)
+* **Timestamp:** 2026-06-13 19:44:36.
+* **TOS Location State:** Bay Slot 928
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3199
+* **Asset:** Container  (Waybill: WB-38210-NL)
+* **Timestamp:** 2026-06-13 19:44:36.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3200
+* **Asset:** Container  (Waybill: WB-62734-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 964
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3201
+* **Asset:** Container  (Waybill: WB-91006-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 970
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3202
+* **Asset:** Container  (Waybill: WB-11340-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 302
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3203
+* **Asset:** Container  (Waybill: WB-24217-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 138
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3204
+* **Asset:** Container  (Waybill: WB-88980-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 205
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3205
+* **Asset:** Container  (Waybill: WB-53826-NL)
+* **Timestamp:** 2026-06-13 19:44:37.
+* **TOS Location State:** Bay Slot 436
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3206
+* **Asset:** Container  (Waybill: WB-27265-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 276
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3207
+* **Asset:** Container  (Waybill: WB-25799-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 235
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3208
+* **Asset:** Container  (Waybill: WB-15473-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3209
+* **Asset:** Container  (Waybill: WB-38504-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 265
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3210
+* **Asset:** Container  (Waybill: WB-21297-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3211
+* **Asset:** Container  (Waybill: WB-98226-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 290
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3212
+* **Asset:** Container  (Waybill: WB-11475-NL)
+* **Timestamp:** 2026-06-13 19:44:38.
+* **TOS Location State:** Bay Slot 529
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3213
+* **Asset:** Container  (Waybill: WB-24249-NL)
+* **Timestamp:** 2026-06-13 19:44:39.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3214
+* **Asset:** Container  (Waybill: WB-44328-NL)
+* **Timestamp:** 2026-06-13 19:44:39.
+* **TOS Location State:** Bay Slot 212
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3215
+* **Asset:** Container  (Waybill: WB-52379-NL)
+* **Timestamp:** 2026-06-13 19:44:39.
+* **TOS Location State:** Bay Slot 478
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3216
+* **Asset:** Container  (Waybill: WB-32501-NL)
+* **Timestamp:** 2026-06-13 19:44:39.
+* **TOS Location State:** Bay Slot 273
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3217
+* **Asset:** Container  (Waybill: WB-40667-NL)
+* **Timestamp:** 2026-06-13 19:44:40.
+* **TOS Location State:** Bay Slot 205
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3218
+* **Asset:** Container  (Waybill: WB-88305-NL)
+* **Timestamp:** 2026-06-13 19:44:40.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3219
+* **Asset:** Container  (Waybill: WB-67541-NL)
+* **Timestamp:** 2026-06-13 19:44:40.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3220
+* **Asset:** Container  (Waybill: WB-13665-NL)
+* **Timestamp:** 2026-06-13 19:44:41.
+* **TOS Location State:** Bay Slot 368
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3221
+* **Asset:** Container  (Waybill: WB-40823-NL)
+* **Timestamp:** 2026-06-13 19:44:41.
+* **TOS Location State:** Bay Slot 841
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3222
+* **Asset:** Container  (Waybill: WB-66686-NL)
+* **Timestamp:** 2026-06-13 19:44:41.
+* **TOS Location State:** Bay Slot 984
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3223
+* **Asset:** Container  (Waybill: WB-98855-NL)
+* **Timestamp:** 2026-06-13 19:44:41.
+* **TOS Location State:** Bay Slot 767
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3224
+* **Asset:** Container  (Waybill: WB-65880-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 925
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3225
+* **Asset:** Container  (Waybill: WB-99716-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 936
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3226
+* **Asset:** Container  (Waybill: WB-85979-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 130
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3227
+* **Asset:** Container  (Waybill: WB-49602-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 999
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3228
+* **Asset:** Container  (Waybill: WB-63923-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 214
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3229
+* **Asset:** Container  (Waybill: WB-75976-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 421
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3230
+* **Asset:** Container  (Waybill: WB-92511-NL)
+* **Timestamp:** 2026-06-13 19:44:42.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3231
+* **Asset:** Container  (Waybill: WB-23912-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 244
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3232
+* **Asset:** Container  (Waybill: WB-29583-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 610
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3233
+* **Asset:** Container  (Waybill: WB-63182-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3234
+* **Asset:** Container  (Waybill: WB-62249-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 426
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3235
+* **Asset:** Container  (Waybill: WB-37058-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3236
+* **Asset:** Container  (Waybill: WB-82976-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 607
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3237
+* **Asset:** Container  (Waybill: WB-55901-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 689
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3238
+* **Asset:** Container  (Waybill: WB-65002-NL)
+* **Timestamp:** 2026-06-13 19:44:43.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3239
+* **Asset:** Container  (Waybill: WB-31889-NL)
+* **Timestamp:** 2026-06-13 19:44:44.
+* **TOS Location State:** Bay Slot 103
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3240
+* **Asset:** Container  (Waybill: WB-67511-NL)
+* **Timestamp:** 2026-06-13 19:44:44.
+* **TOS Location State:** Bay Slot 709
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3241
+* **Asset:** Container  (Waybill: WB-17691-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 488
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3242
+* **Asset:** Container  (Waybill: WB-17639-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 419
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3243
+* **Asset:** Container  (Waybill: WB-72464-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 755
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3244
+* **Asset:** Container  (Waybill: WB-14599-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 997
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3245
+* **Asset:** Container  (Waybill: WB-27269-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3246
+* **Asset:** Container  (Waybill: WB-17151-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3247
+* **Asset:** Container  (Waybill: WB-40349-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 222
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3248
+* **Asset:** Container  (Waybill: WB-30686-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 538
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3249
+* **Asset:** Container  (Waybill: WB-21573-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3250
+* **Asset:** Container  (Waybill: WB-13755-NL)
+* **Timestamp:** 2026-06-13 19:44:45.
+* **TOS Location State:** Bay Slot 353
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3251
+* **Asset:** Container  (Waybill: WB-16506-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 553
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3252
+* **Asset:** Container  (Waybill: WB-50957-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 223
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3253
+* **Asset:** Container  (Waybill: WB-17204-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 810
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3254
+* **Asset:** Container  (Waybill: WB-45947-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 364
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3255
+* **Asset:** Container  (Waybill: WB-27284-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 802
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3256
+* **Asset:** Container  (Waybill: WB-70842-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 600
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3257
+* **Asset:** Container  (Waybill: WB-95621-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3258
+* **Asset:** Container  (Waybill: WB-77901-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3259
+* **Asset:** Container  (Waybill: WB-98048-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 823
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3260
+* **Asset:** Container  (Waybill: WB-20419-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 621
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3261
+* **Asset:** Container  (Waybill: WB-37109-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 225
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3262
+* **Asset:** Container  (Waybill: WB-91569-NL)
+* **Timestamp:** 2026-06-13 19:44:46.
+* **TOS Location State:** Bay Slot 475
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3263
+* **Asset:** Container  (Waybill: WB-22570-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 523
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3264
+* **Asset:** Container  (Waybill: WB-39267-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 425
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3265
+* **Asset:** Container  (Waybill: WB-67079-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 607
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3266
+* **Asset:** Container  (Waybill: WB-74958-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 968
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3267
+* **Asset:** Container  (Waybill: WB-66669-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 325
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3268
+* **Asset:** Container  (Waybill: WB-88839-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 755
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3269
+* **Asset:** Container  (Waybill: WB-36077-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 114
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3270
+* **Asset:** Container  (Waybill: WB-17073-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3271
+* **Asset:** Container  (Waybill: WB-40145-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 338
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3272
+* **Asset:** Container  (Waybill: WB-88161-NL)
+* **Timestamp:** 2026-06-13 19:44:47.
+* **TOS Location State:** Bay Slot 211
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3273
+* **Asset:** Container  (Waybill: WB-51063-NL)
+* **Timestamp:** 2026-06-13 19:44:48.
+* **TOS Location State:** Bay Slot 320
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3274
+* **Asset:** Container  (Waybill: WB-45855-NL)
+* **Timestamp:** 2026-06-13 19:44:48.
+* **TOS Location State:** Bay Slot 970
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3275
+* **Asset:** Container  (Waybill: WB-30653-NL)
+* **Timestamp:** 2026-06-13 19:44:48.
+* **TOS Location State:** Bay Slot 466
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3276
+* **Asset:** Container  (Waybill: WB-21489-NL)
+* **Timestamp:** 2026-06-13 19:44:48.
+* **TOS Location State:** Bay Slot 874
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3277
+* **Asset:** Container  (Waybill: WB-55844-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 435
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3278
+* **Asset:** Container  (Waybill: WB-95513-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 478
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3279
+* **Asset:** Container  (Waybill: WB-28925-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3280
+* **Asset:** Container  (Waybill: WB-48014-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3281
+* **Asset:** Container  (Waybill: WB-61197-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3282
+* **Asset:** Container  (Waybill: WB-81089-NL)
+* **Timestamp:** 2026-06-13 19:44:49.
+* **TOS Location State:** Bay Slot 668
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3283
+* **Asset:** Container  (Waybill: WB-93130-NL)
+* **Timestamp:** 2026-06-13 19:44:50.
+* **TOS Location State:** Bay Slot 585
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3284
+* **Asset:** Container  (Waybill: WB-14713-NL)
+* **Timestamp:** 2026-06-13 19:44:50.
+* **TOS Location State:** Bay Slot 403
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3285
+* **Asset:** Container  (Waybill: WB-24774-NL)
+* **Timestamp:** 2026-06-13 19:44:50.
+* **TOS Location State:** Bay Slot 179
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3286
+* **Asset:** Container  (Waybill: WB-72359-NL)
+* **Timestamp:** 2026-06-13 19:44:50.
+* **TOS Location State:** Bay Slot 562
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3287
+* **Asset:** Container  (Waybill: WB-75878-NL)
+* **Timestamp:** 2026-06-13 19:44:50.
+* **TOS Location State:** Bay Slot 276
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3288
+* **Asset:** Container  (Waybill: WB-71951-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 928
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3289
+* **Asset:** Container  (Waybill: WB-22499-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 909
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3290
+* **Asset:** Container  (Waybill: WB-61100-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 370
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3291
+* **Asset:** Container  (Waybill: WB-81372-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3292
+* **Asset:** Container  (Waybill: WB-39393-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 988
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3293
+* **Asset:** Container  (Waybill: WB-92430-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 589
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3294
+* **Asset:** Container  (Waybill: WB-87119-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3295
+* **Asset:** Container  (Waybill: WB-32394-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 127
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3296
+* **Asset:** Container  (Waybill: WB-61888-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3297
+* **Asset:** Container  (Waybill: WB-98985-NL)
+* **Timestamp:** 2026-06-13 19:44:51.
+* **TOS Location State:** Bay Slot 419
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3298
+* **Asset:** Container  (Waybill: WB-97709-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 961
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3299
+* **Asset:** Container  (Waybill: WB-39297-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 101
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3300
+* **Asset:** Container  (Waybill: WB-42701-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 228
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3301
+* **Asset:** Container  (Waybill: WB-75428-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3302
+* **Asset:** Container  (Waybill: WB-65866-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 964
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3303
+* **Asset:** Container  (Waybill: WB-35241-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 292
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3304
+* **Asset:** Container  (Waybill: WB-39260-NL)
+* **Timestamp:** 2026-06-13 19:44:52.
+* **TOS Location State:** Bay Slot 650
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3305
+* **Asset:** Container  (Waybill: WB-23826-NL)
+* **Timestamp:** 2026-06-13 19:44:53.
+* **TOS Location State:** Bay Slot 463
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3306
+* **Asset:** Container  (Waybill: WB-23510-NL)
+* **Timestamp:** 2026-06-13 19:44:53.
+* **TOS Location State:** Bay Slot 339
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3307
+* **Asset:** Container  (Waybill: WB-21292-NL)
+* **Timestamp:** 2026-06-13 19:44:53.
+* **TOS Location State:** Bay Slot 555
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3308
+* **Asset:** Container  (Waybill: WB-76883-NL)
+* **Timestamp:** 2026-06-13 19:44:53.
+* **TOS Location State:** Bay Slot 232
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3309
+* **Asset:** Container  (Waybill: WB-72871-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 379
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3310
+* **Asset:** Container  (Waybill: WB-68478-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3311
+* **Asset:** Container  (Waybill: WB-47902-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 895
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3312
+* **Asset:** Container  (Waybill: WB-82259-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 890
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3313
+* **Asset:** Container  (Waybill: WB-60665-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 490
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3314
+* **Asset:** Container  (Waybill: WB-64245-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 872
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3315
+* **Asset:** Container  (Waybill: WB-37718-NL)
+* **Timestamp:** 2026-06-13 19:44:54.
+* **TOS Location State:** Bay Slot 991
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3316
+* **Asset:** Container  (Waybill: WB-64981-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 789
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3317
+* **Asset:** Container  (Waybill: WB-23042-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 217
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3318
+* **Asset:** Container  (Waybill: WB-62457-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 359
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3319
+* **Asset:** Container  (Waybill: WB-96179-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 253
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3320
+* **Asset:** Container  (Waybill: WB-81639-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 169
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3321
+* **Asset:** Container  (Waybill: WB-75416-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 977
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3322
+* **Asset:** Container  (Waybill: WB-80879-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 432
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3323
+* **Asset:** Container  (Waybill: WB-91601-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 799
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3324
+* **Asset:** Container  (Waybill: WB-80658-NL)
+* **Timestamp:** 2026-06-13 19:44:55.
+* **TOS Location State:** Bay Slot 451
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3325
+* **Asset:** Container  (Waybill: WB-11292-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 887
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3326
+* **Asset:** Container  (Waybill: WB-55803-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 988
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3327
+* **Asset:** Container  (Waybill: WB-80678-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 301
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3328
+* **Asset:** Container  (Waybill: WB-66705-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3329
+* **Asset:** Container  (Waybill: WB-55071-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 968
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3330
+* **Asset:** Container  (Waybill: WB-73586-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 868
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3331
+* **Asset:** Container  (Waybill: WB-35533-NL)
+* **Timestamp:** 2026-06-13 19:44:56.
+* **TOS Location State:** Bay Slot 320
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3332
+* **Asset:** Container  (Waybill: WB-26594-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 771
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3333
+* **Asset:** Container  (Waybill: WB-39581-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 987
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3334
+* **Asset:** Container  (Waybill: WB-10311-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 137
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3335
+* **Asset:** Container  (Waybill: WB-84595-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 685
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3336
+* **Asset:** Container  (Waybill: WB-58632-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 759
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3337
+* **Asset:** Container  (Waybill: WB-25734-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 352
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3338
+* **Asset:** Container  (Waybill: WB-86505-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 802
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3339
+* **Asset:** Container  (Waybill: WB-54215-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 588
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3340
+* **Asset:** Container  (Waybill: WB-47012-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 914
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3341
+* **Asset:** Container  (Waybill: WB-96426-NL)
+* **Timestamp:** 2026-06-13 19:44:57.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3342
+* **Asset:** Container  (Waybill: WB-75552-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 431
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3343
+* **Asset:** Container  (Waybill: WB-88322-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 954
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3344
+* **Asset:** Container  (Waybill: WB-73638-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 976
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3345
+* **Asset:** Container  (Waybill: WB-18702-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 582
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3346
+* **Asset:** Container  (Waybill: WB-10699-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 163
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3347
+* **Asset:** Container  (Waybill: WB-32816-NL)
+* **Timestamp:** 2026-06-13 19:44:58.
+* **TOS Location State:** Bay Slot 271
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3348
+* **Asset:** Container  (Waybill: WB-77307-NL)
+* **Timestamp:** 2026-06-13 19:44:59.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3349
+* **Asset:** Container  (Waybill: WB-73069-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 882
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3350
+* **Asset:** Container  (Waybill: WB-64238-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3351
+* **Asset:** Container  (Waybill: WB-18579-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 905
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3352
+* **Asset:** Container  (Waybill: WB-81815-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3353
+* **Asset:** Container  (Waybill: WB-96845-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 526
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3354
+* **Asset:** Container  (Waybill: WB-67904-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3355
+* **Asset:** Container  (Waybill: WB-70669-NL)
+* **Timestamp:** 2026-06-13 19:45:00.
+* **TOS Location State:** Bay Slot 150
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3356
+* **Asset:** Container  (Waybill: WB-93945-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 643
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3357
+* **Asset:** Container  (Waybill: WB-19605-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 130
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3358
+* **Asset:** Container  (Waybill: WB-39311-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 779
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3359
+* **Asset:** Container  (Waybill: WB-80612-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3360
+* **Asset:** Container  (Waybill: WB-84140-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3361
+* **Asset:** Container  (Waybill: WB-29789-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 481
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3362
+* **Asset:** Container  (Waybill: WB-61177-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3363
+* **Asset:** Container  (Waybill: WB-28027-NL)
+* **Timestamp:** 2026-06-13 19:45:01.
+* **TOS Location State:** Bay Slot 579
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3364
+* **Asset:** Container  (Waybill: WB-43041-NL)
+* **Timestamp:** 2026-06-13 19:45:02.
+* **TOS Location State:** Bay Slot 206
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3365
+* **Asset:** Container  (Waybill: WB-10218-NL)
+* **Timestamp:** 2026-06-13 19:45:02.
+* **TOS Location State:** Bay Slot 966
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3366
+* **Asset:** Container  (Waybill: WB-11276-NL)
+* **Timestamp:** 2026-06-13 19:45:02.
+* **TOS Location State:** Bay Slot 841
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3367
+* **Asset:** Container  (Waybill: WB-69507-NL)
+* **Timestamp:** 2026-06-13 19:45:02.
+* **TOS Location State:** Bay Slot 856
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3368
+* **Asset:** Container  (Waybill: WB-52104-NL)
+* **Timestamp:** 2026-06-13 19:45:02.
+* **TOS Location State:** Bay Slot 173
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3369
+* **Asset:** Container  (Waybill: WB-47555-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3370
+* **Asset:** Container  (Waybill: WB-97037-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3371
+* **Asset:** Container  (Waybill: WB-42284-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3372
+* **Asset:** Container  (Waybill: WB-22183-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3373
+* **Asset:** Container  (Waybill: WB-23526-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3374
+* **Asset:** Container  (Waybill: WB-33189-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3375
+* **Asset:** Container  (Waybill: WB-30527-NL)
+* **Timestamp:** 2026-06-13 19:45:03.
+* **TOS Location State:** Bay Slot 554
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3376
+* **Asset:** Container  (Waybill: WB-34089-NL)
+* **Timestamp:** 2026-06-13 19:45:04.
+* **TOS Location State:** Bay Slot 713
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3377
+* **Asset:** Container  (Waybill: WB-12501-NL)
+* **Timestamp:** 2026-06-13 19:45:04.
+* **TOS Location State:** Bay Slot 188
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3378
+* **Asset:** Container  (Waybill: WB-24183-NL)
+* **Timestamp:** 2026-06-13 19:45:04.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3379
+* **Asset:** Container  (Waybill: WB-69015-NL)
+* **Timestamp:** 2026-06-13 19:45:05.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3380
+* **Asset:** Container  (Waybill: WB-23411-NL)
+* **Timestamp:** 2026-06-13 19:45:05.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3381
+* **Asset:** Container  (Waybill: WB-51256-NL)
+* **Timestamp:** 2026-06-13 19:45:05.
+* **TOS Location State:** Bay Slot 870
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3382
+* **Asset:** Container  (Waybill: WB-49560-NL)
+* **Timestamp:** 2026-06-13 19:45:05.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3383
+* **Asset:** Container  (Waybill: WB-68402-NL)
+* **Timestamp:** 2026-06-13 19:45:05.
+* **TOS Location State:** Bay Slot 327
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3384
+* **Asset:** Container  (Waybill: WB-91361-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 635
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3385
+* **Asset:** Container  (Waybill: WB-21364-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 160
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3386
+* **Asset:** Container  (Waybill: WB-10929-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3387
+* **Asset:** Container  (Waybill: WB-16635-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 615
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3388
+* **Asset:** Container  (Waybill: WB-75863-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 200
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3389
+* **Asset:** Container  (Waybill: WB-89705-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3390
+* **Asset:** Container  (Waybill: WB-22904-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 463
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3391
+* **Asset:** Container  (Waybill: WB-20022-NL)
+* **Timestamp:** 2026-06-13 19:45:06.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3392
+* **Asset:** Container  (Waybill: WB-94929-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3393
+* **Asset:** Container  (Waybill: WB-61527-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 674
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3394
+* **Asset:** Container  (Waybill: WB-70763-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3395
+* **Asset:** Container  (Waybill: WB-10001-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 746
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3396
+* **Asset:** Container  (Waybill: WB-87404-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 363
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3397
+* **Asset:** Container  (Waybill: WB-85607-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 528
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3398
+* **Asset:** Container  (Waybill: WB-78029-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 304
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3399
+* **Asset:** Container  (Waybill: WB-41872-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 467
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3400
+* **Asset:** Container  (Waybill: WB-93899-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 777
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3401
+* **Asset:** Container  (Waybill: WB-76766-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 457
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3402
+* **Asset:** Container  (Waybill: WB-18440-NL)
+* **Timestamp:** 2026-06-13 19:45:07.
+* **TOS Location State:** Bay Slot 485
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3403
+* **Asset:** Container  (Waybill: WB-92108-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 358
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3404
+* **Asset:** Container  (Waybill: WB-74066-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3405
+* **Asset:** Container  (Waybill: WB-19659-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 844
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3406
+* **Asset:** Container  (Waybill: WB-83423-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 109
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3407
+* **Asset:** Container  (Waybill: WB-35389-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 418
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3408
+* **Asset:** Container  (Waybill: WB-52438-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3409
+* **Asset:** Container  (Waybill: WB-66905-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 133
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3410
+* **Asset:** Container  (Waybill: WB-74302-NL)
+* **Timestamp:** 2026-06-13 19:45:08.
+* **TOS Location State:** Bay Slot 544
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3411
+* **Asset:** Container  (Waybill: WB-69646-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 759
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3412
+* **Asset:** Container  (Waybill: WB-85751-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 700
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3413
+* **Asset:** Container  (Waybill: WB-42826-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 685
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3414
+* **Asset:** Container  (Waybill: WB-75585-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 695
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3415
+* **Asset:** Container  (Waybill: WB-36758-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 979
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3416
+* **Asset:** Container  (Waybill: WB-33773-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 740
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3417
+* **Asset:** Container  (Waybill: WB-40388-NL)
+* **Timestamp:** 2026-06-13 19:45:09.
+* **TOS Location State:** Bay Slot 471
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3418
+* **Asset:** Container  (Waybill: WB-34071-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3419
+* **Asset:** Container  (Waybill: WB-42698-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3420
+* **Asset:** Container  (Waybill: WB-59744-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 250
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3421
+* **Asset:** Container  (Waybill: WB-41036-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 927
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3422
+* **Asset:** Container  (Waybill: WB-33754-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 466
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3423
+* **Asset:** Container  (Waybill: WB-24392-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 975
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3424
+* **Asset:** Container  (Waybill: WB-49823-NL)
+* **Timestamp:** 2026-06-13 19:45:10.
+* **TOS Location State:** Bay Slot 256
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3425
+* **Asset:** Container  (Waybill: WB-81720-NL)
+* **Timestamp:** 2026-06-13 19:45:11.
+* **TOS Location State:** Bay Slot 775
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3426
+* **Asset:** Container  (Waybill: WB-77120-NL)
+* **Timestamp:** 2026-06-13 19:45:11.
+* **TOS Location State:** Bay Slot 106
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3427
+* **Asset:** Container  (Waybill: WB-68906-NL)
+* **Timestamp:** 2026-06-13 19:45:11.
+* **TOS Location State:** Bay Slot 534
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3428
+* **Asset:** Container  (Waybill: WB-29258-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 735
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3429
+* **Asset:** Container  (Waybill: WB-47867-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 916
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3430
+* **Asset:** Container  (Waybill: WB-23100-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 650
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3431
+* **Asset:** Container  (Waybill: WB-79046-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 831
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3432
+* **Asset:** Container  (Waybill: WB-40785-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 618
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3433
+* **Asset:** Container  (Waybill: WB-38549-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3434
+* **Asset:** Container  (Waybill: WB-89175-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 973
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3435
+* **Asset:** Container  (Waybill: WB-48830-NL)
+* **Timestamp:** 2026-06-13 19:45:12.
+* **TOS Location State:** Bay Slot 175
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3436
+* **Asset:** Container  (Waybill: WB-98319-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 785
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3437
+* **Asset:** Container  (Waybill: WB-23002-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 744
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3438
+* **Asset:** Container  (Waybill: WB-38651-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 735
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3439
+* **Asset:** Container  (Waybill: WB-71876-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3440
+* **Asset:** Container  (Waybill: WB-35111-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 579
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3441
+* **Asset:** Container  (Waybill: WB-87119-NL)
+* **Timestamp:** 2026-06-13 19:45:13.
+* **TOS Location State:** Bay Slot 957
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3442
+* **Asset:** Container  (Waybill: WB-70982-NL)
+* **Timestamp:** 2026-06-13 19:45:14.
+* **TOS Location State:** Bay Slot 330
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3443
+* **Asset:** Container  (Waybill: WB-76553-NL)
+* **Timestamp:** 2026-06-13 19:45:14.
+* **TOS Location State:** Bay Slot 666
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3444
+* **Asset:** Container  (Waybill: WB-77462-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 531
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3445
+* **Asset:** Container  (Waybill: WB-20787-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 231
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3446
+* **Asset:** Container  (Waybill: WB-13931-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3447
+* **Asset:** Container  (Waybill: WB-88894-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 617
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3448
+* **Asset:** Container  (Waybill: WB-71868-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 556
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3449
+* **Asset:** Container  (Waybill: WB-32772-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3450
+* **Asset:** Container  (Waybill: WB-71195-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 220
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3451
+* **Asset:** Container  (Waybill: WB-23651-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3452
+* **Asset:** Container  (Waybill: WB-81959-NL)
+* **Timestamp:** 2026-06-13 19:45:15.
+* **TOS Location State:** Bay Slot 703
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3453
+* **Asset:** Container  (Waybill: WB-91322-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 708
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3454
+* **Asset:** Container  (Waybill: WB-71048-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 772
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3455
+* **Asset:** Container  (Waybill: WB-25586-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 472
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3456
+* **Asset:** Container  (Waybill: WB-97862-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 892
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3457
+* **Asset:** Container  (Waybill: WB-19806-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 318
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3458
+* **Asset:** Container  (Waybill: WB-88978-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3459
+* **Asset:** Container  (Waybill: WB-10038-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 524
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3460
+* **Asset:** Container  (Waybill: WB-74723-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 261
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3461
+* **Asset:** Container  (Waybill: WB-79113-NL)
+* **Timestamp:** 2026-06-13 19:45:16.
+* **TOS Location State:** Bay Slot 383
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3462
+* **Asset:** Container  (Waybill: WB-70103-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 888
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3463
+* **Asset:** Container  (Waybill: WB-11324-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 993
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3464
+* **Asset:** Container  (Waybill: WB-28184-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 151
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3465
+* **Asset:** Container  (Waybill: WB-56593-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3466
+* **Asset:** Container  (Waybill: WB-12395-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 973
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3467
+* **Asset:** Container  (Waybill: WB-33091-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 829
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3468
+* **Asset:** Container  (Waybill: WB-42811-NL)
+* **Timestamp:** 2026-06-13 19:45:17.
+* **TOS Location State:** Bay Slot 876
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3469
+* **Asset:** Container  (Waybill: WB-74483-NL)
+* **Timestamp:** 2026-06-13 19:45:18.
+* **TOS Location State:** Bay Slot 580
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3470
+* **Asset:** Container  (Waybill: WB-45172-NL)
+* **Timestamp:** 2026-06-13 19:45:18.
+* **TOS Location State:** Bay Slot 933
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3471
+* **Asset:** Container  (Waybill: WB-17625-NL)
+* **Timestamp:** 2026-06-13 19:45:18.
+* **TOS Location State:** Bay Slot 448
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3472
+* **Asset:** Container  (Waybill: WB-38453-NL)
+* **Timestamp:** 2026-06-13 19:45:18.
+* **TOS Location State:** Bay Slot 572
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3473
+* **Asset:** Container  (Waybill: WB-26924-NL)
+* **Timestamp:** 2026-06-13 19:45:18.
+* **TOS Location State:** Bay Slot 432
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3474
+* **Asset:** Container  (Waybill: WB-44771-NL)
+* **Timestamp:** 2026-06-13 19:45:19.
+* **TOS Location State:** Bay Slot 324
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3475
+* **Asset:** Container  (Waybill: WB-22922-NL)
+* **Timestamp:** 2026-06-13 19:45:19.
+* **TOS Location State:** Bay Slot 519
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3476
+* **Asset:** Container  (Waybill: WB-59841-NL)
+* **Timestamp:** 2026-06-13 19:45:19.
+* **TOS Location State:** Bay Slot 316
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3477
+* **Asset:** Container  (Waybill: WB-50216-NL)
+* **Timestamp:** 2026-06-13 19:45:19.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3478
+* **Asset:** Container  (Waybill: WB-22247-NL)
+* **Timestamp:** 2026-06-13 19:45:20.
+* **TOS Location State:** Bay Slot 588
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3479
+* **Asset:** Container  (Waybill: WB-29871-NL)
+* **Timestamp:** 2026-06-13 19:45:20.
+* **TOS Location State:** Bay Slot 487
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3480
+* **Asset:** Container  (Waybill: WB-86081-NL)
+* **Timestamp:** 2026-06-13 19:45:20.
+* **TOS Location State:** Bay Slot 906
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3481
+* **Asset:** Container  (Waybill: WB-52907-NL)
+* **Timestamp:** 2026-06-13 19:45:20.
+* **TOS Location State:** Bay Slot 744
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3482
+* **Asset:** Container  (Waybill: WB-67079-NL)
+* **Timestamp:** 2026-06-13 19:45:20.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3483
+* **Asset:** Container  (Waybill: WB-93377-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 259
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3484
+* **Asset:** Container  (Waybill: WB-61577-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3485
+* **Asset:** Container  (Waybill: WB-13712-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 223
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3486
+* **Asset:** Container  (Waybill: WB-34814-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 646
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3487
+* **Asset:** Container  (Waybill: WB-85352-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 514
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3488
+* **Asset:** Container  (Waybill: WB-50250-NL)
+* **Timestamp:** 2026-06-13 19:45:21.
+* **TOS Location State:** Bay Slot 709
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3489
+* **Asset:** Container  (Waybill: WB-29837-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 777
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3490
+* **Asset:** Container  (Waybill: WB-74793-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 991
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3491
+* **Asset:** Container  (Waybill: WB-60767-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3492
+* **Asset:** Container  (Waybill: WB-98366-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3493
+* **Asset:** Container  (Waybill: WB-22092-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3494
+* **Asset:** Container  (Waybill: WB-64665-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 238
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3495
+* **Asset:** Container  (Waybill: WB-81071-NL)
+* **Timestamp:** 2026-06-13 19:45:22.
+* **TOS Location State:** Bay Slot 729
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3496
+* **Asset:** Container  (Waybill: WB-82582-NL)
+* **Timestamp:** 2026-06-13 19:45:23.
+* **TOS Location State:** Bay Slot 300
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3497
+* **Asset:** Container  (Waybill: WB-42968-NL)
+* **Timestamp:** 2026-06-13 19:45:23.
+* **TOS Location State:** Bay Slot 880
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3498
+* **Asset:** Container  (Waybill: WB-20774-NL)
+* **Timestamp:** 2026-06-13 19:45:23.
+* **TOS Location State:** Bay Slot 247
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3499
+* **Asset:** Container  (Waybill: WB-12323-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 184
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3500
+* **Asset:** Container  (Waybill: WB-40065-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 502
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3501
+* **Asset:** Container  (Waybill: WB-58731-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 670
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3502
+* **Asset:** Container  (Waybill: WB-32307-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 503
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3503
+* **Asset:** Container  (Waybill: WB-79736-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 176
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3504
+* **Asset:** Container  (Waybill: WB-89461-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 621
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3505
+* **Asset:** Container  (Waybill: WB-55433-NL)
+* **Timestamp:** 2026-06-13 19:45:24.
+* **TOS Location State:** Bay Slot 901
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3506
+* **Asset:** Container  (Waybill: WB-39590-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3507
+* **Asset:** Container  (Waybill: WB-11639-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 868
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3508
+* **Asset:** Container  (Waybill: WB-20596-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 615
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3509
+* **Asset:** Container  (Waybill: WB-92474-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 266
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3510
+* **Asset:** Container  (Waybill: WB-16431-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 928
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3511
+* **Asset:** Container  (Waybill: WB-83527-NL)
+* **Timestamp:** 2026-06-13 19:45:25.
+* **TOS Location State:** Bay Slot 336
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3512
+* **Asset:** Container  (Waybill: WB-18057-NL)
+* **Timestamp:** 2026-06-13 19:45:26.
+* **TOS Location State:** Bay Slot 452
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3513
+* **Asset:** Container  (Waybill: WB-17510-NL)
+* **Timestamp:** 2026-06-13 19:45:26.
+* **TOS Location State:** Bay Slot 154
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3514
+* **Asset:** Container  (Waybill: WB-36566-NL)
+* **Timestamp:** 2026-06-13 19:45:26.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3515
+* **Asset:** Container  (Waybill: WB-19121-NL)
+* **Timestamp:** 2026-06-13 19:45:26.
+* **TOS Location State:** Bay Slot 604
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3516
+* **Asset:** Container  (Waybill: WB-23785-NL)
+* **Timestamp:** 2026-06-13 19:45:26.
+* **TOS Location State:** Bay Slot 741
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3517
+* **Asset:** Container  (Waybill: WB-82197-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 526
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3518
+* **Asset:** Container  (Waybill: WB-37580-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 796
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3519
+* **Asset:** Container  (Waybill: WB-77135-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 580
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3520
+* **Asset:** Container  (Waybill: WB-26048-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 889
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3521
+* **Asset:** Container  (Waybill: WB-44029-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 799
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3522
+* **Asset:** Container  (Waybill: WB-62333-NL)
+* **Timestamp:** 2026-06-13 19:45:27.
+* **TOS Location State:** Bay Slot 475
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3523
+* **Asset:** Container  (Waybill: WB-83478-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 724
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3524
+* **Asset:** Container  (Waybill: WB-88623-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 805
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3525
+* **Asset:** Container  (Waybill: WB-65340-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 174
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3526
+* **Asset:** Container  (Waybill: WB-82933-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 663
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3527
+* **Asset:** Container  (Waybill: WB-58163-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 237
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3528
+* **Asset:** Container  (Waybill: WB-38505-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 833
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3529
+* **Asset:** Container  (Waybill: WB-43811-NL)
+* **Timestamp:** 2026-06-13 19:45:28.
+* **TOS Location State:** Bay Slot 364
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3530
+* **Asset:** Container  (Waybill: WB-52775-NL)
+* **Timestamp:** 2026-06-13 19:45:29.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3531
+* **Asset:** Container  (Waybill: WB-60989-NL)
+* **Timestamp:** 2026-06-13 19:45:29.
+* **TOS Location State:** Bay Slot 997
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3532
+* **Asset:** Container  (Waybill: WB-67724-NL)
+* **Timestamp:** 2026-06-13 19:45:29.
+* **TOS Location State:** Bay Slot 742
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3533
+* **Asset:** Container  (Waybill: WB-83433-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 372
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3534
+* **Asset:** Container  (Waybill: WB-20872-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 874
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3535
+* **Asset:** Container  (Waybill: WB-67056-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 188
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3536
+* **Asset:** Container  (Waybill: WB-34523-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 591
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3537
+* **Asset:** Container  (Waybill: WB-60486-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 310
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3538
+* **Asset:** Container  (Waybill: WB-33774-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 790
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3539
+* **Asset:** Container  (Waybill: WB-13988-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 202
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3540
+* **Asset:** Container  (Waybill: WB-94430-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 880
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3541
+* **Asset:** Container  (Waybill: WB-73890-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3542
+* **Asset:** Container  (Waybill: WB-78342-NL)
+* **Timestamp:** 2026-06-13 19:45:30.
+* **TOS Location State:** Bay Slot 603
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3543
+* **Asset:** Container  (Waybill: WB-50486-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 538
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3544
+* **Asset:** Container  (Waybill: WB-24563-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 282
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3545
+* **Asset:** Container  (Waybill: WB-11045-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 890
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3546
+* **Asset:** Container  (Waybill: WB-57659-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 555
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3547
+* **Asset:** Container  (Waybill: WB-23486-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 381
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3548
+* **Asset:** Container  (Waybill: WB-11498-NL)
+* **Timestamp:** 2026-06-13 19:45:31.
+* **TOS Location State:** Bay Slot 320
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3549
+* **Asset:** Container  (Waybill: WB-38012-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 729
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3550
+* **Asset:** Container  (Waybill: WB-63835-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 348
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3551
+* **Asset:** Container  (Waybill: WB-43887-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 821
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3552
+* **Asset:** Container  (Waybill: WB-14263-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 294
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3553
+* **Asset:** Container  (Waybill: WB-68216-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 784
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3554
+* **Asset:** Container  (Waybill: WB-33548-NL)
+* **Timestamp:** 2026-06-13 19:45:32.
+* **TOS Location State:** Bay Slot 508
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3555
+* **Asset:** Container  (Waybill: WB-65075-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 928
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3556
+* **Asset:** Container  (Waybill: WB-86384-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 130
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3557
+* **Asset:** Container  (Waybill: WB-13367-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 407
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3558
+* **Asset:** Container  (Waybill: WB-22793-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3559
+* **Asset:** Container  (Waybill: WB-98390-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 847
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3560
+* **Asset:** Container  (Waybill: WB-64116-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 188
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3561
+* **Asset:** Container  (Waybill: WB-72926-NL)
+* **Timestamp:** 2026-06-13 19:45:33.
+* **TOS Location State:** Bay Slot 142
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3562
+* **Asset:** Container  (Waybill: WB-47636-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 231
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3563
+* **Asset:** Container  (Waybill: WB-43679-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 525
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3564
+* **Asset:** Container  (Waybill: WB-47384-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 979
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3565
+* **Asset:** Container  (Waybill: WB-13514-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 799
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3566
+* **Asset:** Container  (Waybill: WB-23138-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 449
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3567
+* **Asset:** Container  (Waybill: WB-44969-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 723
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3568
+* **Asset:** Container  (Waybill: WB-46808-NL)
+* **Timestamp:** 2026-06-13 19:45:34.
+* **TOS Location State:** Bay Slot 863
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3569
+* **Asset:** Container  (Waybill: WB-87369-NL)
+* **Timestamp:** 2026-06-13 19:45:35.
+* **TOS Location State:** Bay Slot 394
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3570
+* **Asset:** Container  (Waybill: WB-66977-NL)
+* **Timestamp:** 2026-06-13 19:45:35.
+* **TOS Location State:** Bay Slot 235
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3571
+* **Asset:** Container  (Waybill: WB-49011-NL)
+* **Timestamp:** 2026-06-13 19:45:35.
+* **TOS Location State:** Bay Slot 308
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3572
+* **Asset:** Container  (Waybill: WB-82888-NL)
+* **Timestamp:** 2026-06-13 19:45:35.
+* **TOS Location State:** Bay Slot 348
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3573
+* **Asset:** Container  (Waybill: WB-53055-NL)
+* **Timestamp:** 2026-06-13 19:45:35.
+* **TOS Location State:** Bay Slot 883
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3574
+* **Asset:** Container  (Waybill: WB-96884-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 909
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3575
+* **Asset:** Container  (Waybill: WB-94896-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 185
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3576
+* **Asset:** Container  (Waybill: WB-13853-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 438
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3577
+* **Asset:** Container  (Waybill: WB-64184-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 230
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3578
+* **Asset:** Container  (Waybill: WB-36536-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 866
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3579
+* **Asset:** Container  (Waybill: WB-39369-NL)
+* **Timestamp:** 2026-06-13 19:45:36.
+* **TOS Location State:** Bay Slot 907
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3580
+* **Asset:** Container  (Waybill: WB-38403-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 749
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3581
+* **Asset:** Container  (Waybill: WB-35720-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 557
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3582
+* **Asset:** Container  (Waybill: WB-14669-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3583
+* **Asset:** Container  (Waybill: WB-40844-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 743
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3584
+* **Asset:** Container  (Waybill: WB-31786-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 275
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3585
+* **Asset:** Container  (Waybill: WB-21501-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3586
+* **Asset:** Container  (Waybill: WB-39992-NL)
+* **Timestamp:** 2026-06-13 19:45:37.
+* **TOS Location State:** Bay Slot 919
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3587
+* **Asset:** Container  (Waybill: WB-26278-NL)
+* **Timestamp:** 2026-06-13 19:45:38.
+* **TOS Location State:** Bay Slot 801
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3588
+* **Asset:** Container  (Waybill: WB-34010-NL)
+* **Timestamp:** 2026-06-13 19:45:38.
+* **TOS Location State:** Bay Slot 730
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3589
+* **Asset:** Container  (Waybill: WB-68924-NL)
+* **Timestamp:** 2026-06-13 19:45:38.
+* **TOS Location State:** Bay Slot 841
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3590
+* **Asset:** Container  (Waybill: WB-13500-NL)
+* **Timestamp:** 2026-06-13 19:45:38.
+* **TOS Location State:** Bay Slot 854
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3591
+* **Asset:** Container  (Waybill: WB-37172-NL)
+* **Timestamp:** 2026-06-13 19:45:38.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3592
+* **Asset:** Container  (Waybill: WB-31313-NL)
+* **Timestamp:** 2026-06-13 19:45:39.
+* **TOS Location State:** Bay Slot 296
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3593
+* **Asset:** Container  (Waybill: WB-27645-NL)
+* **Timestamp:** 2026-06-13 19:45:39.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3594
+* **Asset:** Container  (Waybill: WB-17631-NL)
+* **Timestamp:** 2026-06-13 19:45:39.
+* **TOS Location State:** Bay Slot 118
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3595
+* **Asset:** Container  (Waybill: WB-22496-NL)
+* **Timestamp:** 2026-06-13 19:45:39.
+* **TOS Location State:** Bay Slot 631
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3596
+* **Asset:** Container  (Waybill: WB-38012-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 822
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3597
+* **Asset:** Container  (Waybill: WB-90584-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3598
+* **Asset:** Container  (Waybill: WB-36647-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 313
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3599
+* **Asset:** Container  (Waybill: WB-78102-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 106
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3600
+* **Asset:** Container  (Waybill: WB-60668-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 684
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3601
+* **Asset:** Container  (Waybill: WB-42482-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 568
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3602
+* **Asset:** Container  (Waybill: WB-27942-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 682
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3603
+* **Asset:** Container  (Waybill: WB-90961-NL)
+* **Timestamp:** 2026-06-13 19:45:40.
+* **TOS Location State:** Bay Slot 688
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3604
+* **Asset:** Container  (Waybill: WB-42252-NL)
+* **Timestamp:** 2026-06-13 19:45:41.
+* **TOS Location State:** Bay Slot 640
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3605
+* **Asset:** Container  (Waybill: WB-36581-NL)
+* **Timestamp:** 2026-06-13 19:45:41.
+* **TOS Location State:** Bay Slot 924
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3606
+* **Asset:** Container  (Waybill: WB-94226-NL)
+* **Timestamp:** 2026-06-13 19:45:41.
+* **TOS Location State:** Bay Slot 663
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3607
+* **Asset:** Container  (Waybill: WB-31521-NL)
+* **Timestamp:** 2026-06-13 19:45:41.
+* **TOS Location State:** Bay Slot 556
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3608
+* **Asset:** Container  (Waybill: WB-98151-NL)
+* **Timestamp:** 2026-06-13 19:45:41.
+* **TOS Location State:** Bay Slot 280
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3609
+* **Asset:** Container  (Waybill: WB-96503-NL)
+* **Timestamp:** 2026-06-13 19:45:42.
+* **TOS Location State:** Bay Slot 136
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3610
+* **Asset:** Container  (Waybill: WB-46392-NL)
+* **Timestamp:** 2026-06-13 19:45:42.
+* **TOS Location State:** Bay Slot 451
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3611
+* **Asset:** Container  (Waybill: WB-52691-NL)
+* **Timestamp:** 2026-06-13 19:45:42.
+* **TOS Location State:** Bay Slot 865
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3612
+* **Asset:** Container  (Waybill: WB-15660-NL)
+* **Timestamp:** 2026-06-13 19:45:43.
+* **TOS Location State:** Bay Slot 712
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3613
+* **Asset:** Container  (Waybill: WB-84182-NL)
+* **Timestamp:** 2026-06-13 19:45:43.
+* **TOS Location State:** Bay Slot 397
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3614
+* **Asset:** Container  (Waybill: WB-20919-NL)
+* **Timestamp:** 2026-06-13 19:45:43.
+* **TOS Location State:** Bay Slot 147
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3615
+* **Asset:** Container  (Waybill: WB-19781-NL)
+* **Timestamp:** 2026-06-13 19:45:43.
+* **TOS Location State:** Bay Slot 691
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3616
+* **Asset:** Container  (Waybill: WB-50063-NL)
+* **Timestamp:** 2026-06-13 19:45:43.
+* **TOS Location State:** Bay Slot 837
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3617
+* **Asset:** Container  (Waybill: WB-94886-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 454
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3618
+* **Asset:** Container  (Waybill: WB-98451-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3619
+* **Asset:** Container  (Waybill: WB-63986-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 306
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3620
+* **Asset:** Container  (Waybill: WB-39648-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 907
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3621
+* **Asset:** Container  (Waybill: WB-55740-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 956
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3622
+* **Asset:** Container  (Waybill: WB-61910-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 167
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3623
+* **Asset:** Container  (Waybill: WB-53699-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3624
+* **Asset:** Container  (Waybill: WB-61556-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 157
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3625
+* **Asset:** Container  (Waybill: WB-95939-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 913
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3626
+* **Asset:** Container  (Waybill: WB-78872-NL)
+* **Timestamp:** 2026-06-13 19:45:44.
+* **TOS Location State:** Bay Slot 552
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3627
+* **Asset:** Container  (Waybill: WB-61853-NL)
+* **Timestamp:** 2026-06-13 19:45:45.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3628
+* **Asset:** Container  (Waybill: WB-21819-NL)
+* **Timestamp:** 2026-06-13 19:45:45.
+* **TOS Location State:** Bay Slot 286
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3629
+* **Asset:** Container  (Waybill: WB-50919-NL)
+* **Timestamp:** 2026-06-13 19:45:45.
+* **TOS Location State:** Bay Slot 939
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3630
+* **Asset:** Container  (Waybill: WB-53688-NL)
+* **Timestamp:** 2026-06-13 19:45:45.
+* **TOS Location State:** Bay Slot 214
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3631
+* **Asset:** Container  (Waybill: WB-86729-NL)
+* **Timestamp:** 2026-06-13 19:45:45.
+* **TOS Location State:** Bay Slot 667
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3632
+* **Asset:** Container  (Waybill: WB-29093-NL)
+* **Timestamp:** 2026-06-13 19:45:46.
+* **TOS Location State:** Bay Slot 330
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3633
+* **Asset:** Container  (Waybill: WB-44504-NL)
+* **Timestamp:** 2026-06-13 19:45:46.
+* **TOS Location State:** Bay Slot 568
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3634
+* **Asset:** Container  (Waybill: WB-63434-NL)
+* **Timestamp:** 2026-06-13 19:45:46.
+* **TOS Location State:** Bay Slot 694
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3635
+* **Asset:** Container  (Waybill: WB-20994-NL)
+* **Timestamp:** 2026-06-13 19:45:46.
+* **TOS Location State:** Bay Slot 310
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3636
+* **Asset:** Container  (Waybill: WB-96482-NL)
+* **Timestamp:** 2026-06-13 19:45:47.
+* **TOS Location State:** Bay Slot 451
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3637
+* **Asset:** Container  (Waybill: WB-99009-NL)
+* **Timestamp:** 2026-06-13 19:45:47.
+* **TOS Location State:** Bay Slot 418
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3638
+* **Asset:** Container  (Waybill: WB-70502-NL)
+* **Timestamp:** 2026-06-13 19:45:47.
+* **TOS Location State:** Bay Slot 483
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3639
+* **Asset:** Container  (Waybill: WB-66060-NL)
+* **Timestamp:** 2026-06-13 19:45:47.
+* **TOS Location State:** Bay Slot 494
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3640
+* **Asset:** Container  (Waybill: WB-74164-NL)
+* **Timestamp:** 2026-06-13 19:45:47.
+* **TOS Location State:** Bay Slot 786
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3641
+* **Asset:** Container  (Waybill: WB-41204-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 741
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3642
+* **Asset:** Container  (Waybill: WB-95435-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 256
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3643
+* **Asset:** Container  (Waybill: WB-84171-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 386
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3644
+* **Asset:** Container  (Waybill: WB-77384-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 620
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3645
+* **Asset:** Container  (Waybill: WB-85115-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 316
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3646
+* **Asset:** Container  (Waybill: WB-42341-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 301
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3647
+* **Asset:** Container  (Waybill: WB-17255-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 778
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3648
+* **Asset:** Container  (Waybill: WB-74489-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 307
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3649
+* **Asset:** Container  (Waybill: WB-58065-NL)
+* **Timestamp:** 2026-06-13 19:45:48.
+* **TOS Location State:** Bay Slot 262
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3650
+* **Asset:** Container  (Waybill: WB-70632-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 940
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3651
+* **Asset:** Container  (Waybill: WB-67823-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 272
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3652
+* **Asset:** Container  (Waybill: WB-82832-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 864
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3653
+* **Asset:** Container  (Waybill: WB-64561-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 430
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3654
+* **Asset:** Container  (Waybill: WB-56171-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 408
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3655
+* **Asset:** Container  (Waybill: WB-78876-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 246
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3656
+* **Asset:** Container  (Waybill: WB-11606-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 748
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3657
+* **Asset:** Container  (Waybill: WB-63668-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 967
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3658
+* **Asset:** Container  (Waybill: WB-45464-NL)
+* **Timestamp:** 2026-06-13 19:45:49.
+* **TOS Location State:** Bay Slot 798
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3659
+* **Asset:** Container  (Waybill: WB-57053-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 958
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3660
+* **Asset:** Container  (Waybill: WB-76601-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 409
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3661
+* **Asset:** Container  (Waybill: WB-67616-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 140
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3662
+* **Asset:** Container  (Waybill: WB-20420-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3663
+* **Asset:** Container  (Waybill: WB-13880-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3664
+* **Asset:** Container  (Waybill: WB-67142-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 627
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3665
+* **Asset:** Container  (Waybill: WB-91820-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 752
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3666
+* **Asset:** Container  (Waybill: WB-12195-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 719
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3667
+* **Asset:** Container  (Waybill: WB-69101-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3668
+* **Asset:** Container  (Waybill: WB-30437-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 586
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3669
+* **Asset:** Container  (Waybill: WB-76458-NL)
+* **Timestamp:** 2026-06-13 19:45:50.
+* **TOS Location State:** Bay Slot 921
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3670
+* **Asset:** Container  (Waybill: WB-59424-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 480
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3671
+* **Asset:** Container  (Waybill: WB-63660-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 658
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3672
+* **Asset:** Container  (Waybill: WB-40468-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3673
+* **Asset:** Container  (Waybill: WB-69820-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 313
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3674
+* **Asset:** Container  (Waybill: WB-63840-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 715
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3675
+* **Asset:** Container  (Waybill: WB-97274-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 219
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3676
+* **Asset:** Container  (Waybill: WB-34103-NL)
+* **Timestamp:** 2026-06-13 19:45:51.
+* **TOS Location State:** Bay Slot 984
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3677
+* **Asset:** Container  (Waybill: WB-86544-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3678
+* **Asset:** Container  (Waybill: WB-39709-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 225
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3679
+* **Asset:** Container  (Waybill: WB-41030-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 637
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3680
+* **Asset:** Container  (Waybill: WB-61875-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 328
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3681
+* **Asset:** Container  (Waybill: WB-57908-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 162
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3682
+* **Asset:** Container  (Waybill: WB-60878-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 445
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3683
+* **Asset:** Container  (Waybill: WB-77433-NL)
+* **Timestamp:** 2026-06-13 19:45:52.
+* **TOS Location State:** Bay Slot 638
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3684
+* **Asset:** Container  (Waybill: WB-90054-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 721
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3685
+* **Asset:** Container  (Waybill: WB-45284-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 365
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3686
+* **Asset:** Container  (Waybill: WB-96633-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 505
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3687
+* **Asset:** Container  (Waybill: WB-86067-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3688
+* **Asset:** Container  (Waybill: WB-81052-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 981
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3689
+* **Asset:** Container  (Waybill: WB-21383-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 825
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3690
+* **Asset:** Container  (Waybill: WB-23343-NL)
+* **Timestamp:** 2026-06-13 19:45:53.
+* **TOS Location State:** Bay Slot 203
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3691
+* **Asset:** Container  (Waybill: WB-89185-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 598
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3692
+* **Asset:** Container  (Waybill: WB-61022-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 287
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3693
+* **Asset:** Container  (Waybill: WB-60888-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 223
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3694
+* **Asset:** Container  (Waybill: WB-42989-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 547
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3695
+* **Asset:** Container  (Waybill: WB-27326-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 604
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3696
+* **Asset:** Container  (Waybill: WB-67838-NL)
+* **Timestamp:** 2026-06-13 19:45:54.
+* **TOS Location State:** Bay Slot 454
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3697
+* **Asset:** Container  (Waybill: WB-86801-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 678
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3698
+* **Asset:** Container  (Waybill: WB-62369-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 350
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3699
+* **Asset:** Container  (Waybill: WB-95713-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 805
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3700
+* **Asset:** Container  (Waybill: WB-12413-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3701
+* **Asset:** Container  (Waybill: WB-16708-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 808
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3702
+* **Asset:** Container  (Waybill: WB-50062-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 792
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3703
+* **Asset:** Container  (Waybill: WB-36905-NL)
+* **Timestamp:** 2026-06-13 19:45:55.
+* **TOS Location State:** Bay Slot 462
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3704
+* **Asset:** Container  (Waybill: WB-41094-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 409
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3705
+* **Asset:** Container  (Waybill: WB-55959-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 602
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3706
+* **Asset:** Container  (Waybill: WB-34314-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 535
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3707
+* **Asset:** Container  (Waybill: WB-70397-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 382
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3708
+* **Asset:** Container  (Waybill: WB-23843-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 511
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3709
+* **Asset:** Container  (Waybill: WB-44792-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 549
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3710
+* **Asset:** Container  (Waybill: WB-93275-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 442
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3711
+* **Asset:** Container  (Waybill: WB-40037-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 610
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3712
+* **Asset:** Container  (Waybill: WB-50723-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 125
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3713
+* **Asset:** Container  (Waybill: WB-32230-NL)
+* **Timestamp:** 2026-06-13 19:45:56.
+* **TOS Location State:** Bay Slot 704
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3714
+* **Asset:** Container  (Waybill: WB-97716-NL)
+* **Timestamp:** 2026-06-13 19:45:57.
+* **TOS Location State:** Bay Slot 274
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3715
+* **Asset:** Container  (Waybill: WB-44657-NL)
+* **Timestamp:** 2026-06-13 19:45:57.
+* **TOS Location State:** Bay Slot 245
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3716
+* **Asset:** Container  (Waybill: WB-91674-NL)
+* **Timestamp:** 2026-06-13 19:45:57.
+* **TOS Location State:** Bay Slot 344
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3717
+* **Asset:** Container  (Waybill: WB-51705-NL)
+* **Timestamp:** 2026-06-13 19:45:57.
+* **TOS Location State:** Bay Slot 416
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3718
+* **Asset:** Container  (Waybill: WB-45989-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 616
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3719
+* **Asset:** Container  (Waybill: WB-42515-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 225
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3720
+* **Asset:** Container  (Waybill: WB-99807-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 608
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3721
+* **Asset:** Container  (Waybill: WB-83604-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 850
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3722
+* **Asset:** Container  (Waybill: WB-20768-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 825
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3723
+* **Asset:** Container  (Waybill: WB-92651-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 718
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3724
+* **Asset:** Container  (Waybill: WB-44712-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3725
+* **Asset:** Container  (Waybill: WB-12237-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 343
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3726
+* **Asset:** Container  (Waybill: WB-35483-NL)
+* **Timestamp:** 2026-06-13 19:45:58.
+* **TOS Location State:** Bay Slot 277
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3727
+* **Asset:** Container  (Waybill: WB-46323-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 175
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3728
+* **Asset:** Container  (Waybill: WB-54840-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 257
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3729
+* **Asset:** Container  (Waybill: WB-37634-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 566
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3730
+* **Asset:** Container  (Waybill: WB-60438-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 818
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3731
+* **Asset:** Container  (Waybill: WB-78027-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 905
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3732
+* **Asset:** Container  (Waybill: WB-32028-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 901
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3733
+* **Asset:** Container  (Waybill: WB-35763-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 564
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3734
+* **Asset:** Container  (Waybill: WB-10010-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 444
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3735
+* **Asset:** Container  (Waybill: WB-15431-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 487
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3736
+* **Asset:** Container  (Waybill: WB-89079-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 549
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3737
+* **Asset:** Container  (Waybill: WB-91065-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 530
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3738
+* **Asset:** Container  (Waybill: WB-99887-NL)
+* **Timestamp:** 2026-06-13 19:45:59.
+* **TOS Location State:** Bay Slot 241
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3739
+* **Asset:** Container  (Waybill: WB-36237-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 781
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3740
+* **Asset:** Container  (Waybill: WB-90256-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 117
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3741
+* **Asset:** Container  (Waybill: WB-41909-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 254
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3742
+* **Asset:** Container  (Waybill: WB-62262-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 400
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3743
+* **Asset:** Container  (Waybill: WB-73700-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 618
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3744
+* **Asset:** Container  (Waybill: WB-35873-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 622
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3745
+* **Asset:** Container  (Waybill: WB-22841-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 474
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3746
+* **Asset:** Container  (Waybill: WB-61239-NL)
+* **Timestamp:** 2026-06-13 19:46:00.
+* **TOS Location State:** Bay Slot 259
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3747
+* **Asset:** Container  (Waybill: WB-32699-NL)
+* **Timestamp:** 2026-06-13 19:46:01.
+* **TOS Location State:** Bay Slot 541
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3748
+* **Asset:** Container  (Waybill: WB-71523-NL)
+* **Timestamp:** 2026-06-13 19:46:01.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3749
+* **Asset:** Container  (Waybill: WB-52814-NL)
+* **Timestamp:** 2026-06-13 19:46:01.
+* **TOS Location State:** Bay Slot 904
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3750
+* **Asset:** Container  (Waybill: WB-42719-NL)
+* **Timestamp:** 2026-06-13 19:46:01.
+* **TOS Location State:** Bay Slot 561
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3751
+* **Asset:** Container  (Waybill: WB-50484-NL)
+* **Timestamp:** 2026-06-13 19:46:01.
+* **TOS Location State:** Bay Slot 982
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3752
+* **Asset:** Container  (Waybill: WB-33478-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 687
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3753
+* **Asset:** Container  (Waybill: WB-70049-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 118
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3754
+* **Asset:** Container  (Waybill: WB-41388-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 256
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3755
+* **Asset:** Container  (Waybill: WB-85872-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 924
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3756
+* **Asset:** Container  (Waybill: WB-21029-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 234
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3757
+* **Asset:** Container  (Waybill: WB-91391-NL)
+* **Timestamp:** 2026-06-13 19:46:02.
+* **TOS Location State:** Bay Slot 166
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3758
+* **Asset:** Container  (Waybill: WB-19682-NL)
+* **Timestamp:** 2026-06-13 19:46:03.
+* **TOS Location State:** Bay Slot 190
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3759
+* **Asset:** Container  (Waybill: WB-21714-NL)
+* **Timestamp:** 2026-06-13 19:46:03.
+* **TOS Location State:** Bay Slot 915
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3760
+* **Asset:** Container  (Waybill: WB-57503-NL)
+* **Timestamp:** 2026-06-13 19:46:03.
+* **TOS Location State:** Bay Slot 604
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3761
+* **Asset:** Container  (Waybill: WB-66182-NL)
+* **Timestamp:** 2026-06-13 19:46:03.
+* **TOS Location State:** Bay Slot 855
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3762
+* **Asset:** Container  (Waybill: WB-71826-NL)
+* **Timestamp:** 2026-06-13 19:46:04.
+* **TOS Location State:** Bay Slot 282
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3763
+* **Asset:** Container  (Waybill: WB-70180-NL)
+* **Timestamp:** 2026-06-13 19:46:04.
+* **TOS Location State:** Bay Slot 193
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3764
+* **Asset:** Container  (Waybill: WB-50856-NL)
+* **Timestamp:** 2026-06-13 19:46:04.
+* **TOS Location State:** Bay Slot 309
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3765
+* **Asset:** Container  (Waybill: WB-80090-NL)
+* **Timestamp:** 2026-06-13 19:46:04.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3766
+* **Asset:** Container  (Waybill: WB-75479-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 685
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3767
+* **Asset:** Container  (Waybill: WB-71508-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 829
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3768
+* **Asset:** Container  (Waybill: WB-79506-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 247
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3769
+* **Asset:** Container  (Waybill: WB-81213-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 587
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3770
+* **Asset:** Container  (Waybill: WB-62342-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 655
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3771
+* **Asset:** Container  (Waybill: WB-28499-NL)
+* **Timestamp:** 2026-06-13 19:46:05.
+* **TOS Location State:** Bay Slot 619
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3772
+* **Asset:** Container  (Waybill: WB-41495-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 927
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3773
+* **Asset:** Container  (Waybill: WB-78329-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 136
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3774
+* **Asset:** Container  (Waybill: WB-32288-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 415
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3775
+* **Asset:** Container  (Waybill: WB-19514-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 345
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3776
+* **Asset:** Container  (Waybill: WB-68718-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 407
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3777
+* **Asset:** Container  (Waybill: WB-70505-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 810
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3778
+* **Asset:** Container  (Waybill: WB-10859-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 856
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3779
+* **Asset:** Container  (Waybill: WB-83059-NL)
+* **Timestamp:** 2026-06-13 19:46:06.
+* **TOS Location State:** Bay Slot 833
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3780
+* **Asset:** Container  (Waybill: WB-80165-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 298
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3781
+* **Asset:** Container  (Waybill: WB-58865-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3782
+* **Asset:** Container  (Waybill: WB-81694-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 889
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3783
+* **Asset:** Container  (Waybill: WB-89099-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 897
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3784
+* **Asset:** Container  (Waybill: WB-23009-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 532
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3785
+* **Asset:** Container  (Waybill: WB-33529-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 577
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3786
+* **Asset:** Container  (Waybill: WB-58004-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 817
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3787
+* **Asset:** Container  (Waybill: WB-66161-NL)
+* **Timestamp:** 2026-06-13 19:46:07.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3788
+* **Asset:** Container  (Waybill: WB-42119-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 145
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3789
+* **Asset:** Container  (Waybill: WB-32738-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 838
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3790
+* **Asset:** Container  (Waybill: WB-10903-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 831
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3791
+* **Asset:** Container  (Waybill: WB-63212-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 279
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3792
+* **Asset:** Container  (Waybill: WB-88184-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 568
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3793
+* **Asset:** Container  (Waybill: WB-28029-NL)
+* **Timestamp:** 2026-06-13 19:46:08.
+* **TOS Location State:** Bay Slot 770
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3794
+* **Asset:** Container  (Waybill: WB-65846-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 424
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3795
+* **Asset:** Container  (Waybill: WB-51579-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 194
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3796
+* **Asset:** Container  (Waybill: WB-85988-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 403
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3797
+* **Asset:** Container  (Waybill: WB-47956-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 548
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3798
+* **Asset:** Container  (Waybill: WB-75326-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 965
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3799
+* **Asset:** Container  (Waybill: WB-71327-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 112
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3800
+* **Asset:** Container  (Waybill: WB-57224-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 814
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3801
+* **Asset:** Container  (Waybill: WB-85232-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 870
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3802
+* **Asset:** Container  (Waybill: WB-55341-NL)
+* **Timestamp:** 2026-06-13 19:46:09.
+* **TOS Location State:** Bay Slot 212
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3803
+* **Asset:** Container  (Waybill: WB-38110-NL)
+* **Timestamp:** 2026-06-13 19:46:10.
+* **TOS Location State:** Bay Slot 946
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3804
+* **Asset:** Container  (Waybill: WB-62675-NL)
+* **Timestamp:** 2026-06-13 19:46:10.
+* **TOS Location State:** Bay Slot 467
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3805
+* **Asset:** Container  (Waybill: WB-71803-NL)
+* **Timestamp:** 2026-06-13 19:46:10.
+* **TOS Location State:** Bay Slot 565
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3806
+* **Asset:** Container  (Waybill: WB-47345-NL)
+* **Timestamp:** 2026-06-13 19:46:10.
+* **TOS Location State:** Bay Slot 141
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3807
+* **Asset:** Container  (Waybill: WB-87332-NL)
+* **Timestamp:** 2026-06-13 19:46:10.
+* **TOS Location State:** Bay Slot 734
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3808
+* **Asset:** Container  (Waybill: WB-35715-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 229
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3809
+* **Asset:** Container  (Waybill: WB-19826-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 945
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3810
+* **Asset:** Container  (Waybill: WB-57533-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 708
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3811
+* **Asset:** Container  (Waybill: WB-41840-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 731
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3812
+* **Asset:** Container  (Waybill: WB-65219-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 216
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3813
+* **Asset:** Container  (Waybill: WB-83484-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 595
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3814
+* **Asset:** Container  (Waybill: WB-67292-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 664
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3815
+* **Asset:** Container  (Waybill: WB-91496-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 537
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3816
+* **Asset:** Container  (Waybill: WB-38261-NL)
+* **Timestamp:** 2026-06-13 19:46:11.
+* **TOS Location State:** Bay Slot 778
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3817
+* **Asset:** Container  (Waybill: WB-59489-NL)
+* **Timestamp:** 2026-06-13 19:46:12.
+* **TOS Location State:** Bay Slot 739
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3818
+* **Asset:** Container  (Waybill: WB-32664-NL)
+* **Timestamp:** 2026-06-13 19:46:12.
+* **TOS Location State:** Bay Slot 100
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3819
+* **Asset:** Container  (Waybill: WB-48472-NL)
+* **Timestamp:** 2026-06-13 19:46:12.
+* **TOS Location State:** Bay Slot 766
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3820
+* **Asset:** Container  (Waybill: WB-41602-NL)
+* **Timestamp:** 2026-06-13 19:46:12.
+* **TOS Location State:** Bay Slot 969
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3821
+* **Asset:** Container  (Waybill: WB-74592-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 232
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3822
+* **Asset:** Container  (Waybill: WB-22848-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 682
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3823
+* **Asset:** Container  (Waybill: WB-12786-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 179
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3824
+* **Asset:** Container  (Waybill: WB-31277-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 124
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3825
+* **Asset:** Container  (Waybill: WB-56372-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 871
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3826
+* **Asset:** Container  (Waybill: WB-76071-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 634
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3827
+* **Asset:** Container  (Waybill: WB-85621-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 783
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3828
+* **Asset:** Container  (Waybill: WB-16357-NL)
+* **Timestamp:** 2026-06-13 19:46:13.
+* **TOS Location State:** Bay Slot 700
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3829
+* **Asset:** Container  (Waybill: WB-61121-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 351
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3830
+* **Asset:** Container  (Waybill: WB-22814-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 661
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3831
+* **Asset:** Container  (Waybill: WB-22158-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 652
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3832
+* **Asset:** Container  (Waybill: WB-10479-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 376
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3833
+* **Asset:** Container  (Waybill: WB-46389-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 937
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3834
+* **Asset:** Container  (Waybill: WB-84426-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 191
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3835
+* **Asset:** Container  (Waybill: WB-35171-NL)
+* **Timestamp:** 2026-06-13 19:46:14.
+* **TOS Location State:** Bay Slot 405
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3836
+* **Asset:** Container  (Waybill: WB-79440-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 198
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3837
+* **Asset:** Container  (Waybill: WB-34187-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 933
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3838
+* **Asset:** Container  (Waybill: WB-17099-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 429
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3839
+* **Asset:** Container  (Waybill: WB-88151-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 421
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3840
+* **Asset:** Container  (Waybill: WB-20423-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 769
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3841
+* **Asset:** Container  (Waybill: WB-47415-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 347
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3842
+* **Asset:** Container  (Waybill: WB-77397-NL)
+* **Timestamp:** 2026-06-13 19:46:15.
+* **TOS Location State:** Bay Slot 170
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3843
+* **Asset:** Container  (Waybill: WB-31202-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 346
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3844
+* **Asset:** Container  (Waybill: WB-29901-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 922
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3845
+* **Asset:** Container  (Waybill: WB-30997-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 666
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3846
+* **Asset:** Container  (Waybill: WB-89265-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 268
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3847
+* **Asset:** Container  (Waybill: WB-30740-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 216
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3848
+* **Asset:** Container  (Waybill: WB-10064-NL)
+* **Timestamp:** 2026-06-13 19:46:16.
+* **TOS Location State:** Bay Slot 604
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3849
+* **Asset:** Container  (Waybill: WB-74600-NL)
+* **Timestamp:** 2026-06-13 19:46:17.
+* **TOS Location State:** Bay Slot 649
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3850
+* **Asset:** Container  (Waybill: WB-82698-NL)
+* **Timestamp:** 2026-06-13 19:46:17.
+* **TOS Location State:** Bay Slot 210
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3851
+* **Asset:** Container  (Waybill: WB-97938-NL)
+* **Timestamp:** 2026-06-13 19:46:17.
+* **TOS Location State:** Bay Slot 102
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
+## 🚨 CRITICAL TRANSACTION DRIFT ISOLATED #3852
+* **Asset:** Container  (Waybill: WB-31091-NL)
+* **Timestamp:** 2026-06-13 19:46:18.
+* **TOS Location State:** Bay Slot 826
+* **ERP Registry State:** UNKNOWN (Gateway Timeout)
+* **Action:** WAL Lock Engaged. Automated Crane routing instruction aborted. Fysieke status bevroren op de edge.
+* **Compliance:** NIS2 / DORA Secure Core Status validated.
+---
