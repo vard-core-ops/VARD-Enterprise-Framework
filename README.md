@@ -29,3 +29,7 @@ If $\Delta \neq 0$, the transaction corridor is instantly frozen, triggering an 
 ### 3. Logistics & Transport Corridor (`/corridors/logistics`)
 * **Target Systems:** Terminal Operating Systems (TOS) <-> Enterprise ERP (SAP / Oracle)
 * **Objective:** Preventing physical asset chaos and multi-million cargo misrouting by isolating transaction drift on container release and rail slot states.
+
+### 4. Energy & Utilities Corridor (`/corridors/energy`)
+* **Target Systems:** SCADA / Industrial Control Systems (OT) <-> IT Billing & Allocation Platforms
+* **Objective:** Preventing grid balance fraud and multi-million billing errors during high-voltage telemetry dropouts by freezing allocation-states at the edge.
