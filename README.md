@@ -33,3 +33,7 @@ If $\Delta \neq 0$, the transaction corridor is instantly frozen, triggering an 
 ### 4. Energy & Utilities Corridor (`/corridors/energy`)
 * **Target Systems:** SCADA / Industrial Control Systems (OT) <-> IT Billing & Allocation Platforms
 * **Objective:** Preventing grid balance fraud and multi-million billing errors during high-voltage telemetry dropouts by freezing allocation-states at the edge.
+
+### 5. Government & Public Services Corridor (`/corridors/government`)
+* **Target Systems:** Local Case Management / BRP <-> National Governmental Portals
+* **Objective:** Safeguarding citizen legal status integrity and preventing faulty subsidy distribution during national API congestion through on-premise atomic rollbacks.
